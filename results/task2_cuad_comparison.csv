@@ -1,0 +1,9 @@
+model,AUPR %,P@80%R %,P@90%R %,source,max recall reached %
+BERT-base,32.4,8.2,0.0,"CUAD paper, Table 2 p. 6 (41 categories)",
+RoBERTa-base,42.6,31.1,0.0,"CUAD paper, Table 2 p. 6 (41 categories)",
+RoBERTa-base + Contracts Pretraining,45.2,34.1,0.0,"CUAD paper, Table 2 p. 6 (41 categories)",
+RoBERTa-large,48.2,38.1,0.0,"CUAD paper, Table 2 p. 6 (41 categories)",
+DeBERTa-xlarge (best in paper),47.8,44.0,17.8,"CUAD paper, Table 2 p. 6 (41 categories)",
+TF-IDF segment baseline (ours),40.24361627374326,0.0,0.0,"ours, CUAD-style evaluation (27 categories)",47.91914387633769
+Legal-BERT tagger (ours),52.41431121684029,0.0,0.0,"ours, CUAD-style evaluation (27 categories)",58.14506539833532
+"Legal-BERT tagger, low-threshold candidates (ours, theta_i 0.05)",58.74310416602901,0.0,0.0,"ours, CUAD-style evaluation (27 categories)",69.02497027348394

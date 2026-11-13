@@ -1,0 +1,8 @@
+# Keep line endings of the frozen data files identical on Windows, macOS and Linux
+# (otherwise a checkout with CRLF conversion changes the SHA-256 checksums).
+*.csv text eol=lf
+*.sha256 text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.bat text eol=crlf

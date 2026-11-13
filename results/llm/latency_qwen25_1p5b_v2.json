@@ -1,0 +1,11 @@
+{
+  "model": "qwen25_1p5b",
+  "version": "v2",
+  "n_clauses": 100,
+  "median_ms": 125.56105000021489,
+  "p95_ms": 171.03457499997603,
+  "mean_ms": 122.59307200005424,
+  "peak_gpu_mem_gb_batch1": 3.252383744,
+  "device": "NVIDIA GeForce RTX 5080",
+  "mean_prompt_tokens": 727.74
+}

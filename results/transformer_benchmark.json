@@ -1,0 +1,23 @@
+{
+  "legalbert": {
+    "ms_per_step": 49.04074000005494,
+    "steps_per_epoch": 333,
+    "projected_epoch_seconds": 16.330566420018293,
+    "peak_gpu_mem_gb": 3.587487744,
+    "gpu": "NVIDIA GeForce RTX 5080"
+  },
+  "bert": {
+    "ms_per_step": 48.832340000080876,
+    "steps_per_epoch": 333,
+    "projected_epoch_seconds": 16.261169220026932,
+    "peak_gpu_mem_gb": 3.585456128,
+    "gpu": "NVIDIA GeForce RTX 5080"
+  },
+  "projection": {
+    "runs": 13,
+    "runs_if_class_weights_adopted": 16,
+    "epochs_per_run": 5,
+    "max_length": 320,
+    "projected_total_minutes": 17.69144695501982
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "qwen25_1p5b_v1_validation": {
+    "peak_gpu_mem_gb": 5.214590976,
+    "n_params": 1543714304,
+    "model_id": "Qwen/Qwen2.5-1.5B-Instruct",
+    "batch_size": 32
+  },
+  "qwen25_1p5b_v2_validation": {
+    "peak_gpu_mem_gb": 6.5992192,
+    "n_params": 1543714304,
+    "model_id": "Qwen/Qwen2.5-1.5B-Instruct",
+    "batch_size": 32
+  },
+  "qwen25_1p5b_v3_validation": {
+    "peak_gpu_mem_gb": 6.5992192,
+    "n_params": 1543714304,
+    "model_id": "Qwen/Qwen2.5-1.5B-Instruct",
+    "batch_size": 8
+  },
+  "qwen25_3b_v1_validation": {
+    "peak_gpu_mem_gb": 8.948763648,
+    "n_params": 3085938688,
+    "model_id": "Qwen/Qwen2.5-3B-Instruct",
+    "batch_size": 32
+  },
+  "qwen25_3b_v2_validation": {
+    "peak_gpu_mem_gb": 10.689032704,
+    "n_params": 3085938688,
+    "model_id": "Qwen/Qwen2.5-3B-Instruct",
+    "batch_size": 32
+  },
+  "qwen25_3b_v3_validation": {
+    "peak_gpu_mem_gb": 10.689032704,
+    "n_params": 3085938688,
+    "model_id": "Qwen/Qwen2.5-3B-Instruct",
+    "batch_size": 8
+  },
+  "qwen25_1p5b_v2_validation_constrained": {
+    "seconds": 95.7990477000003,
+    "clauses": 1026
+  },
+  "qwen25_3b_v2_validation_constrained": {
+    "seconds": 169.4363517999991,
+    "clauses": 1026
+  },
+  "qwen25_1p5b_v2_test": {
+    "peak_gpu_mem_gb": 6.988013568,
+    "n_params": 1543714304,
+    "model_id": "Qwen/Qwen2.5-1.5B-Instruct",
+    "batch_size": 32
+  },
+  "qwen25_3b_v2_test": {
+    "peak_gpu_mem_gb": 11.177202688,
+    "n_params": 3085938688,
+    "model_id": "Qwen/Qwen2.5-3B-Instruct",
+    "batch_size": 32
+  },
+  "qwen25_3b_v4_validation": {
+    "peak_gpu_mem_gb": 9.206252544,
+    "n_params": 3085938688,
+    "model_id": "Qwen/Qwen2.5-3B-Instruct",
+    "batch_size": 16,
+    "note": "GPU shared with another job"
+  }
+}

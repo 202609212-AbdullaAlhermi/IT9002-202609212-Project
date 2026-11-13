@@ -1,0 +1,3 @@
+model,decoded spans,CUAD-style AUPR %,P@80%R %,P@90%R %,max recall %,macro-F1 @ IoU0.5 (all spans kept)
+"tagger, tuned operating point (theta_i 0.6)",1391,52.41431121684029,0.0,0.0,58.14506539833532,0.5229689008676477
+"tagger, low-threshold candidates (theta_i 0.05)",3260,58.74310416602901,0.0,0.0,69.02497027348394,0.41000522242230275

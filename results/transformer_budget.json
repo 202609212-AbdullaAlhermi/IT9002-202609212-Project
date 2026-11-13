@@ -1,0 +1,32 @@
+{
+  "legalbert": {
+    "run_id": "legalbert_lr5e-05_s42",
+    "params_million": 109.503003,
+    "best_epoch": 4,
+    "train_seconds_run": 94.25405630000024,
+    "mean_epoch_seconds": 16.82151629999935,
+    "peak_gpu_mem_gb_train": 3.690929152,
+    "model_size_mb": 438.740291,
+    "gpu_test_seconds": 1.4048384000016085,
+    "gpu_clauses_per_second": 1027.8762311724583,
+    "gpu_ms_per_clause": 0.9728797783944657,
+    "cpu_clauses_per_second": 19.30317301986899,
+    "cpu_ms_per_clause": 51.80495450000308,
+    "gpu": "NVIDIA GeForce RTX 5080"
+  },
+  "bert_base": {
+    "run_id": "bert_lr5e-05_s42",
+    "params_million": 109.503003,
+    "best_epoch": 5,
+    "train_seconds_run": 95.0564446999997,
+    "mean_epoch_seconds": 16.948615620000055,
+    "peak_gpu_mem_gb_train": 3.69186304,
+    "model_size_mb": 438.749915,
+    "gpu_test_seconds": 1.2834398999984842,
+    "gpu_clauses_per_second": 1125.101377946646,
+    "gpu_ms_per_clause": 0.8888087950128006,
+    "cpu_clauses_per_second": 20.077161752674545,
+    "cpu_ms_per_clause": 49.80783700000757,
+    "gpu": "NVIDIA GeForce RTX 5080"
+  }
+}

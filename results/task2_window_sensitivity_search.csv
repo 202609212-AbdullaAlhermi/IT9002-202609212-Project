@@ -1,0 +1,2 @@
+run_id,variant,seed,best_epoch,val_macro_f1,val_micro_f1,epochs,windows_with_spans,span_free_windows_sampled,steps_per_epoch,mean_epoch_train_seconds,run_seconds,peak_gpu_mem_gb,recipe
+t2_bce_plain_s42_e8_w384,bce_plain,42,8,0.48496446303625973,0.5210994967092528,8,7033,2405,590,48.894666337499984,459.04230559999996,4.104661504,"{""window"": 384, ""stride"": 192, ""batch_size"": 16, ""lr"": 5e-05, ""epochs"": 8, ""warmup_ratio"": 0.1, ""weight_decay"": 0.01, ""max_grad_norm"": 1.0, ""neg_fraction"": 0.2, ""eval_batch_size"": 64}"

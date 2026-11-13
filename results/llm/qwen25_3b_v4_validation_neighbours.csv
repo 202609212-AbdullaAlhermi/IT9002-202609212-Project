@@ -1,0 +1,1027 @@
+row_id,neighbour_labels
+252,Governing Law|Governing Law|Governing Law
+253,Liquidated Damages|Minimum Commitment|Anti-Assignment
+254,Anti-Assignment|License Grant|Revenue/Profit Sharing
+255,Liquidated Damages|Minimum Commitment|Expiration Date
+256,Revenue/Profit Sharing|Revenue/Profit Sharing|Post-Termination Services
+257,Expiration Date|Post-Termination Services|License Grant
+258,Anti-Assignment|Anti-Assignment|Non-Transferable License
+259,License Grant|Anti-Assignment|Anti-Assignment
+332,Expiration Date|Expiration Date|Expiration Date
+333,Expiration Date|Expiration Date|Expiration Date
+334,Audit Rights|Non-Transferable License|License Grant
+335,Anti-Assignment|Anti-Assignment|Anti-Assignment
+336,Non-Transferable License|Audit Rights|License Grant
+337,Governing Law|Governing Law|Governing Law
+338,Anti-Assignment|Anti-Assignment|Anti-Assignment
+339,Audit Rights|Audit Rights|Audit Rights
+340,Cap On Liability|Cap On Liability|Cap On Liability
+341,Cap On Liability|Cap On Liability|Cap On Liability
+342,Cap On Liability|Cap On Liability|Cap On Liability
+512,Expiration Date|Expiration Date|Expiration Date
+513,Governing Law|Governing Law|Governing Law
+514,Anti-Assignment|Anti-Assignment|Non-Disparagement
+515,Minimum Commitment|Liquidated Damages|Cap On Liability
+516,Expiration Date|Expiration Date|Termination For Convenience
+517,Anti-Assignment|Anti-Assignment|Anti-Assignment
+518,Joint Ip Ownership|Post-Termination Services|Post-Termination Services
+519,Cap On Liability|Cap On Liability|Cap On Liability
+520,Cap On Liability|Cap On Liability|Audit Rights
+521,Revenue/Profit Sharing|Ip Ownership Assignment|License Grant
+522,Liquidated Damages|Liquidated Damages|Liquidated Damages
+523,Liquidated Damages|Liquidated Damages|Liquidated Damages
+524,Liquidated Damages|Cap On Liability|Cap On Liability
+525,Liquidated Damages|Cap On Liability|Liquidated Damages
+526,Liquidated Damages|Liquidated Damages|Liquidated Damages
+527,Cap On Liability|Anti-Assignment|Liquidated Damages
+528,Non-Compete|Liquidated Damages|Non-Compete
+529,Cap On Liability|Cap On Liability|Cap On Liability
+530,Liquidated Damages|Cap On Liability|Anti-Assignment
+531,Expiration Date|Expiration Date|Expiration Date
+532,Renewal Term|Renewal Term|Renewal Term
+533,Governing Law|Governing Law|Governing Law
+534,Termination For Convenience|Termination For Convenience|Termination For Convenience
+535,Anti-Assignment|Anti-Assignment|Anti-Assignment
+536,Change Of Control|Anti-Assignment|Anti-Assignment
+537,Minimum Commitment|Minimum Commitment|Minimum Commitment
+538,Minimum Commitment|Renewal Term|Minimum Commitment
+539,Expiration Date|Post-Termination Services|Expiration Date
+540,Cap On Liability|Cap On Liability|Cap On Liability
+541,Cap On Liability|Cap On Liability|Cap On Liability
+708,Expiration Date|Expiration Date|Expiration Date
+709,Renewal Term|Renewal Term|Renewal Term
+710,Governing Law|Governing Law|Governing Law
+711,Change Of Control|Change Of Control|Change Of Control
+712,Anti-Assignment|Anti-Assignment|Anti-Assignment
+713,Anti-Assignment|Anti-Assignment|Anti-Assignment
+714,Revenue/Profit Sharing|Rofr/Rofo/Rofn|Revenue/Profit Sharing
+715,Revenue/Profit Sharing|Post-Termination Services|Revenue/Profit Sharing
+716,Revenue/Profit Sharing|Post-Termination Services|Revenue/Profit Sharing
+717,Post-Termination Services|Post-Termination Services|Post-Termination Services
+718,Audit Rights|Revenue/Profit Sharing|Insurance
+719,Audit Rights|Audit Rights|Audit Rights
+720,Audit Rights|Audit Rights|Insurance
+721,Audit Rights|Audit Rights|Post-Termination Services
+722,Cap On Liability|Cap On Liability|Cap On Liability
+723,Cap On Liability|Cap On Liability|Cap On Liability
+724,Liquidated Damages|Liquidated Damages|Liquidated Damages
+725,Audit Rights|Audit Rights|Warranty Duration
+795,Expiration Date|Expiration Date|Expiration Date
+796,Expiration Date|Joint Ip Ownership|Expiration Date
+797,Governing Law|Governing Law|Governing Law
+798,Change Of Control|Change Of Control|Change Of Control
+799,Change Of Control|Change Of Control|Change Of Control
+800,Anti-Assignment|Anti-Assignment|Anti-Assignment
+801,Anti-Assignment|Anti-Assignment|Anti-Assignment
+802,Expiration Date|Post-Termination Services|Expiration Date
+803,Post-Termination Services|Post-Termination Services|Expiration Date
+804,Post-Termination Services|Expiration Date|Audit Rights
+805,Expiration Date|Post-Termination Services|Covenant Not To Sue
+806,Audit Rights|Audit Rights|Audit Rights
+807,License Grant|Expiration Date|Audit Rights
+808,Expiration Date|Cap On Liability|Cap On Liability
+809,Expiration Date|Expiration Date|Expiration Date
+810,Renewal Term|Expiration Date|Renewal Term
+811,Governing Law|Governing Law|Governing Law
+812,Exclusivity|Expiration Date|Exclusivity
+813,Termination For Convenience|Termination For Convenience|Termination For Convenience
+814,Anti-Assignment|Anti-Assignment|Anti-Assignment
+815,Anti-Assignment|Anti-Assignment|Anti-Assignment
+816,Minimum Commitment|Minimum Commitment|Volume Restriction
+817,Minimum Commitment|Minimum Commitment|Warranty Duration
+818,Minimum Commitment|Volume Restriction|Minimum Commitment
+819,Minimum Commitment|Post-Termination Services|Insurance
+820,Minimum Commitment|Post-Termination Services|Covenant Not To Sue
+821,Volume Restriction|Minimum Commitment|Minimum Commitment
+822,Post-Termination Services|Post-Termination Services|Post-Termination Services
+823,Audit Rights|Audit Rights|Audit Rights
+824,Insurance|Audit Rights|Insurance
+825,Audit Rights|Audit Rights|Audit Rights
+826,Audit Rights|Audit Rights|Audit Rights
+827,Cap On Liability|Cap On Liability|Cap On Liability
+828,Warranty Duration|Warranty Duration|Warranty Duration
+829,Insurance|Insurance|Insurance
+846,Governing Law|Governing Law|Governing Law
+847,Non-Compete|Non-Compete|Post-Termination Services
+848,Non-Compete|Non-Compete|License Grant
+849,Exclusivity|Post-Termination Services|Post-Termination Services
+850,Exclusivity|Anti-Assignment|Competitive Restriction Exception
+851,No-Solicit Of Employees|No-Solicit Of Employees|No-Solicit Of Employees
+852,No-Solicit Of Employees|No-Solicit Of Employees|No-Solicit Of Employees
+853,No-Solicit Of Employees|Rofr/Rofo/Rofn|Rofr/Rofo/Rofn
+854,Anti-Assignment|Anti-Assignment|Anti-Assignment
+855,Minimum Commitment|Anti-Assignment|No-Solicit Of Employees
+856,Post-Termination Services|Exclusivity|Audit Rights
+857,Exclusivity|Ip Ownership Assignment|Ip Ownership Assignment
+858,Exclusivity|License Grant|Minimum Commitment
+859,Revenue/Profit Sharing|Revenue/Profit Sharing|Exclusivity
+860,Post-Termination Services|Post-Termination Services|Post-Termination Services
+861,Minimum Commitment|Expiration Date|Post-Termination Services
+862,Minimum Commitment|Post-Termination Services|Expiration Date
+863,Exclusivity|Cap On Liability|Cap On Liability
+864,Cap On Liability|Cap On Liability|Cap On Liability
+865,Cap On Liability|Cap On Liability|Cap On Liability
+866,Cap On Liability|Cap On Liability|Cap On Liability
+867,Exclusivity|Cap On Liability|Cap On Liability
+868,Exclusivity|Rofr/Rofo/Rofn|Exclusivity
+869,Warranty Duration|Warranty Duration|Warranty Duration
+870,Termination For Convenience|Warranty Duration|Termination For Convenience
+871,Warranty Duration|Warranty Duration|Governing Law
+872,Insurance|Insurance|Insurance
+873,Insurance|No-Solicit Of Employees|Insurance
+874,Insurance|Insurance|Insurance
+875,Covenant Not To Sue|Covenant Not To Sue|Covenant Not To Sue
+876,Minimum Commitment|Cap On Liability|Cap On Liability
+906,Covenant Not To Sue|Exclusivity|Governing Law
+1082,Expiration Date|Expiration Date|Expiration Date
+1083,Governing Law|Governing Law|Governing Law
+1084,Termination For Convenience|Termination For Convenience|Termination For Convenience
+1085,Anti-Assignment|Anti-Assignment|Anti-Assignment
+1086,Ip Ownership Assignment|Anti-Assignment|Revenue/Profit Sharing
+1087,Ip Ownership Assignment|Ip Ownership Assignment|Ip Ownership Assignment
+1088,Ip Ownership Assignment|Revenue/Profit Sharing|Ip Ownership Assignment
+1209,Expiration Date|Expiration Date|Expiration Date
+1210,Governing Law|Governing Law|Governing Law
+1211,Expiration Date|Ip Ownership Assignment|Revenue/Profit Sharing
+1212,License Grant|Anti-Assignment|Governing Law
+1213,Termination For Convenience|Renewal Term|Renewal Term
+1214,Expiration Date|Non-Compete|Post-Termination Services
+1215,Expiration Date|Expiration Date|Expiration Date
+1216,Change Of Control|Change Of Control|Change Of Control
+1217,Anti-Assignment|Anti-Assignment|Anti-Assignment
+1218,Anti-Assignment|Anti-Assignment|Anti-Assignment
+1219,Exclusivity|License Grant|License Grant
+1220,License Grant|Joint Ip Ownership|Cap On Liability
+1221,License Grant|License Grant|License Grant
+1222,License Grant|Exclusivity|License Grant
+1223,License Grant|License Grant|Exclusivity
+1224,License Grant|Non-Transferable License|License Grant
+1225,Non-Transferable License|License Grant|Non-Transferable License
+1226,Cap On Liability|Cap On Liability|Cap On Liability
+1227,Insurance|Insurance|Insurance
+1228,Insurance|Insurance|Insurance
+1229,Covenant Not To Sue|Covenant Not To Sue|Covenant Not To Sue
+1301,Exclusivity|Exclusivity|Joint Ip Ownership
+1505,Expiration Date|Expiration Date|Expiration Date
+1506,Governing Law|Governing Law|Governing Law
+1507,License Grant|Non-Compete|Non-Compete
+1508,Non-Compete|Non-Compete|Non-Compete
+1509,License Grant|License Grant|License Grant
+1510,Termination For Convenience|Termination For Convenience|Termination For Convenience
+1511,Termination For Convenience|Audit Rights|Anti-Assignment
+1512,Rofr/Rofo/Rofn|Joint Ip Ownership|Ip Ownership Assignment
+1513,Joint Ip Ownership|Joint Ip Ownership|Joint Ip Ownership
+1514,Anti-Assignment|Change Of Control|Anti-Assignment
+1515,Anti-Assignment|Anti-Assignment|Anti-Assignment
+1516,Revenue/Profit Sharing|Revenue/Profit Sharing|Revenue/Profit Sharing
+1517,Revenue/Profit Sharing|Revenue/Profit Sharing|Revenue/Profit Sharing
+1518,Revenue/Profit Sharing|Revenue/Profit Sharing|Revenue/Profit Sharing
+1519,Revenue/Profit Sharing|Revenue/Profit Sharing|Revenue/Profit Sharing
+1520,Revenue/Profit Sharing|Expiration Date|Expiration Date
+1521,Revenue/Profit Sharing|Revenue/Profit Sharing|Revenue/Profit Sharing
+1522,Revenue/Profit Sharing|Revenue/Profit Sharing|Revenue/Profit Sharing
+1523,Ip Ownership Assignment|License Grant|Post-Termination Services
+1524,Ip Ownership Assignment|Ip Ownership Assignment|Audit Rights
+1525,License Grant|Ip Ownership Assignment|Post-Termination Services
+1526,Audit Rights|Anti-Assignment|Anti-Assignment
+1527,Joint Ip Ownership|Joint Ip Ownership|Joint Ip Ownership
+1528,License Grant|License Grant|Non-Compete
+1529,License Grant|License Grant|License Grant
+1530,No-Solicit Of Employees|Covenant Not To Sue|No-Solicit Of Employees
+1531,Expiration Date|License Grant|License Grant
+1532,Expiration Date|Post-Termination Services|Renewal Term
+1533,Post-Termination Services|Post-Termination Services|Expiration Date
+1534,Audit Rights|Audit Rights|Audit Rights
+1535,Audit Rights|Ip Ownership Assignment|Audit Rights
+1536,Audit Rights|Audit Rights|Audit Rights
+1537,Audit Rights|Audit Rights|Audit Rights
+1538,Audit Rights|Audit Rights|Audit Rights
+1539,Cap On Liability|Cap On Liability|Cap On Liability
+1540,Cap On Liability|Cap On Liability|Cap On Liability
+1541,Insurance|Insurance|Insurance
+1542,Insurance|Insurance|Insurance
+1609,Expiration Date|Expiration Date|Expiration Date
+1610,Expiration Date|Renewal Term|Renewal Term
+1611,Renewal Term|Renewal Term|Renewal Term
+1612,Governing Law|Governing Law|Governing Law
+1613,Termination For Convenience|Termination For Convenience|Termination For Convenience
+1614,Anti-Assignment|Anti-Assignment|Anti-Assignment
+1615,Anti-Assignment|Anti-Assignment|Anti-Assignment
+1616,Cap On Liability|Revenue/Profit Sharing|Audit Rights
+1617,Post-Termination Services|Post-Termination Services|Post-Termination Services
+1618,Minimum Commitment|Exclusivity|Audit Rights
+1619,Liquidated Damages|Minimum Commitment|Cap On Liability
+1620,Competitive Restriction Exception|Liquidated Damages|Minimum Commitment
+1621,Minimum Commitment|Minimum Commitment|Minimum Commitment
+1622,Exclusivity|Minimum Commitment|Expiration Date
+1623,Insurance|Minimum Commitment|Minimum Commitment
+1624,Minimum Commitment|Minimum Commitment|Minimum Commitment
+1625,Audit Rights|Cap On Liability|Minimum Commitment
+1626,Cap On Liability|Minimum Commitment|Minimum Commitment
+1627,Minimum Commitment|Minimum Commitment|Minimum Commitment
+1628,Minimum Commitment|Minimum Commitment|Minimum Commitment
+1629,Minimum Commitment|Post-Termination Services|Warranty Duration
+1630,License Grant|License Grant|License Grant
+1631,Anti-Assignment|Non-Transferable License|Anti-Assignment
+1632,License Grant|Exclusivity|Non-Transferable License
+1633,Anti-Assignment|Cap On Liability|Revenue/Profit Sharing
+1634,Exclusivity|Exclusivity|Expiration Date
+1635,License Grant|License Grant|Anti-Assignment
+1636,Anti-Assignment|Anti-Assignment|Anti-Assignment
+1637,License Grant|License Grant|Anti-Assignment
+1638,Revenue/Profit Sharing|Non-Disparagement|Rofr/Rofo/Rofn
+1639,Audit Rights|Audit Rights|Audit Rights
+1640,Audit Rights|Audit Rights|Audit Rights
+1641,Audit Rights|Audit Rights|Audit Rights
+1642,Cap On Liability|Cap On Liability|Cap On Liability
+1643,Cap On Liability|Cap On Liability|Cap On Liability
+1644,Cap On Liability|Cap On Liability|Cap On Liability
+1645,Cap On Liability|Cap On Liability|Cap On Liability
+1646,Cap On Liability|Cap On Liability|Cap On Liability
+1647,Cap On Liability|Cap On Liability|Cap On Liability
+1648,Cap On Liability|Cap On Liability|Cap On Liability
+1649,Cap On Liability|Warranty Duration|Warranty Duration
+1650,Warranty Duration|Warranty Duration|Warranty Duration
+1651,Warranty Duration|Warranty Duration|Expiration Date
+1652,Warranty Duration|Warranty Duration|Warranty Duration
+1653,Audit Rights|Audit Rights|Exclusivity
+1654,Insurance|Insurance|Insurance
+1655,Insurance|Insurance|Insurance
+1656,Insurance|Insurance|Insurance
+1657,Insurance|Insurance|Insurance
+1776,Non-Transferable License|Post-Termination Services|Termination For Convenience
+1777,Governing Law|Governing Law|Governing Law
+1778,Non-Disparagement|Non-Disparagement|Non-Disparagement
+1779,Anti-Assignment|Anti-Assignment|Anti-Assignment
+2157,Governing Law|Governing Law|Governing Law
+2158,Anti-Assignment|Post-Termination Services|Expiration Date
+2159,Non-Compete|Non-Compete|No-Solicit Of Employees
+2160,Rofr/Rofo/Rofn|Post-Termination Services|Rofr/Rofo/Rofn
+2161,License Grant|Rofr/Rofo/Rofn|Non-Compete
+2162,Rofr/Rofo/Rofn|License Grant|Rofr/Rofo/Rofn
+2163,Rofr/Rofo/Rofn|Post-Termination Services|Rofr/Rofo/Rofn
+2164,Anti-Assignment|Anti-Assignment|Exclusivity
+2165,Governing Law|Anti-Assignment|Governing Law
+2166,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Rofr/Rofo/Rofn
+2167,Anti-Assignment|No-Solicit Of Employees|Post-Termination Services
+2168,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Rofr/Rofo/Rofn
+2169,Anti-Assignment|Anti-Assignment|Anti-Assignment
+2170,Audit Rights|Liquidated Damages|Expiration Date
+2171,Minimum Commitment|License Grant|Audit Rights
+2172,Anti-Assignment|Anti-Assignment|Anti-Assignment
+2173,Audit Rights|Audit Rights|Termination For Convenience
+2184,Expiration Date|Expiration Date|Expiration Date
+2185,Governing Law|Governing Law|Governing Law
+2186,Non-Compete|Expiration Date|Non-Compete
+2187,Termination For Convenience|Termination For Convenience|Termination For Convenience
+2188,Anti-Assignment|Change Of Control|Anti-Assignment
+2189,Anti-Assignment|Anti-Assignment|Anti-Assignment
+2190,Revenue/Profit Sharing|Revenue/Profit Sharing|Revenue/Profit Sharing
+2191,Revenue/Profit Sharing|Renewal Term|Post-Termination Services
+2192,Minimum Commitment|Minimum Commitment|Revenue/Profit Sharing
+2193,Non-Compete|Expiration Date|Non-Compete
+2194,License Grant|License Grant|No-Solicit Of Employees
+2195,Revenue/Profit Sharing|Revenue/Profit Sharing|Revenue/Profit Sharing
+2196,Post-Termination Services|Termination For Convenience|Termination For Convenience
+2197,Post-Termination Services|Rofr/Rofo/Rofn|Post-Termination Services
+2198,Audit Rights|Audit Rights|Audit Rights
+2199,Cap On Liability|Cap On Liability|Cap On Liability
+2200,Insurance|Insurance|Insurance
+2201,Insurance|Insurance|Insurance
+2364,Expiration Date|Expiration Date|Expiration Date
+2365,Governing Law|Governing Law|Governing Law
+2366,Termination For Convenience|Termination For Convenience|Termination For Convenience
+2367,Anti-Assignment|Anti-Assignment|Anti-Assignment
+2368,Ip Ownership Assignment|Ip Ownership Assignment|Cap On Liability
+2369,License Grant|License Grant|License Grant
+2370,Governing Law|Governing Law|Expiration Date
+2371,Anti-Assignment|Anti-Assignment|Competitive Restriction Exception
+2372,Joint Ip Ownership|Joint Ip Ownership|Anti-Assignment
+2458,Expiration Date|Change Of Control|Anti-Assignment
+2459,Termination For Convenience|Termination For Convenience|Termination For Convenience
+2460,Anti-Assignment|Anti-Assignment|Anti-Assignment
+2461,Anti-Assignment|Anti-Assignment|Anti-Assignment
+2462,Anti-Assignment|Termination For Convenience|Expiration Date
+2463,Anti-Assignment|Anti-Assignment|Anti-Assignment
+2464,Post-Termination Services|Change Of Control|License Grant
+2465,Expiration Date|Expiration Date|Expiration Date
+2466,Renewal Term|Renewal Term|Renewal Term
+2467,Governing Law|Governing Law|Governing Law
+2468,Post-Termination Services|Non-Compete|Non-Compete
+2469,Exclusivity|License Grant|License Grant
+2470,Non-Compete|Exclusivity|Exclusivity
+2471,Termination For Convenience|Termination For Convenience|Termination For Convenience
+2472,Change Of Control|Change Of Control|Change Of Control
+2473,Minimum Commitment|Termination For Convenience|License Grant
+2474,Post-Termination Services|Minimum Commitment|Minimum Commitment
+2475,License Grant|License Grant|License Grant
+2476,Cap On Liability|Minimum Commitment|Cap On Liability
+2477,Cap On Liability|Cap On Liability|Cap On Liability
+2478,Cap On Liability|Cap On Liability|Cap On Liability
+2479,Cap On Liability|Cap On Liability|Cap On Liability
+2480,Termination For Convenience|Post-Termination Services|Change Of Control
+2481,Renewal Term|Renewal Term|Renewal Term
+2482,Governing Law|Governing Law|Governing Law
+2483,Governing Law|Governing Law|Rofr/Rofo/Rofn
+2484,Volume Restriction|Competitive Restriction Exception|Termination For Convenience
+2485,Termination For Convenience|Termination For Convenience|Termination For Convenience
+2486,Termination For Convenience|License Grant|License Grant
+2487,Volume Restriction|Post-Termination Services|Non-Disparagement
+2488,License Grant|Covenant Not To Sue|Change Of Control
+2489,Insurance|Insurance|Audit Rights
+2490,Insurance|Anti-Assignment|Competitive Restriction Exception
+2491,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Rofr/Rofo/Rofn
+2492,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Rofr/Rofo/Rofn
+2493,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Rofr/Rofo/Rofn
+2494,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Rofr/Rofo/Rofn
+2495,Anti-Assignment|Anti-Assignment|Anti-Assignment
+2496,Non-Disparagement|Covenant Not To Sue|Post-Termination Services
+2497,Revenue/Profit Sharing|Audit Rights|Audit Rights
+2498,Liquidated Damages|Post-Termination Services|Expiration Date
+2549,Governing Law|Governing Law|Governing Law
+2550,Termination For Convenience|Termination For Convenience|Minimum Commitment
+2551,Anti-Assignment|Anti-Assignment|Governing Law
+2596,Termination For Convenience|Termination For Convenience|Post-Termination Services
+2597,Expiration Date|Expiration Date|Expiration Date
+2598,Governing Law|Governing Law|Governing Law
+2599,Non-Compete|License Grant|Non-Compete
+2600,Exclusivity|Exclusivity|Exclusivity
+2601,Change Of Control|Change Of Control|Change Of Control
+2602,Change Of Control|Change Of Control|Change Of Control
+2603,Change Of Control|Anti-Assignment|Anti-Assignment
+2604,Anti-Assignment|Anti-Assignment|Non-Transferable License
+2605,Post-Termination Services|Post-Termination Services|Ip Ownership Assignment
+2606,Liquidated Damages|Joint Ip Ownership|Anti-Assignment
+2607,Post-Termination Services|Post-Termination Services|Ip Ownership Assignment
+2608,Joint Ip Ownership|Joint Ip Ownership|Ip Ownership Assignment
+2609,Joint Ip Ownership|Covenant Not To Sue|Joint Ip Ownership
+2610,Revenue/Profit Sharing|Joint Ip Ownership|Joint Ip Ownership
+2611,Joint Ip Ownership|Joint Ip Ownership|License Grant
+2612,Joint Ip Ownership|Joint Ip Ownership|Joint Ip Ownership
+2613,Joint Ip Ownership|Covenant Not To Sue|Joint Ip Ownership
+2614,Joint Ip Ownership|Audit Rights|Insurance
+2615,Joint Ip Ownership|Joint Ip Ownership|Covenant Not To Sue
+2616,Joint Ip Ownership|Joint Ip Ownership|Joint Ip Ownership
+2617,Joint Ip Ownership|Joint Ip Ownership|Governing Law
+2618,Minimum Commitment|Minimum Commitment|Cap On Liability
+2619,License Grant|License Grant|License Grant
+2620,Non-Transferable License|License Grant|License Grant
+2621,License Grant|License Grant|Anti-Assignment
+2622,Non-Transferable License|License Grant|License Grant
+2623,License Grant|License Grant|License Grant
+2624,Liquidated Damages|Anti-Assignment|Post-Termination Services
+2625,Insurance|Exclusivity|Cap On Liability
+2626,Expiration Date|Expiration Date|Post-Termination Services
+2627,Audit Rights|Audit Rights|Insurance
+2628,Audit Rights|Audit Rights|Audit Rights
+2629,Insurance|Audit Rights|Audit Rights
+2630,Cap On Liability|Cap On Liability|Cap On Liability
+2631,Covenant Not To Sue|Covenant Not To Sue|Covenant Not To Sue
+2632,Covenant Not To Sue|Covenant Not To Sue|Covenant Not To Sue
+2685,Expiration Date|Expiration Date|Expiration Date
+2686,Governing Law|Governing Law|Governing Law
+2687,Exclusivity|Non-Compete|Non-Compete
+2688,License Grant|License Grant|License Grant
+2689,Anti-Assignment|Anti-Assignment|Anti-Assignment
+2690,No-Solicit Of Employees|No-Solicit Of Employees|No-Solicit Of Employees
+2691,No-Solicit Of Employees|No-Solicit Of Employees|No-Solicit Of Employees
+2692,Rofr/Rofo/Rofn|Change Of Control|Anti-Assignment
+2693,Anti-Assignment|Change Of Control|Change Of Control
+2694,Change Of Control|Change Of Control|Change Of Control
+2695,Change Of Control|Change Of Control|Change Of Control
+2696,Change Of Control|Ip Ownership Assignment|Joint Ip Ownership
+2697,Termination For Convenience|Termination For Convenience|Change Of Control
+2698,Anti-Assignment|Anti-Assignment|Anti-Assignment
+2699,Anti-Assignment|Anti-Assignment|Anti-Assignment
+2700,Anti-Assignment|Anti-Assignment|Anti-Assignment
+2701,Exclusivity|Revenue/Profit Sharing|Revenue/Profit Sharing
+2702,Minimum Commitment|Minimum Commitment|Cap On Liability
+2703,Cap On Liability|Revenue/Profit Sharing|Minimum Commitment
+2704,Ip Ownership Assignment|Ip Ownership Assignment|Insurance
+2705,Expiration Date|Cap On Liability|Cap On Liability
+2706,Ip Ownership Assignment|Ip Ownership Assignment|Joint Ip Ownership
+2707,Joint Ip Ownership|Ip Ownership Assignment|Anti-Assignment
+2708,Ip Ownership Assignment|Ip Ownership Assignment|Anti-Assignment
+2709,Cap On Liability|Anti-Assignment|Anti-Assignment
+2710,Ip Ownership Assignment|Ip Ownership Assignment|Ip Ownership Assignment
+2711,Termination For Convenience|Anti-Assignment|Termination For Convenience
+2712,Ip Ownership Assignment|Ip Ownership Assignment|Ip Ownership Assignment
+2713,Joint Ip Ownership|Insurance|Joint Ip Ownership
+2714,Audit Rights|License Grant|Ip Ownership Assignment
+2715,Rofr/Rofo/Rofn|License Grant|License Grant
+2716,Expiration Date|Expiration Date|Audit Rights
+2717,License Grant|Termination For Convenience|Joint Ip Ownership
+2718,Audit Rights|Termination For Convenience|Revenue/Profit Sharing
+2719,Expiration Date|Termination For Convenience|Audit Rights
+2720,Cap On Liability|Cap On Liability|Anti-Assignment
+2721,Post-Termination Services|Post-Termination Services|Post-Termination Services
+2722,Cap On Liability|Audit Rights|Cap On Liability
+2723,Joint Ip Ownership|Expiration Date|Termination For Convenience
+2724,Audit Rights|Expiration Date|License Grant
+2725,Audit Rights|Cap On Liability|Expiration Date
+2726,Cap On Liability|Audit Rights|Minimum Commitment
+2727,License Grant|Expiration Date|Expiration Date
+2728,Cap On Liability|Joint Ip Ownership|Anti-Assignment
+2729,Post-Termination Services|Anti-Assignment|Anti-Assignment
+2730,Audit Rights|Cap On Liability|Expiration Date
+2731,Revenue/Profit Sharing|Revenue/Profit Sharing|License Grant
+2732,Audit Rights|Cap On Liability|Cap On Liability
+2733,Post-Termination Services|Post-Termination Services|Post-Termination Services
+2734,Cap On Liability|Cap On Liability|Joint Ip Ownership
+2735,Joint Ip Ownership|Anti-Assignment|Anti-Assignment
+2736,Non-Disparagement|Audit Rights|Termination For Convenience
+2737,Audit Rights|Audit Rights|Audit Rights
+2738,Audit Rights|Audit Rights|Audit Rights
+2739,Cap On Liability|Cap On Liability|Cap On Liability
+2740,Cap On Liability|Cap On Liability|Cap On Liability
+2741,Cap On Liability|Cap On Liability|Cap On Liability
+2742,Cap On Liability|Cap On Liability|Joint Ip Ownership
+2743,Post-Termination Services|Insurance|Post-Termination Services
+2744,Insurance|Insurance|Insurance
+2745,Insurance|Insurance|Insurance
+2746,Rofr/Rofo/Rofn|Expiration Date|Audit Rights
+2747,Insurance|Expiration Date|Expiration Date
+2748,Insurance|Minimum Commitment|Insurance
+2749,Insurance|Insurance|Insurance
+2750,Insurance|Insurance|Insurance
+2751,Post-Termination Services|Post-Termination Services|Post-Termination Services
+2752,Insurance|Insurance|Insurance
+2753,Insurance|Rofr/Rofo/Rofn|Post-Termination Services
+2754,Insurance|Insurance|Insurance
+2755,Insurance|Insurance|Insurance
+2756,Post-Termination Services|Rofr/Rofo/Rofn|Insurance
+3085,Governing Law|Governing Law|Governing Law
+3086,Anti-Assignment|Anti-Assignment|Anti-Assignment
+3087,Exclusivity|Exclusivity|License Grant
+3088,Expiration Date|Expiration Date|Expiration Date
+3089,Renewal Term|Renewal Term|Termination For Convenience
+3090,Governing Law|Governing Law|Governing Law
+3091,Expiration Date|Post-Termination Services|Warranty Duration
+3092,Termination For Convenience|Termination For Convenience|Joint Ip Ownership
+3093,Expiration Date|Revenue/Profit Sharing|Warranty Duration
+3094,Anti-Assignment|Anti-Assignment|Anti-Assignment
+3095,Renewal Term|Post-Termination Services|Termination For Convenience
+3096,Post-Termination Services|Post-Termination Services|Revenue/Profit Sharing
+3097,Ip Ownership Assignment|Non-Compete|Termination For Convenience
+3098,License Grant|Post-Termination Services|License Grant
+3099,Audit Rights|Audit Rights|Audit Rights
+3100,Cap On Liability|Cap On Liability|Cap On Liability
+3101,Cap On Liability|Cap On Liability|Cap On Liability
+3102,Warranty Duration|Warranty Duration|Warranty Duration
+3174,Expiration Date|Expiration Date|Expiration Date
+3175,Governing Law|Governing Law|Governing Law
+3176,Termination For Convenience|Termination For Convenience|Termination For Convenience
+3177,Anti-Assignment|Anti-Assignment|Anti-Assignment
+3178,Anti-Assignment|Anti-Assignment|Anti-Assignment
+3179,License Grant|License Grant|License Grant
+3180,Audit Rights|Audit Rights|Audit Rights
+3181,Audit Rights|Audit Rights|Audit Rights
+3182,Revenue/Profit Sharing|Liquidated Damages|Anti-Assignment
+3183,Audit Rights|Audit Rights|Audit Rights
+3184,Audit Rights|Audit Rights|Audit Rights
+3185,Audit Rights|Audit Rights|Audit Rights
+3186,Audit Rights|Audit Rights|Audit Rights
+3187,Cap On Liability|Cap On Liability|Cap On Liability
+3188,Cap On Liability|Cap On Liability|Cap On Liability
+3189,Anti-Assignment|Cap On Liability|Cap On Liability
+3190,Insurance|Insurance|Insurance
+3270,Expiration Date|Expiration Date|Expiration Date
+3271,Rofr/Rofo/Rofn|Cap On Liability|Post-Termination Services
+3272,Minimum Commitment|Non-Transferable License|Revenue/Profit Sharing
+3273,Insurance|Audit Rights|Audit Rights
+3274,Insurance|Audit Rights|Liquidated Damages
+3275,Minimum Commitment|Expiration Date|Audit Rights
+3276,Minimum Commitment|Revenue/Profit Sharing|Revenue/Profit Sharing
+3327,Governing Law|Governing Law|Governing Law
+3328,Termination For Convenience|Termination For Convenience|Termination For Convenience
+3329,Minimum Commitment|Expiration Date|Change Of Control
+3330,Termination For Convenience|Audit Rights|Audit Rights
+3331,Cap On Liability|Cap On Liability|Cap On Liability
+3332,Anti-Assignment|Minimum Commitment|Expiration Date
+3333,Expiration Date|Expiration Date|Expiration Date
+3334,Governing Law|Governing Law|Governing Law
+3335,Exclusivity|Expiration Date|Competitive Restriction Exception
+3336,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Rofr/Rofo/Rofn
+3337,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Rofr/Rofo/Rofn
+3338,Audit Rights|Termination For Convenience|Insurance
+3339,Expiration Date|Rofr/Rofo/Rofn|Expiration Date
+3340,License Grant|Competitive Restriction Exception|Exclusivity
+3341,Non-Disparagement|Non-Disparagement|Minimum Commitment
+3342,License Grant|Minimum Commitment|Minimum Commitment
+3343,Cap On Liability|Rofr/Rofo/Rofn|Insurance
+3344,Anti-Assignment|Anti-Assignment|Non-Transferable License
+3345,Anti-Assignment|Anti-Assignment|Rofr/Rofo/Rofn
+3346,Anti-Assignment|Anti-Assignment|Anti-Assignment
+3347,Cap On Liability|License Grant|License Grant
+3348,Revenue/Profit Sharing|Exclusivity|Post-Termination Services
+3349,License Grant|Rofr/Rofo/Rofn|Non-Compete
+3350,Covenant Not To Sue|Cap On Liability|Covenant Not To Sue
+3351,Insurance|Insurance|Insurance
+3352,Insurance|Insurance|Insurance
+3353,Covenant Not To Sue|Cap On Liability|Cap On Liability
+3563,Expiration Date|Expiration Date|Expiration Date
+3564,Governing Law|Governing Law|Governing Law
+3565,Insurance|Volume Restriction|Volume Restriction
+3566,Insurance|Insurance|Insurance
+3612,Expiration Date|Expiration Date|Expiration Date
+3613,Governing Law|Governing Law|Governing Law
+3614,Exclusivity|Anti-Assignment|Exclusivity
+3615,Revenue/Profit Sharing|Revenue/Profit Sharing|Revenue/Profit Sharing
+3616,Revenue/Profit Sharing|Revenue/Profit Sharing|Revenue/Profit Sharing
+3617,License Grant|Exclusivity|License Grant
+3618,Revenue/Profit Sharing|Cap On Liability|Cap On Liability
+3619,Ip Ownership Assignment|Revenue/Profit Sharing|Non-Transferable License
+3620,Anti-Assignment|Termination For Convenience|License Grant
+3621,License Grant|License Grant|Exclusivity
+3622,Exclusivity|License Grant|Joint Ip Ownership
+3623,License Grant|License Grant|License Grant
+3624,Exclusivity|Expiration Date|Rofr/Rofo/Rofn
+3625,License Grant|Post-Termination Services|License Grant
+3626,Audit Rights|Audit Rights|Audit Rights
+3814,Minimum Commitment|Termination For Convenience|Termination For Convenience
+3815,Governing Law|Governing Law|Governing Law
+3816,No-Solicit Of Employees|No-Solicit Of Employees|No-Solicit Of Employees
+3817,Anti-Assignment|Anti-Assignment|Anti-Assignment
+3818,Ip Ownership Assignment|Ip Ownership Assignment|Anti-Assignment
+3819,Ip Ownership Assignment|Ip Ownership Assignment|Ip Ownership Assignment
+3820,Ip Ownership Assignment|Ip Ownership Assignment|Ip Ownership Assignment
+3821,Ip Ownership Assignment|Ip Ownership Assignment|Ip Ownership Assignment
+3822,Ip Ownership Assignment|Ip Ownership Assignment|Ip Ownership Assignment
+3823,Ip Ownership Assignment|Ip Ownership Assignment|Ip Ownership Assignment
+3863,Expiration Date|Expiration Date|Expiration Date
+3864,Renewal Term|Renewal Term|Expiration Date
+3865,Governing Law|Governing Law|Governing Law
+3866,Anti-Assignment|Anti-Assignment|Anti-Assignment
+3867,Revenue/Profit Sharing|Revenue/Profit Sharing|Revenue/Profit Sharing
+3868,License Grant|Non-Transferable License|License Grant
+3869,License Grant|Non-Transferable License|License Grant
+3870,Post-Termination Services|Post-Termination Services|Non-Compete
+3871,Cap On Liability|Cap On Liability|Post-Termination Services
+3872,Cap On Liability|Cap On Liability|Cap On Liability
+3893,Expiration Date|Expiration Date|Expiration Date
+3894,Expiration Date|Expiration Date|Expiration Date
+3895,Termination For Convenience|Termination For Convenience|Termination For Convenience
+3896,Change Of Control|Anti-Assignment|Anti-Assignment
+3897,Anti-Assignment|Anti-Assignment|Anti-Assignment
+3898,Audit Rights|Post-Termination Services|Anti-Assignment
+3899,Minimum Commitment|Volume Restriction|Audit Rights
+3900,Volume Restriction|Non-Transferable License|Non-Transferable License
+3901,Volume Restriction|Minimum Commitment|Minimum Commitment
+3902,License Grant|License Grant|License Grant
+3903,License Grant|Liquidated Damages|Cap On Liability
+3904,Cap On Liability|Cap On Liability|Cap On Liability
+3905,Cap On Liability|Cap On Liability|Cap On Liability
+3906,Termination For Convenience|Termination For Convenience|Cap On Liability
+3907,Audit Rights|Liquidated Damages|Cap On Liability
+3908,Insurance|Insurance|Cap On Liability
+3984,Expiration Date|Expiration Date|Expiration Date
+3985,Governing Law|Governing Law|Governing Law
+3986,Anti-Assignment|Anti-Assignment|Cap On Liability
+3987,Anti-Assignment|Anti-Assignment|Anti-Assignment
+3988,Cap On Liability|Cap On Liability|Cap On Liability
+4333,Expiration Date|Renewal Term|Expiration Date
+4334,Governing Law|Governing Law|Governing Law
+4335,Termination For Convenience|Termination For Convenience|Minimum Commitment
+4336,Exclusivity|Post-Termination Services|Revenue/Profit Sharing
+4337,License Grant|License Grant|License Grant
+4338,Cap On Liability|Cap On Liability|Cap On Liability
+4506,Governing Law|Governing Law|Governing Law
+4507,Non-Compete|Non-Compete|License Grant
+4508,License Grant|License Grant|License Grant
+4509,Change Of Control|Competitive Restriction Exception|Exclusivity
+4510,Non-Disparagement|Expiration Date|No-Solicit Of Employees
+4511,Non-Disparagement|Non-Disparagement|Insurance
+4512,Non-Disparagement|Non-Disparagement|Non-Disparagement
+4513,Change Of Control|Change Of Control|Change Of Control
+4514,Anti-Assignment|Anti-Assignment|Anti-Assignment
+4515,Ip Ownership Assignment|Ip Ownership Assignment|Anti-Assignment
+4516,Non-Transferable License|License Grant|License Grant
+4517,Cap On Liability|Minimum Commitment|Termination For Convenience
+4518,Post-Termination Services|Post-Termination Services|Audit Rights
+4519,Audit Rights|Audit Rights|Audit Rights
+4520,Audit Rights|Audit Rights|Audit Rights
+4521,Cap On Liability|Cap On Liability|Cap On Liability
+4522,Cap On Liability|Cap On Liability|Cap On Liability
+4523,Warranty Duration|Post-Termination Services|Warranty Duration
+4524,Insurance|Insurance|Insurance
+4525,Insurance|Insurance|Insurance
+4526,Covenant Not To Sue|Covenant Not To Sue|Covenant Not To Sue
+4813,Expiration Date|Expiration Date|Expiration Date
+4814,Governing Law|Governing Law|Governing Law
+4815,Termination For Convenience|Termination For Convenience|Termination For Convenience
+4816,Rofr/Rofo/Rofn|Change Of Control|Change Of Control
+4817,Anti-Assignment|Revenue/Profit Sharing|Revenue/Profit Sharing
+4818,Competitive Restriction Exception|Revenue/Profit Sharing|Rofr/Rofo/Rofn
+4819,Audit Rights|Revenue/Profit Sharing|Termination For Convenience
+4820,Anti-Assignment|Anti-Assignment|Non-Transferable License
+4821,Anti-Assignment|Anti-Assignment|Anti-Assignment
+4822,Rofr/Rofo/Rofn|Change Of Control|Rofr/Rofo/Rofn
+4823,Revenue/Profit Sharing|Revenue/Profit Sharing|Revenue/Profit Sharing
+4824,Revenue/Profit Sharing|Revenue/Profit Sharing|Liquidated Damages
+4825,Revenue/Profit Sharing|Rofr/Rofo/Rofn|Revenue/Profit Sharing
+4826,Revenue/Profit Sharing|Revenue/Profit Sharing|Revenue/Profit Sharing
+4827,Revenue/Profit Sharing|Revenue/Profit Sharing|Competitive Restriction Exception
+4828,Revenue/Profit Sharing|Expiration Date|Expiration Date
+4829,Audit Rights|Audit Rights|Audit Rights
+4830,Post-Termination Services|Post-Termination Services|Audit Rights
+4831,Audit Rights|Audit Rights|Audit Rights
+4832,Cap On Liability|Cap On Liability|Cap On Liability
+4833,Insurance|Insurance|Insurance
+4834,Insurance|Post-Termination Services|Revenue/Profit Sharing
+4835,Insurance|Insurance|Insurance
+4862,Expiration Date|Expiration Date|Expiration Date
+4863,Governing Law|Governing Law|Governing Law
+4864,Anti-Assignment|Anti-Assignment|Anti-Assignment
+4865,Anti-Assignment|Anti-Assignment|Anti-Assignment
+4866,Joint Ip Ownership|License Grant|Joint Ip Ownership
+4867,Cap On Liability|Cap On Liability|Cap On Liability
+4978,Renewal Term|Liquidated Damages|Expiration Date
+4979,Governing Law|Governing Law|Governing Law
+4980,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Rofr/Rofo/Rofn
+4981,Revenue/Profit Sharing|Revenue/Profit Sharing|Revenue/Profit Sharing
+4982,Audit Rights|Anti-Assignment|Competitive Restriction Exception
+5109,Expiration Date|Expiration Date|Expiration Date
+5110,Governing Law|Governing Law|Governing Law
+5111,License Grant|Anti-Assignment|License Grant
+5112,License Grant|Exclusivity|Audit Rights
+5113,License Grant|License Grant|License Grant
+5114,Exclusivity|Exclusivity|License Grant
+5115,License Grant|Competitive Restriction Exception|Non-Compete
+5116,Termination For Convenience|Termination For Convenience|Termination For Convenience
+5117,Anti-Assignment|Anti-Assignment|Anti-Assignment
+5118,Revenue/Profit Sharing|Revenue/Profit Sharing|Revenue/Profit Sharing
+5119,Ip Ownership Assignment|Volume Restriction|Post-Termination Services
+5120,Post-Termination Services|Post-Termination Services|Change Of Control
+5121,Ip Ownership Assignment|Joint Ip Ownership|Ip Ownership Assignment
+5122,Post-Termination Services|Rofr/Rofo/Rofn|Non-Compete
+5123,Joint Ip Ownership|License Grant|License Grant
+5124,License Grant|License Grant|License Grant
+5125,License Grant|Non-Compete|Post-Termination Services
+5126,Post-Termination Services|Post-Termination Services|Post-Termination Services
+5127,Audit Rights|Audit Rights|Audit Rights
+5128,Audit Rights|Audit Rights|Audit Rights
+5129,Audit Rights|Post-Termination Services|Audit Rights
+5130,Audit Rights|Audit Rights|Audit Rights
+5131,Audit Rights|Audit Rights|Audit Rights
+5132,Audit Rights|Audit Rights|Audit Rights
+5133,Audit Rights|Joint Ip Ownership|Audit Rights
+5134,Audit Rights|Audit Rights|Audit Rights
+5135,Audit Rights|Audit Rights|Audit Rights
+5136,Audit Rights|Exclusivity|License Grant
+5137,Audit Rights|Audit Rights|Audit Rights
+5138,Cap On Liability|Cap On Liability|Volume Restriction
+5139,Post-Termination Services|Change Of Control|Expiration Date
+5140,Warranty Duration|Warranty Duration|Warranty Duration
+5141,Warranty Duration|Warranty Duration|Warranty Duration
+5142,Warranty Duration|Post-Termination Services|Cap On Liability
+5143,Insurance|Insurance|Insurance
+5144,Expiration Date|Expiration Date|Expiration Date
+5145,Governing Law|Governing Law|Governing Law
+5146,Ip Ownership Assignment|Ip Ownership Assignment|Ip Ownership Assignment
+5147,Ip Ownership Assignment|Ip Ownership Assignment|Ip Ownership Assignment
+5148,Ip Ownership Assignment|Ip Ownership Assignment|Ip Ownership Assignment
+5149,Post-Termination Services|Post-Termination Services|Audit Rights
+5150,Anti-Assignment|Covenant Not To Sue|Non-Compete
+5151,Ip Ownership Assignment|Covenant Not To Sue|Covenant Not To Sue
+5348,Expiration Date|Expiration Date|Expiration Date
+5349,Governing Law|Governing Law|Governing Law
+5350,Source Code Escrow|Source Code Escrow|License Grant
+5351,Post-Termination Services|Termination For Convenience|Liquidated Damages
+5352,Termination For Convenience|Termination For Convenience|Termination For Convenience
+5353,Insurance|Anti-Assignment|Rofr/Rofo/Rofn
+5354,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Ip Ownership Assignment
+5355,Anti-Assignment|Anti-Assignment|Anti-Assignment
+5356,Revenue/Profit Sharing|Revenue/Profit Sharing|Revenue/Profit Sharing
+5357,Revenue/Profit Sharing|Liquidated Damages|Revenue/Profit Sharing
+5358,Revenue/Profit Sharing|Revenue/Profit Sharing|Liquidated Damages
+5359,Revenue/Profit Sharing|Volume Restriction|Revenue/Profit Sharing
+5360,Revenue/Profit Sharing|Revenue/Profit Sharing|Revenue/Profit Sharing
+5361,Revenue/Profit Sharing|Revenue/Profit Sharing|Revenue/Profit Sharing
+5362,Expiration Date|Rofr/Rofo/Rofn|Expiration Date
+5363,Revenue/Profit Sharing|Post-Termination Services|License Grant
+5364,Volume Restriction|License Grant|License Grant
+5365,Joint Ip Ownership|Ip Ownership Assignment|Ip Ownership Assignment
+5366,Revenue/Profit Sharing|License Grant|Termination For Convenience
+5367,Source Code Escrow|Source Code Escrow|Source Code Escrow
+5368,Non-Transferable License|Non-Transferable License|License Grant
+5369,Source Code Escrow|Source Code Escrow|Joint Ip Ownership
+5370,Source Code Escrow|Source Code Escrow|Source Code Escrow
+5371,License Grant|Source Code Escrow|Source Code Escrow
+5372,Source Code Escrow|Source Code Escrow|Source Code Escrow
+5373,Source Code Escrow|Source Code Escrow|Source Code Escrow
+5374,Source Code Escrow|Source Code Escrow|Source Code Escrow
+5375,Non-Transferable License|Non-Transferable License|License Grant
+5376,Source Code Escrow|Source Code Escrow|Source Code Escrow
+5377,Source Code Escrow|Source Code Escrow|License Grant
+5378,Cap On Liability|Cap On Liability|Cap On Liability
+5379,Cap On Liability|Cap On Liability|Cap On Liability
+5380,Cap On Liability|Rofr/Rofo/Rofn|Audit Rights
+5381,Cap On Liability|Cap On Liability|Cap On Liability
+5382,Post-Termination Services|Cap On Liability|Cap On Liability
+5383,Cap On Liability|Cap On Liability|Anti-Assignment
+5384,Insurance|Insurance|Anti-Assignment
+5385,Insurance|Insurance|Insurance
+5386,Insurance|Minimum Commitment|Insurance
+5520,Expiration Date|Expiration Date|Expiration Date
+5521,Governing Law|Governing Law|Governing Law
+5522,Exclusivity|License Grant|Non-Transferable License
+5523,Termination For Convenience|Termination For Convenience|Termination For Convenience
+5524,Anti-Assignment|Anti-Assignment|Anti-Assignment
+5525,License Grant|Exclusivity|License Grant
+5526,Audit Rights|Audit Rights|Audit Rights
+5527,Audit Rights|Audit Rights|Audit Rights
+5528,Cap On Liability|Cap On Liability|Cap On Liability
+5529,Cap On Liability|Cap On Liability|Cap On Liability
+5530,Warranty Duration|Warranty Duration|Warranty Duration
+5531,Covenant Not To Sue|Covenant Not To Sue|Covenant Not To Sue
+5622,Governing Law|Governing Law|Governing Law
+5623,Non-Compete|Post-Termination Services|Non-Compete
+5624,Non-Compete|Non-Compete|Exclusivity
+5625,Exclusivity|Minimum Commitment|License Grant
+5626,Non-Compete|Exclusivity|Competitive Restriction Exception
+5627,Non-Disparagement|Non-Disparagement|Exclusivity
+5628,Termination For Convenience|Termination For Convenience|Termination For Convenience
+5629,Anti-Assignment|Anti-Assignment|Anti-Assignment
+5630,Post-Termination Services|Minimum Commitment|Rofr/Rofo/Rofn
+5631,Minimum Commitment|Minimum Commitment|Minimum Commitment
+5632,Minimum Commitment|Termination For Convenience|Minimum Commitment
+5633,Minimum Commitment|Minimum Commitment|Minimum Commitment
+5634,Minimum Commitment|Minimum Commitment|Renewal Term
+5635,Anti-Assignment|Anti-Assignment|Anti-Assignment
+5636,Post-Termination Services|Post-Termination Services|Post-Termination Services
+5637,Cap On Liability|Cap On Liability|Cap On Liability
+5638,Cap On Liability|Post-Termination Services|Covenant Not To Sue
+5639,Cap On Liability|Cap On Liability|Cap On Liability
+5640,Cap On Liability|Cap On Liability|Cap On Liability
+5641,Warranty Duration|Warranty Duration|Warranty Duration
+5642,Warranty Duration|Warranty Duration|Warranty Duration
+5643,Insurance|Insurance|Insurance
+5644,Insurance|Insurance|Insurance
+5645,Insurance|Insurance|Insurance
+5646,Insurance|Insurance|Insurance
+5647,Insurance|Insurance|Insurance
+5648,Covenant Not To Sue|Covenant Not To Sue|Covenant Not To Sue
+5708,Expiration Date|Expiration Date|Expiration Date
+5709,Expiration Date|Expiration Date|Expiration Date
+5710,Renewal Term|Termination For Convenience|Renewal Term
+5711,Governing Law|Governing Law|Governing Law
+5712,Non-Compete|Non-Compete|Non-Compete
+5713,Change Of Control|Competitive Restriction Exception|Exclusivity
+5714,Audit Rights|Audit Rights|Minimum Commitment
+5715,Audit Rights|Audit Rights|Liquidated Damages
+5716,Expiration Date|Insurance|Competitive Restriction Exception
+5717,Anti-Assignment|Anti-Assignment|Warranty Duration
+5718,Liquidated Damages|Termination For Convenience|Termination For Convenience
+5719,Expiration Date|Expiration Date|Expiration Date
+5720,Governing Law|Governing Law|Governing Law
+5721,Non-Compete|Non-Compete|License Grant
+5722,Expiration Date|Ip Ownership Assignment|No-Solicit Of Employees
+5723,Termination For Convenience|Termination For Convenience|Termination For Convenience
+5724,Anti-Assignment|Anti-Assignment|Anti-Assignment
+5725,License Grant|Audit Rights|Ip Ownership Assignment
+5726,Ip Ownership Assignment|Ip Ownership Assignment|Ip Ownership Assignment
+5727,Ip Ownership Assignment|Ip Ownership Assignment|Ip Ownership Assignment
+5728,Warranty Duration|Warranty Duration|Warranty Duration
+5729,Warranty Duration|Warranty Duration|Warranty Duration
+5730,Termination For Convenience|Termination For Convenience|Termination For Convenience
+5731,Warranty Duration|Insurance|Warranty Duration
+5732,Covenant Not To Sue|License Grant|Covenant Not To Sue
+5758,Anti-Assignment|Anti-Assignment|Exclusivity
+5759,Covenant Not To Sue|Exclusivity|Joint Ip Ownership
+5968,Expiration Date|Expiration Date|Expiration Date
+5969,Renewal Term|Renewal Term|Renewal Term
+5970,Governing Law|Governing Law|Governing Law
+5971,Change Of Control|Change Of Control|Termination For Convenience
+5972,Change Of Control|Change Of Control|Change Of Control
+5973,Change Of Control|Change Of Control|Change Of Control
+5974,Anti-Assignment|Anti-Assignment|Anti-Assignment
+5975,Minimum Commitment|Post-Termination Services|Expiration Date
+5976,Termination For Convenience|Post-Termination Services|Termination For Convenience
+5977,Minimum Commitment|Warranty Duration|Warranty Duration
+5978,Joint Ip Ownership|Joint Ip Ownership|Ip Ownership Assignment
+5979,License Grant|License Grant|License Grant
+5980,Warranty Duration|Warranty Duration|Warranty Duration
+5981,Minimum Commitment|Post-Termination Services|Anti-Assignment
+5982,Audit Rights|Audit Rights|Audit Rights
+5983,Cap On Liability|Revenue/Profit Sharing|Anti-Assignment
+5984,Cap On Liability|Cap On Liability|Cap On Liability
+5985,Warranty Duration|Warranty Duration|Warranty Duration
+5986,Warranty Duration|Warranty Duration|Minimum Commitment
+5987,Insurance|Insurance|Insurance
+5988,Insurance|Insurance|Insurance
+5989,Insurance|Insurance|Insurance
+6125,Expiration Date|Expiration Date|Expiration Date
+6126,Governing Law|Governing Law|Governing Law
+6127,Expiration Date|Insurance|Revenue/Profit Sharing
+6128,License Grant|License Grant|License Grant
+6129,Insurance|Termination For Convenience|Ip Ownership Assignment
+6130,Exclusivity|Anti-Assignment|License Grant
+6131,License Grant|License Grant|License Grant
+6132,Termination For Convenience|Expiration Date|Rofr/Rofo/Rofn
+6133,Anti-Assignment|Anti-Assignment|Anti-Assignment
+6134,Anti-Assignment|Anti-Assignment|Anti-Assignment
+6135,Revenue/Profit Sharing|Revenue/Profit Sharing|Revenue/Profit Sharing
+6136,Revenue/Profit Sharing|Liquidated Damages|Revenue/Profit Sharing
+6137,Revenue/Profit Sharing|Ip Ownership Assignment|Non-Compete
+6138,Revenue/Profit Sharing|Revenue/Profit Sharing|Revenue/Profit Sharing
+6139,Minimum Commitment|Insurance|Non-Compete
+6140,Insurance|Insurance|Insurance
+6141,License Grant|License Grant|License Grant
+6142,License Grant|License Grant|License Grant
+6143,License Grant|License Grant|License Grant
+6144,Anti-Assignment|Anti-Assignment|License Grant
+6145,Audit Rights|Joint Ip Ownership|Revenue/Profit Sharing
+6146,Audit Rights|Audit Rights|Audit Rights
+6147,Audit Rights|Audit Rights|Audit Rights
+6148,Audit Rights|Audit Rights|Audit Rights
+6149,Audit Rights|Audit Rights|Audit Rights
+6150,Cap On Liability|Cap On Liability|Cap On Liability
+6151,Cap On Liability|Cap On Liability|Cap On Liability
+6276,Expiration Date|Expiration Date|Expiration Date
+6277,Governing Law|Governing Law|Governing Law
+6278,Termination For Convenience|Termination For Convenience|Termination For Convenience
+6279,Anti-Assignment|Anti-Assignment|Anti-Assignment
+6280,Expiration Date|Expiration Date|Expiration Date
+6281,Renewal Term|Renewal Term|Renewal Term
+6282,Governing Law|Governing Law|Governing Law
+6283,No-Solicit Of Employees|No-Solicit Of Employees|No-Solicit Of Employees
+6284,Termination For Convenience|Termination For Convenience|Termination For Convenience
+6285,Anti-Assignment|Anti-Assignment|Anti-Assignment
+6357,Expiration Date|Expiration Date|Expiration Date
+6358,Renewal Term|Renewal Term|Renewal Term
+6359,Governing Law|Governing Law|Governing Law
+6360,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Rofr/Rofo/Rofn
+6361,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Rofr/Rofo/Rofn
+6362,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Rofr/Rofo/Rofn
+6363,Rofr/Rofo/Rofn|Non-Compete|Non-Compete
+6364,Anti-Assignment|Anti-Assignment|Anti-Assignment
+6365,Anti-Assignment|Anti-Assignment|Anti-Assignment
+6366,Revenue/Profit Sharing|Revenue/Profit Sharing|Revenue/Profit Sharing
+6367,Revenue/Profit Sharing|Joint Ip Ownership|Post-Termination Services
+6368,Rofr/Rofo/Rofn|Minimum Commitment|Expiration Date
+6369,Anti-Assignment|Anti-Assignment|Anti-Assignment
+6370,Ip Ownership Assignment|Ip Ownership Assignment|Ip Ownership Assignment
+6371,Post-Termination Services|Post-Termination Services|Post-Termination Services
+6372,Audit Rights|Audit Rights|Audit Rights
+6373,Warranty Duration|Audit Rights|Audit Rights
+6374,Audit Rights|Audit Rights|Audit Rights
+6375,Audit Rights|Audit Rights|Audit Rights
+6376,Cap On Liability|Cap On Liability|Cap On Liability
+6377,Insurance|Insurance|Insurance
+6378,Insurance|Insurance|Insurance
+6379,Insurance|Insurance|Insurance
+6380,Insurance|Insurance|Insurance
+6381,Insurance|Insurance|Insurance
+6382,Non-Disparagement|Covenant Not To Sue|Covenant Not To Sue
+6677,Governing Law|Governing Law|Governing Law
+6678,Change Of Control|Change Of Control|Change Of Control
+6679,Anti-Assignment|Anti-Assignment|Anti-Assignment
+6680,Anti-Assignment|Anti-Assignment|Anti-Assignment
+6681,Post-Termination Services|Audit Rights|License Grant
+6682,Audit Rights|Audit Rights|Audit Rights
+6683,Audit Rights|Audit Rights|Audit Rights
+6684,Audit Rights|Audit Rights|Audit Rights
+6685,Expiration Date|Audit Rights|Audit Rights
+6686,Audit Rights|Audit Rights|Post-Termination Services
+6687,Audit Rights|Audit Rights|License Grant
+6688,Cap On Liability|Cap On Liability|Cap On Liability
+6689,Cap On Liability|Cap On Liability|Cap On Liability
+6690,Insurance|Audit Rights|Post-Termination Services
+6691,Insurance|Insurance|Post-Termination Services
+6692,Insurance|Insurance|Insurance
+6693,Insurance|Insurance|Insurance
+6694,Insurance|Insurance|Insurance
+6695,Insurance|Insurance|Insurance
+6696,Insurance|Insurance|Insurance
+6697,Insurance|Insurance|Insurance
+6856,Expiration Date|Expiration Date|Expiration Date
+6857,Expiration Date|Expiration Date|Expiration Date
+6858,Governing Law|Governing Law|Governing Law
+6859,Anti-Assignment|Anti-Assignment|Anti-Assignment
+6860,Minimum Commitment|Minimum Commitment|Minimum Commitment
+6861,Minimum Commitment|Insurance|Minimum Commitment
+6862,Minimum Commitment|Minimum Commitment|Minimum Commitment
+6863,Expiration Date|Minimum Commitment|Cap On Liability
+6864,Audit Rights|Audit Rights|Audit Rights
+6865,Audit Rights|Audit Rights|Audit Rights
+6866,Audit Rights|Audit Rights|Audit Rights
+6867,Insurance|Insurance|Insurance
+6868,Insurance|Insurance|Insurance
+6869,Insurance|Insurance|Insurance
+6870,Insurance|Insurance|Insurance
+7017,Expiration Date|Expiration Date|Expiration Date
+7018,Expiration Date|Expiration Date|Expiration Date
+7019,Renewal Term|Renewal Term|Renewal Term
+7020,Governing Law|Governing Law|Governing Law
+7021,Governing Law|Insurance|Exclusivity
+7022,Warranty Duration|Anti-Assignment|Anti-Assignment
+7023,No-Solicit Of Employees|No-Solicit Of Employees|No-Solicit Of Employees
+7024,Termination For Convenience|Termination For Convenience|Termination For Convenience
+7025,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Rofr/Rofo/Rofn
+7026,Anti-Assignment|Rofr/Rofo/Rofn|Anti-Assignment
+7027,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Expiration Date
+7028,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Rofr/Rofo/Rofn
+7029,Minimum Commitment|Termination For Convenience|Termination For Convenience
+7030,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Rofr/Rofo/Rofn
+7031,Rofr/Rofo/Rofn|Change Of Control|Rofr/Rofo/Rofn
+7032,Rofr/Rofo/Rofn|Change Of Control|Rofr/Rofo/Rofn
+7033,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Rofr/Rofo/Rofn
+7034,Change Of Control|Termination For Convenience|Termination For Convenience
+7035,Termination For Convenience|Termination For Convenience|Termination For Convenience
+7036,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Rofr/Rofo/Rofn
+7037,Termination For Convenience|Anti-Assignment|Anti-Assignment
+7038,Anti-Assignment|Anti-Assignment|Anti-Assignment
+7039,Termination For Convenience|Cap On Liability|Post-Termination Services
+7040,Renewal Term|Cap On Liability|Joint Ip Ownership
+7041,Insurance|Post-Termination Services|Rofr/Rofo/Rofn
+7042,Change Of Control|Cap On Liability|Anti-Assignment
+7043,Expiration Date|Exclusivity|Insurance
+7044,Post-Termination Services|Post-Termination Services|Audit Rights
+7045,Cap On Liability|Cap On Liability|Cap On Liability
+7046,Cap On Liability|Cap On Liability|Change Of Control
+7047,Cap On Liability|Cap On Liability|Cap On Liability
+7075,Anti-Assignment|Anti-Assignment|Anti-Assignment
+7076,Anti-Assignment|Anti-Assignment|Anti-Assignment
+7077,Minimum Commitment|Minimum Commitment|Minimum Commitment
+7107,Expiration Date|Expiration Date|Expiration Date
+7108,Renewal Term|Renewal Term|Renewal Term
+7109,Governing Law|Governing Law|Governing Law
+7110,Termination For Convenience|Termination For Convenience|Termination For Convenience
+7111,Anti-Assignment|Anti-Assignment|Anti-Assignment
+7112,License Grant|License Grant|License Grant
+7113,Cap On Liability|Cap On Liability|Cap On Liability
+7114,Cap On Liability|Cap On Liability|Cap On Liability
+7115,Expiration Date|Expiration Date|Expiration Date
+7116,Governing Law|Governing Law|Governing Law
+7117,Non-Compete|Non-Compete|License Grant
+7118,Expiration Date|Non-Compete|Post-Termination Services
+7119,Expiration Date|Post-Termination Services|Non-Compete
+7120,No-Solicit Of Employees|Termination For Convenience|Termination For Convenience
+7121,Termination For Convenience|Termination For Convenience|Termination For Convenience
+7122,Anti-Assignment|Anti-Assignment|Anti-Assignment
+7198,Expiration Date|Exclusivity|Expiration Date
+7315,Expiration Date|Expiration Date|Post-Termination Services
+7316,Governing Law|Governing Law|Governing Law
+7317,License Grant|License Grant|License Grant
+7318,Anti-Assignment|Anti-Assignment|Anti-Assignment
+7319,Anti-Assignment|Anti-Assignment|Anti-Assignment
+7320,Joint Ip Ownership|Revenue/Profit Sharing|Joint Ip Ownership
+7321,Joint Ip Ownership|Ip Ownership Assignment|Joint Ip Ownership
+7322,Cap On Liability|Cap On Liability|Cap On Liability
+7728,Expiration Date|Expiration Date|Expiration Date
+7729,Renewal Term|Renewal Term|Renewal Term
+7730,Governing Law|Governing Law|Governing Law
+7731,Non-Compete|Exclusivity|Post-Termination Services
+7732,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Rofr/Rofo/Rofn
+7733,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Rofr/Rofo/Rofn
+7734,Exclusivity|Rofr/Rofo/Rofn|Joint Ip Ownership
+7735,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Rofr/Rofo/Rofn
+7736,Rofr/Rofo/Rofn|Rofr/Rofo/Rofn|Rofr/Rofo/Rofn
+7737,Anti-Assignment|Anti-Assignment|Anti-Assignment
+7738,Anti-Assignment|Anti-Assignment|Anti-Assignment
+7739,Anti-Assignment|Anti-Assignment|Anti-Assignment
+7740,Revenue/Profit Sharing|License Grant|Revenue/Profit Sharing
+7741,License Grant|Liquidated Damages|Minimum Commitment
+7742,Termination For Convenience|Termination For Convenience|Termination For Convenience
+7743,Minimum Commitment|Minimum Commitment|License Grant
+7744,Minimum Commitment|License Grant|Ip Ownership Assignment
+7745,Minimum Commitment|Minimum Commitment|Minimum Commitment
+7746,Minimum Commitment|Volume Restriction|Expiration Date
+7747,License Grant|Insurance|Ip Ownership Assignment
+7748,License Grant|License Grant|License Grant
+7749,License Grant|License Grant|Exclusivity
+7750,License Grant|License Grant|Non-Transferable License
+7751,Audit Rights|Audit Rights|Audit Rights
+7752,Audit Rights|Audit Rights|Audit Rights
+7753,Audit Rights|Audit Rights|Audit Rights
+7754,Audit Rights|Audit Rights|Audit Rights
+7755,Audit Rights|Change Of Control|Audit Rights
+7756,Audit Rights|Audit Rights|Audit Rights
+7757,Cap On Liability|Cap On Liability|Cap On Liability
+7758,License Grant|Ip Ownership Assignment|Post-Termination Services
+7759,Cap On Liability|License Grant|Ip Ownership Assignment
+7760,Audit Rights|Covenant Not To Sue|Insurance
+7761,Insurance|Insurance|Insurance
+7762,Insurance|License Grant|Ip Ownership Assignment
+7763,Insurance|Insurance|Insurance
+7764,Covenant Not To Sue|Covenant Not To Sue|Covenant Not To Sue
+7765,Covenant Not To Sue|Ip Ownership Assignment|License Grant
+7766,License Grant|Covenant Not To Sue|Ip Ownership Assignment
+7767,Covenant Not To Sue|Covenant Not To Sue|Covenant Not To Sue
+7768,Expiration Date|Expiration Date|Expiration Date
+7769,Governing Law|Governing Law|Governing Law
+7770,Post-Termination Services|Non-Compete|Non-Compete
+7771,Non-Disparagement|Audit Rights|Non-Disparagement
+7772,Anti-Assignment|Anti-Assignment|Anti-Assignment
+7773,Revenue/Profit Sharing|Revenue/Profit Sharing|Governing Law
+7774,Minimum Commitment|Minimum Commitment|Change Of Control
+7775,Minimum Commitment|Volume Restriction|Volume Restriction
+7776,Volume Restriction|Volume Restriction|Volume Restriction
+7777,Governing Law|Governing Law|Volume Restriction
+7778,Audit Rights|Minimum Commitment|Volume Restriction
+7779,License Grant|License Grant|License Grant
+7780,Post-Termination Services|Audit Rights|Post-Termination Services
+7781,Governing Law|Audit Rights|Expiration Date
+7782,Insurance|Insurance|Insurance
+7783,Insurance|Insurance|Insurance
+7784,Insurance|Insurance|Revenue/Profit Sharing

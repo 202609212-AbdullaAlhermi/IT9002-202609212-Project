@@ -1,0 +1,14 @@
+{
+  "qwen25_1p5b": {
+    "version": "v2",
+    "val_macro_f1": 0.4411990287082886,
+    "runner_up": "v1",
+    "runner_up_val_macro_f1": 0.43762110946616634
+  },
+  "qwen25_3b": {
+    "version": "v2",
+    "val_macro_f1": 0.5631921990155648,
+    "runner_up": "v1",
+    "runner_up_val_macro_f1": 0.5219132795793319
+  }
+}

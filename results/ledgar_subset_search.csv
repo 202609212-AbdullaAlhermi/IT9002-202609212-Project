@@ -1,0 +1,2 @@
+run_id,seed,n_train,best_epoch,epochs_run,val_micro_f1,val_macro_f1,mean_epoch_train_seconds,run_seconds,peak_gpu_mem_gb,recipe
+legalbert_ledgar_sub5k_s42,42,5000,10,10,0.8232,0.7247614264693177,29.449574199999187,473.5393691999998,3.279646208,"{""max_length"": 512, ""batch_size"": 8, ""lr"": 3e-05, ""max_epochs"": 10, ""patience"": 3, ""monitor"": ""val_micro_f1"", ""weight_decay"": 0.0, ""warmup_ratio"": 0.0, ""max_grad_norm"": 1.0, ""eval_batch_size"": 64}"

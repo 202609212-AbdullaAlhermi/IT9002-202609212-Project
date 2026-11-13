@@ -1,0 +1,223 @@
+{
+ "task1": {
+  "8180074a9b7b262c": {
+   "flag (LogReg type)": "typical",
+   "Legal-BERT: top 3": "Anti-Assignment 1.00; Change Of Control 0.00; Non-Transferable License 0.00",
+   "flag (Legal-BERT type)": "typical"
+  },
+  "692a6859e2276c19": {
+   "flag (LogReg type)": "typical",
+   "Legal-BERT: top 3": "Cap On Liability 1.00; Liquidated Damages 0.00; Warranty Duration 0.00",
+   "flag (Legal-BERT type)": "typical"
+  },
+  "647dfb45603bf3ed": {
+   "flag (LogReg type)": "typical",
+   "Legal-BERT: top 3": "Termination For Convenience 0.99; Expiration Date 0.00; Renewal Term 0.00",
+   "flag (Legal-BERT type)": "typical"
+  },
+  "d9a46c5b8d7ec94a": {
+   "flag (LogReg type)": "UNUSUAL",
+   "Legal-BERT: top 3": "Governing Law 0.40; Audit Rights 0.14; Anti-Assignment 0.08",
+   "flag (Legal-BERT type)": "UNUSUAL"
+  }
+ },
+ "task2": {
+  "2b49b7a660bb67e1": [
+   [
+    "Anti-Assignment",
+    104,
+    197,
+    0.9661387205123901
+   ],
+   [
+    "Cap On Liability",
+    198,
+    334,
+    0.9819785952568054
+   ],
+   [
+    "Governing Law",
+    0,
+    103,
+    0.9667161703109741
+   ],
+   [
+    "License Grant",
+    335,
+    432,
+    0.9319577217102051
+   ],
+   [
+    "Non-Transferable License",
+    335,
+    432,
+    0.9743756651878357
+   ]
+  ],
+  "62e7e92925ca34aa": [],
+  "4af8906a20fdb87e": [
+   [
+    "Anti-Assignment",
+    10085,
+    10285,
+    0.9465177059173584
+   ],
+   [
+    "Anti-Assignment",
+    21306,
+    21538,
+    0.9684066772460938
+   ],
+   [
+    "Exclusivity",
+    1926,
+    2084,
+    0.9884657263755798
+   ],
+   [
+    "Exclusivity",
+    2847,
+    3363,
+    0.9870360493659973
+   ],
+   [
+    "Exclusivity",
+    4009,
+    4174,
+    0.9854467511177063
+   ],
+   [
+    "Exclusivity",
+    6228,
+    6574,
+    0.9890895485877991
+   ],
+   [
+    "Expiration Date",
+    1490,
+    1763,
+    0.9234938621520996
+   ],
+   [
+    "Governing Law",
+    22918,
+    23170,
+    0.9637611508369446
+   ],
+   [
+    "Insurance",
+    15170,
+    15639,
+    0.9655228853225708
+   ],
+   [
+    "Ip Ownership Assignment",
+    3395,
+    3637,
+    0.7609882354736328
+   ],
+   [
+    "Ip Ownership Assignment",
+    31013,
+    31699,
+    0.8491178154945374
+   ],
+   [
+    "License Grant",
+    1926,
+    2265,
+    0.788833737373352
+   ],
+   [
+    "License Grant",
+    2847,
+    3363,
+    0.7062079906463623
+   ],
+   [
+    "License Grant",
+    3638,
+    3994,
+    0.9640783071517944
+   ],
+   [
+    "Minimum Commitment",
+    4189,
+    4538,
+    0.9430326819419861
+   ],
+   [
+    "Non-Compete",
+    4701,
+    4966,
+    0.878382682800293
+   ],
+   [
+    "Non-Compete",
+    19557,
+    19620,
+    0.6497748494148254
+   ],
+   [
+    "Non-Compete",
+    19694,
+    19827,
+    0.6487153172492981
+   ],
+   [
+    "Post-Termination Services",
+    5135,
+    5432,
+    0.9442922472953796
+   ],
+   [
+    "Post-Termination Services",
+    18757,
+    18836,
+    0.8900063037872314
+   ],
+   [
+    "Post-Termination Services",
+    18968,
+    19445,
+    0.8829411268234253
+   ],
+   [
+    "Renewal Term",
+    17959,
+    18243,
+    0.9107617139816284
+   ],
+   [
+    "Revenue/Profit Sharing",
+    8096,
+    8505,
+    0.9578846096992493
+   ],
+   [
+    "Volume Restriction",
+    2368,
+    2580,
+    0.8399990797042847
+   ],
+   [
+    "Volume Restriction",
+    2644,
+    2757,
+    0.6994816064834595
+   ]
+  ]
+ },
+ "llm_qwen25_1p5b_v2": {
+  "12d0eabc034ff44a": "No-Solicit Of Employees   <- 'No-Solicit Of Employees'",
+  "915dae884c4dc5f0": "Liquidated Damages   <- 'Liquidated Damages'",
+  "5b1a7b314570324d": "No-Solicit Of Employees   <- 'No-Solicit Of Employees'",
+  "d0ebcd0f001dd0b8": "Change Of Control   <- 'Change Of Control'"
+ },
+ "llm_qwen25_3b_v2": {
+  "12d0eabc034ff44a": "No-Solicit Of Employees   <- 'No-Solicit Of Employees'",
+  "915dae884c4dc5f0": "Volume Restriction   <- 'Volume Restriction'",
+  "5b1a7b314570324d": "Non-Compete   <- 'Non-Compete'",
+  "d0ebcd0f001dd0b8": "Non-Transferable License   <- 'Non-Transferable License'"
+ }
+}

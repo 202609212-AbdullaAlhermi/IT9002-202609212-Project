@@ -1,0 +1,21 @@
+{
+  "lora": {
+    "r": 16,
+    "alpha": 32,
+    "dropout": 0.1,
+    "target_modules": [
+      "query",
+      "value"
+    ]
+  },
+  "lr_grid": [
+    0.0001,
+    0.0003,
+    0.001
+  ],
+  "best_lr": 0.001,
+  "test_run": "legalbert_lr1e-03_s42_lora",
+  "val_macro_f1_seed42": 0.8301710755414303,
+  "val_macro_f1_mean": 0.820894095569987,
+  "val_macro_f1_std": 0.01055510681875576
+}

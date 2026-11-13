@@ -1,0 +1,1445 @@
+row_id,contract,true,pred
+47,LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement,Expiration Date,Cap On Liability
+48,LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement,Governing Law,Cap On Liability
+49,LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement,Warranty Duration,Cap On Liability
+50,LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement,Insurance,Cap On Liability
+51,CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT,Expiration Date,Cap On Liability
+52,CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT,Renewal Term,Cap On Liability
+53,CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT,Renewal Term,Cap On Liability
+54,CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT,Governing Law,Cap On Liability
+55,CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT,Termination For Convenience,Cap On Liability
+56,CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT,Cap On Liability,Cap On Liability
+89,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Expiration Date,Cap On Liability
+90,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Governing Law,Cap On Liability
+91,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Non-Compete,Cap On Liability
+92,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Competitive Restriction Exception,Cap On Liability
+93,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Competitive Restriction Exception,Cap On Liability
+94,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,No-Solicit Of Employees,Cap On Liability
+95,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Termination For Convenience,Cap On Liability
+96,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Change Of Control,Cap On Liability
+97,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Anti-Assignment,Cap On Liability
+98,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Anti-Assignment,Cap On Liability
+99,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Anti-Assignment,Cap On Liability
+100,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Anti-Assignment,Cap On Liability
+101,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Revenue/Profit Sharing,Cap On Liability
+102,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Minimum Commitment,Cap On Liability
+103,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Minimum Commitment,Cap On Liability
+104,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Minimum Commitment,Cap On Liability
+105,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Ip Ownership Assignment,Cap On Liability
+106,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Ip Ownership Assignment,Cap On Liability
+107,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Ip Ownership Assignment,Cap On Liability
+108,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,License Grant,Cap On Liability
+109,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Non-Transferable License,Cap On Liability
+110,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Audit Rights,Cap On Liability
+111,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Audit Rights,Cap On Liability
+112,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Audit Rights,Cap On Liability
+113,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Audit Rights,Cap On Liability
+114,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Audit Rights,Cap On Liability
+115,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Cap On Liability,Cap On Liability
+116,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Cap On Liability,Cap On Liability
+117,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Liquidated Damages,Cap On Liability
+118,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Insurance,Cap On Liability
+119,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Covenant Not To Sue,Cap On Liability
+120,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement,Covenant Not To Sue,Cap On Liability
+121,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Expiration Date,Cap On Liability
+122,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Renewal Term,Cap On Liability
+123,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Governing Law,Cap On Liability
+124,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Non-Compete,Cap On Liability
+125,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Non-Compete,Cap On Liability
+126,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Exclusivity,Cap On Liability
+127,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Termination For Convenience,Cap On Liability
+128,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Termination For Convenience,Cap On Liability
+129,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Termination For Convenience,Cap On Liability
+130,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Change Of Control,Cap On Liability
+131,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Change Of Control,Cap On Liability
+132,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Change Of Control,Cap On Liability
+133,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Change Of Control,Cap On Liability
+134,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Change Of Control,Cap On Liability
+135,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Anti-Assignment,Cap On Liability
+136,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Anti-Assignment,Cap On Liability
+137,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Revenue/Profit Sharing,Cap On Liability
+138,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Ip Ownership Assignment,Cap On Liability
+139,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Ip Ownership Assignment,Cap On Liability
+140,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Ip Ownership Assignment,Cap On Liability
+141,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Ip Ownership Assignment,Cap On Liability
+142,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Ip Ownership Assignment,Cap On Liability
+143,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Ip Ownership Assignment,Cap On Liability
+144,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",License Grant,Cap On Liability
+145,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",License Grant,Cap On Liability
+146,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",License Grant,Cap On Liability
+147,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Non-Transferable License,Cap On Liability
+148,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Non-Transferable License,Cap On Liability
+149,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Post-Termination Services,Cap On Liability
+150,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Post-Termination Services,Cap On Liability
+151,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Post-Termination Services,Cap On Liability
+152,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Post-Termination Services,Cap On Liability
+153,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Post-Termination Services,Cap On Liability
+154,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Post-Termination Services,Cap On Liability
+155,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Post-Termination Services,Cap On Liability
+156,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Post-Termination Services,Cap On Liability
+157,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Post-Termination Services,Cap On Liability
+158,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Post-Termination Services,Cap On Liability
+159,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Post-Termination Services,Cap On Liability
+160,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Post-Termination Services,Cap On Liability
+161,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Post-Termination Services,Cap On Liability
+162,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Post-Termination Services,Cap On Liability
+163,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Audit Rights,Cap On Liability
+164,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Audit Rights,Cap On Liability
+165,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Audit Rights,Cap On Liability
+166,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Audit Rights,Cap On Liability
+167,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Audit Rights,Cap On Liability
+168,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Audit Rights,Cap On Liability
+169,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Cap On Liability,Cap On Liability
+170,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Cap On Liability,Cap On Liability
+171,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Cap On Liability,Cap On Liability
+172,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Cap On Liability,Cap On Liability
+173,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Insurance,Cap On Liability
+174,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Insurance,Cap On Liability
+175,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Insurance,Cap On Liability
+176,"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",Insurance,Cap On Liability
+232,ThriventVariableInsuranceAccountB_20190701_N-6_EX-99.D(IV)_11720968_EX-99.D(IV)_Endorsement Agreement,Anti-Assignment,Cap On Liability
+367,"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",Governing Law,Cap On Liability
+368,"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",Non-Compete,Cap On Liability
+369,"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",Anti-Assignment,Cap On Liability
+370,"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",Ip Ownership Assignment,Cap On Liability
+371,"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",Ip Ownership Assignment,Cap On Liability
+372,"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",License Grant,Cap On Liability
+373,"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",License Grant,Cap On Liability
+374,"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",License Grant,Cap On Liability
+375,"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",License Grant,Cap On Liability
+376,"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",License Grant,Cap On Liability
+377,"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",License Grant,Cap On Liability
+378,"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",License Grant,Cap On Liability
+379,"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",Insurance,Cap On Liability
+380,"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",Insurance,Cap On Liability
+381,"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",Insurance,Cap On Liability
+382,"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",Insurance,Cap On Liability
+383,"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",Insurance,Cap On Liability
+384,"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",Insurance,Cap On Liability
+385,"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",Insurance,Cap On Liability
+386,"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",Covenant Not To Sue,Cap On Liability
+490,TUNIUCORP_03_06_2014-EX-10-COOPERATION AGREEMENT,Expiration Date,Cap On Liability
+491,TUNIUCORP_03_06_2014-EX-10-COOPERATION AGREEMENT,Governing Law,Cap On Liability
+492,TUNIUCORP_03_06_2014-EX-10-COOPERATION AGREEMENT,Exclusivity,Cap On Liability
+493,TUNIUCORP_03_06_2014-EX-10-COOPERATION AGREEMENT,Exclusivity,Cap On Liability
+494,TUNIUCORP_03_06_2014-EX-10-COOPERATION AGREEMENT,Exclusivity,Cap On Liability
+495,TUNIUCORP_03_06_2014-EX-10-COOPERATION AGREEMENT,Termination For Convenience,Cap On Liability
+496,TUNIUCORP_03_06_2014-EX-10-COOPERATION AGREEMENT,Anti-Assignment,Cap On Liability
+497,TUNIUCORP_03_06_2014-EX-10-COOPERATION AGREEMENT,Ip Ownership Assignment,Cap On Liability
+498,TUNIUCORP_03_06_2014-EX-10-COOPERATION AGREEMENT,Cap On Liability,Cap On Liability
+499,TUNIUCORP_03_06_2014-EX-10-COOPERATION AGREEMENT,Cap On Liability,Cap On Liability
+500,TUNIUCORP_03_06_2014-EX-10-COOPERATION AGREEMENT,Liquidated Damages,Cap On Liability
+501,CYBERIANOUTPOSTINC_07_09_1998-EX-10.13-PROMOTION AGREEMENT,Expiration Date,Cap On Liability
+502,CYBERIANOUTPOSTINC_07_09_1998-EX-10.13-PROMOTION AGREEMENT,Governing Law,Cap On Liability
+503,CYBERIANOUTPOSTINC_07_09_1998-EX-10.13-PROMOTION AGREEMENT,Competitive Restriction Exception,Cap On Liability
+504,CYBERIANOUTPOSTINC_07_09_1998-EX-10.13-PROMOTION AGREEMENT,Termination For Convenience,Cap On Liability
+505,CYBERIANOUTPOSTINC_07_09_1998-EX-10.13-PROMOTION AGREEMENT,Anti-Assignment,Cap On Liability
+506,CYBERIANOUTPOSTINC_07_09_1998-EX-10.13-PROMOTION AGREEMENT,License Grant,Cap On Liability
+507,CYBERIANOUTPOSTINC_07_09_1998-EX-10.13-PROMOTION AGREEMENT,Audit Rights,Cap On Liability
+508,CYBERIANOUTPOSTINC_07_09_1998-EX-10.13-PROMOTION AGREEMENT,Cap On Liability,Cap On Liability
+509,CYBERIANOUTPOSTINC_07_09_1998-EX-10.13-PROMOTION AGREEMENT,Cap On Liability,Cap On Liability
+510,CYBERIANOUTPOSTINC_07_09_1998-EX-10.13-PROMOTION AGREEMENT,Cap On Liability,Cap On Liability
+511,CYBERIANOUTPOSTINC_07_09_1998-EX-10.13-PROMOTION AGREEMENT,Cap On Liability,Cap On Liability
+646,MSCIINC_02_28_2008-EX-10.10-,Governing Law,Cap On Liability
+647,MSCIINC_02_28_2008-EX-10.10-,License Grant,Cap On Liability
+648,MSCIINC_02_28_2008-EX-10.10-,License Grant,Cap On Liability
+649,MSCIINC_02_28_2008-EX-10.10-,Cap On Liability,Cap On Liability
+650,MSCIINC_02_28_2008-EX-10.10-,Cap On Liability,Cap On Liability
+651,MSCIINC_02_28_2008-EX-10.10-,Cap On Liability,Cap On Liability
+652,MSCIINC_02_28_2008-EX-10.10-,Cap On Liability,Cap On Liability
+653,MSCIINC_02_28_2008-EX-10.10-,Cap On Liability,Cap On Liability
+698,CHERRYHILLMORTGAGEINVESTMENTCORP_09_26_2013-EX-10.1-Strategic Alliance Agreement,Expiration Date,Cap On Liability
+699,CHERRYHILLMORTGAGEINVESTMENTCORP_09_26_2013-EX-10.1-Strategic Alliance Agreement,Governing Law,Cap On Liability
+700,CHERRYHILLMORTGAGEINVESTMENTCORP_09_26_2013-EX-10.1-Strategic Alliance Agreement,Anti-Assignment,Cap On Liability
+841,"WASTE2ENERGYHOLDINGS,INC_06_03_2010-EX-10.2-STRATEGIC ALLIANCE AGREEMENT",Expiration Date,Cap On Liability
+842,"WASTE2ENERGYHOLDINGS,INC_06_03_2010-EX-10.2-STRATEGIC ALLIANCE AGREEMENT",Governing Law,Cap On Liability
+843,"WASTE2ENERGYHOLDINGS,INC_06_03_2010-EX-10.2-STRATEGIC ALLIANCE AGREEMENT",Non-Compete,Cap On Liability
+844,"WASTE2ENERGYHOLDINGS,INC_06_03_2010-EX-10.2-STRATEGIC ALLIANCE AGREEMENT",Non-Compete,Cap On Liability
+845,"WASTE2ENERGYHOLDINGS,INC_06_03_2010-EX-10.2-STRATEGIC ALLIANCE AGREEMENT",No-Solicit Of Employees,Cap On Liability
+904,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement,Revenue/Profit Sharing,Cap On Liability
+905,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement,Revenue/Profit Sharing,Cap On Liability
+1132,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement,Expiration Date,Cap On Liability
+1133,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement,Governing Law,Cap On Liability
+1134,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement,Change Of Control,Cap On Liability
+1135,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement,Volume Restriction,Cap On Liability
+1136,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement,License Grant,Cap On Liability
+1137,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement,License Grant,Cap On Liability
+1138,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement,License Grant,Cap On Liability
+1139,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement,License Grant,Cap On Liability
+1140,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement,License Grant,Cap On Liability
+1141,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement,Non-Transferable License,Cap On Liability
+1142,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement,Insurance,Cap On Liability
+1143,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement,Insurance,Cap On Liability
+1144,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement,Insurance,Cap On Liability
+1145,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement,Insurance,Cap On Liability
+1146,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement,Covenant Not To Sue,Cap On Liability
+1159,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT,Governing Law,Cap On Liability
+1160,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT,Anti-Assignment,Cap On Liability
+1161,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT,License Grant,Cap On Liability
+1162,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT,Post-Termination Services,Cap On Liability
+1163,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT,Cap On Liability,Cap On Liability
+1164,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT,Cap On Liability,Cap On Liability
+1165,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT,Cap On Liability,Cap On Liability
+1166,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT,Cap On Liability,Cap On Liability
+1167,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT,Cap On Liability,Cap On Liability
+1325,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT",Expiration Date,Cap On Liability
+1326,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT",Governing Law,Cap On Liability
+1327,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT",Change Of Control,Cap On Liability
+1328,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT",Change Of Control,Cap On Liability
+1329,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT",Anti-Assignment,Cap On Liability
+1330,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT",Anti-Assignment,Cap On Liability
+1331,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT",Minimum Commitment,Cap On Liability
+1332,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT",Minimum Commitment,Cap On Liability
+1333,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT",Post-Termination Services,Cap On Liability
+1334,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT",Audit Rights,Cap On Liability
+1335,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT",Audit Rights,Cap On Liability
+1336,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT",Audit Rights,Cap On Liability
+1337,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT",Insurance,Cap On Liability
+1338,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT",Insurance,Cap On Liability
+1358,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Expiration Date,Cap On Liability
+1359,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Governing Law,Cap On Liability
+1360,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Exclusivity,Cap On Liability
+1361,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Exclusivity,Cap On Liability
+1362,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Exclusivity,Cap On Liability
+1363,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Rofr/Rofo/Rofn,Cap On Liability
+1364,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Rofr/Rofo/Rofn,Cap On Liability
+1365,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Rofr/Rofo/Rofn,Cap On Liability
+1366,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Rofr/Rofo/Rofn,Cap On Liability
+1367,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Rofr/Rofo/Rofn,Cap On Liability
+1368,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Rofr/Rofo/Rofn,Cap On Liability
+1369,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Rofr/Rofo/Rofn,Cap On Liability
+1370,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Rofr/Rofo/Rofn,Cap On Liability
+1371,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Rofr/Rofo/Rofn,Cap On Liability
+1372,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Anti-Assignment,Cap On Liability
+1373,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Revenue/Profit Sharing,Cap On Liability
+1374,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Revenue/Profit Sharing,Cap On Liability
+1375,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Minimum Commitment,Cap On Liability
+1376,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Minimum Commitment,Cap On Liability
+1377,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Minimum Commitment,Cap On Liability
+1378,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Minimum Commitment,Cap On Liability
+1379,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Joint Ip Ownership,Cap On Liability
+1380,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,License Grant,Cap On Liability
+1381,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Audit Rights,Cap On Liability
+1382,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Audit Rights,Cap On Liability
+1383,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Cap On Liability,Cap On Liability
+1384,N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,Cap On Liability,Cap On Liability
+1394,ArconicRolledProductsCorp_20191217_10-12B_EX-2.7_11923804_EX-2.7_Trademark License Agreement,Expiration Date,Cap On Liability
+1395,ArconicRolledProductsCorp_20191217_10-12B_EX-2.7_11923804_EX-2.7_Trademark License Agreement,Governing Law,Cap On Liability
+1396,ArconicRolledProductsCorp_20191217_10-12B_EX-2.7_11923804_EX-2.7_Trademark License Agreement,Change Of Control,Cap On Liability
+1397,ArconicRolledProductsCorp_20191217_10-12B_EX-2.7_11923804_EX-2.7_Trademark License Agreement,Anti-Assignment,Cap On Liability
+1398,ArconicRolledProductsCorp_20191217_10-12B_EX-2.7_11923804_EX-2.7_Trademark License Agreement,License Grant,Cap On Liability
+1399,ArconicRolledProductsCorp_20191217_10-12B_EX-2.7_11923804_EX-2.7_Trademark License Agreement,License Grant,Cap On Liability
+1400,ArconicRolledProductsCorp_20191217_10-12B_EX-2.7_11923804_EX-2.7_Trademark License Agreement,License Grant,Cap On Liability
+1401,ArconicRolledProductsCorp_20191217_10-12B_EX-2.7_11923804_EX-2.7_Trademark License Agreement,Audit Rights,Cap On Liability
+1402,ArconicRolledProductsCorp_20191217_10-12B_EX-2.7_11923804_EX-2.7_Trademark License Agreement,Audit Rights,Cap On Liability
+1403,ArconicRolledProductsCorp_20191217_10-12B_EX-2.7_11923804_EX-2.7_Trademark License Agreement,Covenant Not To Sue,Cap On Liability
+1725,STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT,Governing Law,Cap On Liability
+1726,STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT,Rofr/Rofo/Rofn,Cap On Liability
+1727,STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT,Rofr/Rofo/Rofn,Cap On Liability
+1728,STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT,Revenue/Profit Sharing,Cap On Liability
+1729,STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT,Revenue/Profit Sharing,Cap On Liability
+1730,STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT,Minimum Commitment,Cap On Liability
+1731,STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT,Minimum Commitment,Cap On Liability
+1732,STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT,Post-Termination Services,Cap On Liability
+1733,STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT,Post-Termination Services,Cap On Liability
+1734,STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT,Post-Termination Services,Cap On Liability
+1735,STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT,Audit Rights,Cap On Liability
+1736,STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT,Insurance,Cap On Liability
+1780,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Expiration Date,Cap On Liability
+1781,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Governing Law,Cap On Liability
+1782,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Non-Compete,Cap On Liability
+1783,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Termination For Convenience,Cap On Liability
+1784,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Rofr/Rofo/Rofn,Cap On Liability
+1785,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Rofr/Rofo/Rofn,Cap On Liability
+1786,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Rofr/Rofo/Rofn,Cap On Liability
+1787,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Rofr/Rofo/Rofn,Cap On Liability
+1788,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Rofr/Rofo/Rofn,Cap On Liability
+1789,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Rofr/Rofo/Rofn,Cap On Liability
+1790,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Rofr/Rofo/Rofn,Cap On Liability
+1791,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Rofr/Rofo/Rofn,Cap On Liability
+1792,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Rofr/Rofo/Rofn,Cap On Liability
+1793,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Change Of Control,Cap On Liability
+1794,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Change Of Control,Cap On Liability
+1795,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Anti-Assignment,Cap On Liability
+1796,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Anti-Assignment,Cap On Liability
+1797,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Anti-Assignment,Cap On Liability
+1798,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Revenue/Profit Sharing,Cap On Liability
+1799,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Revenue/Profit Sharing,Cap On Liability
+1800,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Joint Ip Ownership,Cap On Liability
+1801,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Joint Ip Ownership,Cap On Liability
+1802,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Joint Ip Ownership,Cap On Liability
+1803,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Joint Ip Ownership,Cap On Liability
+1804,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Joint Ip Ownership,Cap On Liability
+1805,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,License Grant,Cap On Liability
+1806,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,License Grant,Cap On Liability
+1807,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Post-Termination Services,Cap On Liability
+1808,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Post-Termination Services,Cap On Liability
+1809,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Audit Rights,Cap On Liability
+1810,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Cap On Liability,Cap On Liability
+1811,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Insurance,Cap On Liability
+1812,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Insurance,Cap On Liability
+1813,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Insurance,Cap On Liability
+1814,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Insurance,Cap On Liability
+1815,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Insurance,Cap On Liability
+1816,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement,Covenant Not To Sue,Cap On Liability
+1916,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Expiration Date,Cap On Liability
+1917,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Governing Law,Cap On Liability
+1918,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Governing Law,Cap On Liability
+1919,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Non-Compete,Cap On Liability
+1920,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Non-Compete,Cap On Liability
+1921,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Non-Compete,Cap On Liability
+1922,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Non-Compete,Cap On Liability
+1923,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Non-Compete,Cap On Liability
+1924,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Exclusivity,Cap On Liability
+1925,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Anti-Assignment,Cap On Liability
+1926,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Volume Restriction,Cap On Liability
+1927,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,License Grant,Cap On Liability
+1928,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,License Grant,Cap On Liability
+1929,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Post-Termination Services,Cap On Liability
+1930,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Cap On Liability,Cap On Liability
+1931,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Cap On Liability,Cap On Liability
+1932,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Cap On Liability,Cap On Liability
+1933,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Cap On Liability,Cap On Liability
+1934,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Cap On Liability,Cap On Liability
+1935,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Cap On Liability,Cap On Liability
+1936,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Cap On Liability,Cap On Liability
+1937,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Cap On Liability,Cap On Liability
+1938,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Warranty Duration,Cap On Liability
+1939,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Warranty Duration,Cap On Liability
+1940,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Warranty Duration,Cap On Liability
+1941,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Covenant Not To Sue,Cap On Liability
+1942,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Covenant Not To Sue,Cap On Liability
+1943,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Covenant Not To Sue,Cap On Liability
+1944,AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement,Covenant Not To Sue,Cap On Liability
+2032,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Expiration Date,Cap On Liability
+2033,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Governing Law,Cap On Liability
+2034,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Anti-Assignment,Cap On Liability
+2035,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Anti-Assignment,Cap On Liability
+2036,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Anti-Assignment,Cap On Liability
+2037,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Anti-Assignment,Cap On Liability
+2038,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Minimum Commitment,Cap On Liability
+2039,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Minimum Commitment,Cap On Liability
+2040,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Minimum Commitment,Cap On Liability
+2041,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Minimum Commitment,Cap On Liability
+2042,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Minimum Commitment,Cap On Liability
+2043,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Minimum Commitment,Cap On Liability
+2044,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Minimum Commitment,Cap On Liability
+2045,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Minimum Commitment,Cap On Liability
+2046,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Minimum Commitment,Cap On Liability
+2047,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Volume Restriction,Cap On Liability
+2048,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Volume Restriction,Cap On Liability
+2049,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Cap On Liability,Cap On Liability
+2050,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Cap On Liability,Cap On Liability
+2051,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Liquidated Damages,Cap On Liability
+2052,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Liquidated Damages,Cap On Liability
+2053,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Warranty Duration,Cap On Liability
+2054,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Insurance,Cap On Liability
+2055,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Insurance,Cap On Liability
+2056,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT,Insurance,Cap On Liability
+2057,"VIVINT SOLAR, INC. - NON-COMPETITION AGREEMENT",Expiration Date,Cap On Liability
+2078,CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement,Expiration Date,Cap On Liability
+2079,CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement,Renewal Term,Cap On Liability
+2080,CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement,Governing Law,Cap On Liability
+2081,CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement,Anti-Assignment,Cap On Liability
+2119,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Expiration Date,Cap On Liability
+2120,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Renewal Term,Cap On Liability
+2121,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Governing Law,Cap On Liability
+2122,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Exclusivity,Cap On Liability
+2123,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Exclusivity,Cap On Liability
+2124,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Exclusivity,Cap On Liability
+2125,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Termination For Convenience,Cap On Liability
+2126,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Termination For Convenience,Cap On Liability
+2127,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Rofr/Rofo/Rofn,Cap On Liability
+2128,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Rofr/Rofo/Rofn,Cap On Liability
+2129,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Rofr/Rofo/Rofn,Cap On Liability
+2130,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Rofr/Rofo/Rofn,Cap On Liability
+2131,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Anti-Assignment,Cap On Liability
+2132,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Revenue/Profit Sharing,Cap On Liability
+2133,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Minimum Commitment,Cap On Liability
+2134,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Joint Ip Ownership,Cap On Liability
+2135,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,License Grant,Cap On Liability
+2136,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Post-Termination Services,Cap On Liability
+2137,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Audit Rights,Cap On Liability
+2138,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Audit Rights,Cap On Liability
+2139,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Audit Rights,Cap On Liability
+2140,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Audit Rights,Cap On Liability
+2141,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Audit Rights,Cap On Liability
+2142,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Audit Rights,Cap On Liability
+2143,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Audit Rights,Cap On Liability
+2144,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Audit Rights,Cap On Liability
+2145,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Audit Rights,Cap On Liability
+2146,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Audit Rights,Cap On Liability
+2147,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Liquidated Damages,Cap On Liability
+2148,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Warranty Duration,Cap On Liability
+2149,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Insurance,Cap On Liability
+2150,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Insurance,Cap On Liability
+2151,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Insurance,Cap On Liability
+2152,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Insurance,Cap On Liability
+2153,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Insurance,Cap On Liability
+2154,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Insurance,Cap On Liability
+2155,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Insurance,Cap On Liability
+2156,RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement,Covenant Not To Sue,Cap On Liability
+2377,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Expiration Date,Cap On Liability
+2378,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Governing Law,Cap On Liability
+2379,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Anti-Assignment,Cap On Liability
+2380,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Anti-Assignment,Cap On Liability
+2381,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Revenue/Profit Sharing,Cap On Liability
+2382,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Revenue/Profit Sharing,Cap On Liability
+2383,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Minimum Commitment,Cap On Liability
+2384,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Minimum Commitment,Cap On Liability
+2385,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Minimum Commitment,Cap On Liability
+2386,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Volume Restriction,Cap On Liability
+2387,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Volume Restriction,Cap On Liability
+2388,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Volume Restriction,Cap On Liability
+2389,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Volume Restriction,Cap On Liability
+2390,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Volume Restriction,Cap On Liability
+2391,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,License Grant,Cap On Liability
+2392,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,License Grant,Cap On Liability
+2393,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Post-Termination Services,Cap On Liability
+2394,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Post-Termination Services,Cap On Liability
+2395,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Audit Rights,Cap On Liability
+2396,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Audit Rights,Cap On Liability
+2397,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Insurance,Cap On Liability
+2398,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Insurance,Cap On Liability
+2399,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Insurance,Cap On Liability
+2400,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Insurance,Cap On Liability
+2401,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT,Covenant Not To Sue,Cap On Liability
+2757,USASYNTHETICFUELCORP_10_21_2010-EX-10.10-STRATEGIC ALLIANCE AGREEMENT,Governing Law,Cap On Liability
+2758,USASYNTHETICFUELCORP_10_21_2010-EX-10.10-STRATEGIC ALLIANCE AGREEMENT,Exclusivity,Cap On Liability
+2759,USASYNTHETICFUELCORP_10_21_2010-EX-10.10-STRATEGIC ALLIANCE AGREEMENT,Revenue/Profit Sharing,Cap On Liability
+2760,USASYNTHETICFUELCORP_10_21_2010-EX-10.10-STRATEGIC ALLIANCE AGREEMENT,Revenue/Profit Sharing,Cap On Liability
+2761,USASYNTHETICFUELCORP_10_21_2010-EX-10.10-STRATEGIC ALLIANCE AGREEMENT,Revenue/Profit Sharing,Cap On Liability
+2762,USASYNTHETICFUELCORP_10_21_2010-EX-10.10-STRATEGIC ALLIANCE AGREEMENT,Minimum Commitment,Cap On Liability
+2763,USASYNTHETICFUELCORP_10_21_2010-EX-10.10-STRATEGIC ALLIANCE AGREEMENT,Minimum Commitment,Cap On Liability
+2764,USASYNTHETICFUELCORP_10_21_2010-EX-10.10-STRATEGIC ALLIANCE AGREEMENT,Minimum Commitment,Cap On Liability
+2765,USASYNTHETICFUELCORP_10_21_2010-EX-10.10-STRATEGIC ALLIANCE AGREEMENT,Cap On Liability,Cap On Liability
+2802,WESTERN COPPER - NON-COMPETITION AGREEMENT,Governing Law,Cap On Liability
+2803,WESTERN COPPER - NON-COMPETITION AGREEMENT,Non-Compete,Cap On Liability
+2804,WESTERN COPPER - NON-COMPETITION AGREEMENT,Non-Compete,Cap On Liability
+2805,WESTERN COPPER - NON-COMPETITION AGREEMENT,Rofr/Rofo/Rofn,Cap On Liability
+2806,WESTERN COPPER - NON-COMPETITION AGREEMENT,Rofr/Rofo/Rofn,Cap On Liability
+2807,WESTERN COPPER - NON-COMPETITION AGREEMENT,Rofr/Rofo/Rofn,Cap On Liability
+2808,WESTERN COPPER - NON-COMPETITION AGREEMENT,Rofr/Rofo/Rofn,Cap On Liability
+2809,WESTERN COPPER - NON-COMPETITION AGREEMENT,Rofr/Rofo/Rofn,Cap On Liability
+2810,WESTERN COPPER - NON-COMPETITION AGREEMENT,Rofr/Rofo/Rofn,Cap On Liability
+2820,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Expiration Date,Cap On Liability
+2821,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Governing Law,Cap On Liability
+2822,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Exclusivity,Cap On Liability
+2823,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Exclusivity,Cap On Liability
+2824,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Anti-Assignment,Cap On Liability
+2825,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Anti-Assignment,Cap On Liability
+2826,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Minimum Commitment,Cap On Liability
+2827,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",License Grant,Cap On Liability
+2828,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",License Grant,Cap On Liability
+2829,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Post-Termination Services,Cap On Liability
+2830,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Post-Termination Services,Cap On Liability
+2831,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Post-Termination Services,Cap On Liability
+2832,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Post-Termination Services,Cap On Liability
+2833,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Post-Termination Services,Cap On Liability
+2834,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Audit Rights,Cap On Liability
+2835,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Audit Rights,Cap On Liability
+2836,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Audit Rights,Cap On Liability
+2837,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Audit Rights,Cap On Liability
+2838,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Audit Rights,Cap On Liability
+2839,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Audit Rights,Cap On Liability
+2840,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Audit Rights,Cap On Liability
+2841,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Audit Rights,Cap On Liability
+2842,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Audit Rights,Cap On Liability
+2843,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Audit Rights,Cap On Liability
+2844,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Cap On Liability,Cap On Liability
+2845,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Liquidated Damages,Cap On Liability
+2846,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Warranty Duration,Cap On Liability
+2847,"HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement",Covenant Not To Sue,Cap On Liability
+2885,MphaseTechnologiesInc_20030911_10-K_EX-10.15_1560667_EX-10.15_Co-Branding Agreement,Expiration Date,Cap On Liability
+2886,MphaseTechnologiesInc_20030911_10-K_EX-10.15_1560667_EX-10.15_Co-Branding Agreement,Renewal Term,Cap On Liability
+2887,MphaseTechnologiesInc_20030911_10-K_EX-10.15_1560667_EX-10.15_Co-Branding Agreement,Governing Law,Cap On Liability
+2888,MphaseTechnologiesInc_20030911_10-K_EX-10.15_1560667_EX-10.15_Co-Branding Agreement,Termination For Convenience,Cap On Liability
+2889,MphaseTechnologiesInc_20030911_10-K_EX-10.15_1560667_EX-10.15_Co-Branding Agreement,Change Of Control,Cap On Liability
+2890,MphaseTechnologiesInc_20030911_10-K_EX-10.15_1560667_EX-10.15_Co-Branding Agreement,Anti-Assignment,Cap On Liability
+2891,MphaseTechnologiesInc_20030911_10-K_EX-10.15_1560667_EX-10.15_Co-Branding Agreement,Cap On Liability,Cap On Liability
+2951,"BABCOCK_WILCOXENTERPRISES,INC_08_04_2015-EX-10.17-INTELLECTUAL PROPERTY AGREEMENT between THE BABCOCK _ WILCOX COMPANY and BABCOCK _ WILCOX ENTERPRISES, INC.",Governing Law,Cap On Liability
+2952,"BABCOCK_WILCOXENTERPRISES,INC_08_04_2015-EX-10.17-INTELLECTUAL PROPERTY AGREEMENT between THE BABCOCK _ WILCOX COMPANY and BABCOCK _ WILCOX ENTERPRISES, INC.",Exclusivity,Cap On Liability
+2953,"BABCOCK_WILCOXENTERPRISES,INC_08_04_2015-EX-10.17-INTELLECTUAL PROPERTY AGREEMENT between THE BABCOCK _ WILCOX COMPANY and BABCOCK _ WILCOX ENTERPRISES, INC.",Exclusivity,Cap On Liability
+2954,"BABCOCK_WILCOXENTERPRISES,INC_08_04_2015-EX-10.17-INTELLECTUAL PROPERTY AGREEMENT between THE BABCOCK _ WILCOX COMPANY and BABCOCK _ WILCOX ENTERPRISES, INC.",Rofr/Rofo/Rofn,Cap On Liability
+2955,"BABCOCK_WILCOXENTERPRISES,INC_08_04_2015-EX-10.17-INTELLECTUAL PROPERTY AGREEMENT between THE BABCOCK _ WILCOX COMPANY and BABCOCK _ WILCOX ENTERPRISES, INC.",Change Of Control,Cap On Liability
+2956,"BABCOCK_WILCOXENTERPRISES,INC_08_04_2015-EX-10.17-INTELLECTUAL PROPERTY AGREEMENT between THE BABCOCK _ WILCOX COMPANY and BABCOCK _ WILCOX ENTERPRISES, INC.",Anti-Assignment,Cap On Liability
+2957,"BABCOCK_WILCOXENTERPRISES,INC_08_04_2015-EX-10.17-INTELLECTUAL PROPERTY AGREEMENT between THE BABCOCK _ WILCOX COMPANY and BABCOCK _ WILCOX ENTERPRISES, INC.",Ip Ownership Assignment,Cap On Liability
+2958,"BABCOCK_WILCOXENTERPRISES,INC_08_04_2015-EX-10.17-INTELLECTUAL PROPERTY AGREEMENT between THE BABCOCK _ WILCOX COMPANY and BABCOCK _ WILCOX ENTERPRISES, INC.",License Grant,Cap On Liability
+2959,"BABCOCK_WILCOXENTERPRISES,INC_08_04_2015-EX-10.17-INTELLECTUAL PROPERTY AGREEMENT between THE BABCOCK _ WILCOX COMPANY and BABCOCK _ WILCOX ENTERPRISES, INC.",License Grant,Cap On Liability
+2960,"BABCOCK_WILCOXENTERPRISES,INC_08_04_2015-EX-10.17-INTELLECTUAL PROPERTY AGREEMENT between THE BABCOCK _ WILCOX COMPANY and BABCOCK _ WILCOX ENTERPRISES, INC.",License Grant,Cap On Liability
+2961,"BABCOCK_WILCOXENTERPRISES,INC_08_04_2015-EX-10.17-INTELLECTUAL PROPERTY AGREEMENT between THE BABCOCK _ WILCOX COMPANY and BABCOCK _ WILCOX ENTERPRISES, INC.",License Grant,Cap On Liability
+2962,"BABCOCK_WILCOXENTERPRISES,INC_08_04_2015-EX-10.17-INTELLECTUAL PROPERTY AGREEMENT between THE BABCOCK _ WILCOX COMPANY and BABCOCK _ WILCOX ENTERPRISES, INC.",License Grant,Cap On Liability
+2963,"BABCOCK_WILCOXENTERPRISES,INC_08_04_2015-EX-10.17-INTELLECTUAL PROPERTY AGREEMENT between THE BABCOCK _ WILCOX COMPANY and BABCOCK _ WILCOX ENTERPRISES, INC.",License Grant,Cap On Liability
+2964,"BABCOCK_WILCOXENTERPRISES,INC_08_04_2015-EX-10.17-INTELLECTUAL PROPERTY AGREEMENT between THE BABCOCK _ WILCOX COMPANY and BABCOCK _ WILCOX ENTERPRISES, INC.",Post-Termination Services,Cap On Liability
+2965,"BABCOCK_WILCOXENTERPRISES,INC_08_04_2015-EX-10.17-INTELLECTUAL PROPERTY AGREEMENT between THE BABCOCK _ WILCOX COMPANY and BABCOCK _ WILCOX ENTERPRISES, INC.",Covenant Not To Sue,Cap On Liability
+2966,"BABCOCK_WILCOXENTERPRISES,INC_08_04_2015-EX-10.17-INTELLECTUAL PROPERTY AGREEMENT between THE BABCOCK _ WILCOX COMPANY and BABCOCK _ WILCOX ENTERPRISES, INC.",Covenant Not To Sue,Cap On Liability
+2967,"BABCOCK_WILCOXENTERPRISES,INC_08_04_2015-EX-10.17-INTELLECTUAL PROPERTY AGREEMENT between THE BABCOCK _ WILCOX COMPANY and BABCOCK _ WILCOX ENTERPRISES, INC.",Covenant Not To Sue,Cap On Liability
+3064,"VAPOTHERM, INC. - Manufacturing and Supply Agreement",Governing Law,Cap On Liability
+3065,"VAPOTHERM, INC. - Manufacturing and Supply Agreement",Anti-Assignment,Cap On Liability
+3066,"VAPOTHERM, INC. - Manufacturing and Supply Agreement",Minimum Commitment,Cap On Liability
+3067,"VAPOTHERM, INC. - Manufacturing and Supply Agreement",Minimum Commitment,Cap On Liability
+3068,"VAPOTHERM, INC. - Manufacturing and Supply Agreement",Audit Rights,Cap On Liability
+3069,"VAPOTHERM, INC. - Manufacturing and Supply Agreement",Cap On Liability,Cap On Liability
+3070,"VAPOTHERM, INC. - Manufacturing and Supply Agreement",Cap On Liability,Cap On Liability
+3071,"VAPOTHERM, INC. - Manufacturing and Supply Agreement",Insurance,Cap On Liability
+3072,"VAPOTHERM, INC. - Manufacturing and Supply Agreement",Insurance,Cap On Liability
+3073,"VAPOTHERM, INC. - Manufacturing and Supply Agreement",Insurance,Cap On Liability
+3074,"VAPOTHERM, INC. - Manufacturing and Supply Agreement",Insurance,Cap On Liability
+3075,"VAPOTHERM, INC. - Manufacturing and Supply Agreement",Insurance,Cap On Liability
+3076,PLAYAHOTELS_RESORTSNV_03_14_2017-EX-10.22-STRATEGIC ALLIANCE AGREEMENT (Hyatt Ziva Cancun),Governing Law,Cap On Liability
+3077,PLAYAHOTELS_RESORTSNV_03_14_2017-EX-10.22-STRATEGIC ALLIANCE AGREEMENT (Hyatt Ziva Cancun),Rofr/Rofo/Rofn,Cap On Liability
+3078,PLAYAHOTELS_RESORTSNV_03_14_2017-EX-10.22-STRATEGIC ALLIANCE AGREEMENT (Hyatt Ziva Cancun),Rofr/Rofo/Rofn,Cap On Liability
+3079,PLAYAHOTELS_RESORTSNV_03_14_2017-EX-10.22-STRATEGIC ALLIANCE AGREEMENT (Hyatt Ziva Cancun),Rofr/Rofo/Rofn,Cap On Liability
+3080,PLAYAHOTELS_RESORTSNV_03_14_2017-EX-10.22-STRATEGIC ALLIANCE AGREEMENT (Hyatt Ziva Cancun),Rofr/Rofo/Rofn,Cap On Liability
+3081,PLAYAHOTELS_RESORTSNV_03_14_2017-EX-10.22-STRATEGIC ALLIANCE AGREEMENT (Hyatt Ziva Cancun),Rofr/Rofo/Rofn,Cap On Liability
+3082,PLAYAHOTELS_RESORTSNV_03_14_2017-EX-10.22-STRATEGIC ALLIANCE AGREEMENT (Hyatt Ziva Cancun),Rofr/Rofo/Rofn,Cap On Liability
+3083,PLAYAHOTELS_RESORTSNV_03_14_2017-EX-10.22-STRATEGIC ALLIANCE AGREEMENT (Hyatt Ziva Cancun),Rofr/Rofo/Rofn,Cap On Liability
+3084,PLAYAHOTELS_RESORTSNV_03_14_2017-EX-10.22-STRATEGIC ALLIANCE AGREEMENT (Hyatt Ziva Cancun),Cap On Liability,Cap On Liability
+3201,"SPOKHOLDINGS,INC_06_19_2020-EX-10.1-COOPERATION AGREEMENT",Expiration Date,Cap On Liability
+3202,"SPOKHOLDINGS,INC_06_19_2020-EX-10.1-COOPERATION AGREEMENT",Governing Law,Cap On Liability
+3203,"SPOKHOLDINGS,INC_06_19_2020-EX-10.1-COOPERATION AGREEMENT",Anti-Assignment,Cap On Liability
+3442,PRIMEENERGYRESOURCESCORP_04_02_2007-EX-10.28-COMPLETION AND LIQUIDITY MAINTENANCE AGREEMENT,Governing Law,Cap On Liability
+3443,AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement,Expiration Date,Cap On Liability
+3444,AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement,Renewal Term,Cap On Liability
+3445,AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement,Governing Law,Cap On Liability
+3446,AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement,Non-Compete,Cap On Liability
+3447,AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement,Exclusivity,Cap On Liability
+3448,AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement,Exclusivity,Cap On Liability
+3449,AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement,Rofr/Rofo/Rofn,Cap On Liability
+3450,AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement,Change Of Control,Cap On Liability
+3451,AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement,Change Of Control,Cap On Liability
+3452,AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement,Anti-Assignment,Cap On Liability
+3453,AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement,Anti-Assignment,Cap On Liability
+3454,AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement,Anti-Assignment,Cap On Liability
+3455,AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement,Minimum Commitment,Cap On Liability
+3456,AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement,Minimum Commitment,Cap On Liability
+3457,AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement,Ip Ownership Assignment,Cap On Liability
+3458,AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement,Warranty Duration,Cap On Liability
+3459,AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement,Insurance,Cap On Liability
+3460,AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement,Insurance,Cap On Liability
+3567,PhoenixNewMediaLtd_20110421_F-1_EX-10.17_6958322_EX-10.17_Content License Agreement,Expiration Date,Cap On Liability
+3568,PhoenixNewMediaLtd_20110421_F-1_EX-10.17_6958322_EX-10.17_Content License Agreement,Governing Law,Cap On Liability
+3569,PhoenixNewMediaLtd_20110421_F-1_EX-10.17_6958322_EX-10.17_Content License Agreement,Exclusivity,Cap On Liability
+3570,PhoenixNewMediaLtd_20110421_F-1_EX-10.17_6958322_EX-10.17_Content License Agreement,Rofr/Rofo/Rofn,Cap On Liability
+3571,PhoenixNewMediaLtd_20110421_F-1_EX-10.17_6958322_EX-10.17_Content License Agreement,Rofr/Rofo/Rofn,Cap On Liability
+3572,PhoenixNewMediaLtd_20110421_F-1_EX-10.17_6958322_EX-10.17_Content License Agreement,Rofr/Rofo/Rofn,Cap On Liability
+3573,PhoenixNewMediaLtd_20110421_F-1_EX-10.17_6958322_EX-10.17_Content License Agreement,Change Of Control,Cap On Liability
+3574,PhoenixNewMediaLtd_20110421_F-1_EX-10.17_6958322_EX-10.17_Content License Agreement,Anti-Assignment,Cap On Liability
+3575,PhoenixNewMediaLtd_20110421_F-1_EX-10.17_6958322_EX-10.17_Content License Agreement,Ip Ownership Assignment,Cap On Liability
+3576,PhoenixNewMediaLtd_20110421_F-1_EX-10.17_6958322_EX-10.17_Content License Agreement,License Grant,Cap On Liability
+3577,PhoenixNewMediaLtd_20110421_F-1_EX-10.17_6958322_EX-10.17_Content License Agreement,Non-Transferable License,Cap On Liability
+3700,BerkshireHillsBancorpInc_20120809_10-Q_EX-10.16_7708169_EX-10.16_Endorsement Agreement,Expiration Date,Cap On Liability
+3701,BerkshireHillsBancorpInc_20120809_10-Q_EX-10.16_7708169_EX-10.16_Endorsement Agreement,Governing Law,Cap On Liability
+3702,BerkshireHillsBancorpInc_20120809_10-Q_EX-10.16_7708169_EX-10.16_Endorsement Agreement,Non-Compete,Cap On Liability
+3703,BerkshireHillsBancorpInc_20120809_10-Q_EX-10.16_7708169_EX-10.16_Endorsement Agreement,Exclusivity,Cap On Liability
+3704,BerkshireHillsBancorpInc_20120809_10-Q_EX-10.16_7708169_EX-10.16_Endorsement Agreement,Exclusivity,Cap On Liability
+3705,BerkshireHillsBancorpInc_20120809_10-Q_EX-10.16_7708169_EX-10.16_Endorsement Agreement,Competitive Restriction Exception,Cap On Liability
+3706,BerkshireHillsBancorpInc_20120809_10-Q_EX-10.16_7708169_EX-10.16_Endorsement Agreement,Non-Disparagement,Cap On Liability
+3707,BerkshireHillsBancorpInc_20120809_10-Q_EX-10.16_7708169_EX-10.16_Endorsement Agreement,Non-Disparagement,Cap On Liability
+3708,BerkshireHillsBancorpInc_20120809_10-Q_EX-10.16_7708169_EX-10.16_Endorsement Agreement,Change Of Control,Cap On Liability
+3709,BerkshireHillsBancorpInc_20120809_10-Q_EX-10.16_7708169_EX-10.16_Endorsement Agreement,Anti-Assignment,Cap On Liability
+3710,BerkshireHillsBancorpInc_20120809_10-Q_EX-10.16_7708169_EX-10.16_Endorsement Agreement,Volume Restriction,Cap On Liability
+3711,BerkshireHillsBancorpInc_20120809_10-Q_EX-10.16_7708169_EX-10.16_Endorsement Agreement,Volume Restriction,Cap On Liability
+3712,BerkshireHillsBancorpInc_20120809_10-Q_EX-10.16_7708169_EX-10.16_Endorsement Agreement,License Grant,Cap On Liability
+3713,BerkshireHillsBancorpInc_20120809_10-Q_EX-10.16_7708169_EX-10.16_Endorsement Agreement,Post-Termination Services,Cap On Liability
+3733,VALENCETECHNOLOGYINC_02_14_2003-EX-10-JOINT VENTURE CONTRACT,Expiration Date,Cap On Liability
+3734,VALENCETECHNOLOGYINC_02_14_2003-EX-10-JOINT VENTURE CONTRACT,Governing Law,Cap On Liability
+3735,VALENCETECHNOLOGYINC_02_14_2003-EX-10-JOINT VENTURE CONTRACT,Non-Compete,Cap On Liability
+3736,VALENCETECHNOLOGYINC_02_14_2003-EX-10-JOINT VENTURE CONTRACT,Anti-Assignment,Cap On Liability
+3737,VALENCETECHNOLOGYINC_02_14_2003-EX-10-JOINT VENTURE CONTRACT,Revenue/Profit Sharing,Cap On Liability
+3738,VALENCETECHNOLOGYINC_02_14_2003-EX-10-JOINT VENTURE CONTRACT,Minimum Commitment,Cap On Liability
+3739,VALENCETECHNOLOGYINC_02_14_2003-EX-10-JOINT VENTURE CONTRACT,License Grant,Cap On Liability
+3740,VALENCETECHNOLOGYINC_02_14_2003-EX-10-JOINT VENTURE CONTRACT,License Grant,Cap On Liability
+3741,VALENCETECHNOLOGYINC_02_14_2003-EX-10-JOINT VENTURE CONTRACT,Audit Rights,Cap On Liability
+3742,VALENCETECHNOLOGYINC_02_14_2003-EX-10-JOINT VENTURE CONTRACT,Audit Rights,Cap On Liability
+3743,VALENCETECHNOLOGYINC_02_14_2003-EX-10-JOINT VENTURE CONTRACT,Audit Rights,Cap On Liability
+3744,VALENCETECHNOLOGYINC_02_14_2003-EX-10-JOINT VENTURE CONTRACT,Audit Rights,Cap On Liability
+3745,VALENCETECHNOLOGYINC_02_14_2003-EX-10-JOINT VENTURE CONTRACT,Audit Rights,Cap On Liability
+3746,VALENCETECHNOLOGYINC_02_14_2003-EX-10-JOINT VENTURE CONTRACT,Audit Rights,Cap On Liability
+3747,VALENCETECHNOLOGYINC_02_14_2003-EX-10-JOINT VENTURE CONTRACT,Insurance,Cap On Liability
+3748,VALENCETECHNOLOGYINC_02_14_2003-EX-10-JOINT VENTURE CONTRACT,Insurance,Cap On Liability
+3854,Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT,Governing Law,Cap On Liability
+3855,Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT,Non-Compete,Cap On Liability
+3856,Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT,Non-Compete,Cap On Liability
+3857,Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT,Competitive Restriction Exception,Cap On Liability
+3858,Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT,No-Solicit Of Employees,Cap On Liability
+3859,Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT,No-Solicit Of Employees,Cap On Liability
+3860,Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT,No-Solicit Of Employees,Cap On Liability
+3861,Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT,Anti-Assignment,Cap On Liability
+3862,Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT,Revenue/Profit Sharing,Cap On Liability
+3873,GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement,Expiration Date,Cap On Liability
+3874,GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement,Governing Law,Cap On Liability
+3875,GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement,Exclusivity,Cap On Liability
+3876,GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement,Competitive Restriction Exception,Cap On Liability
+3877,GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement,Non-Disparagement,Cap On Liability
+3878,GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement,Non-Disparagement,Cap On Liability
+3879,GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement,Anti-Assignment,Cap On Liability
+3880,GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement,Minimum Commitment,Cap On Liability
+3881,GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement,Non-Transferable License,Cap On Liability
+3882,GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement,Non-Transferable License,Cap On Liability
+3883,GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement,Audit Rights,Cap On Liability
+3884,GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement,Insurance,Cap On Liability
+3885,GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement,Insurance,Cap On Liability
+3886,GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement,Covenant Not To Sue,Cap On Liability
+3909,"SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT",Governing Law,Cap On Liability
+3910,"SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT",Anti-Assignment,Cap On Liability
+3911,"SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT",Audit Rights,Cap On Liability
+3912,"SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT",Cap On Liability,Cap On Liability
+3913,KENTUCKYUTILITIESCO_03_25_2003-EX-10.65-TRANSPORTATION AGREEMENT,Expiration Date,Cap On Liability
+3914,KENTUCKYUTILITIESCO_03_25_2003-EX-10.65-TRANSPORTATION AGREEMENT,Governing Law,Cap On Liability
+3915,KENTUCKYUTILITIESCO_03_25_2003-EX-10.65-TRANSPORTATION AGREEMENT,Anti-Assignment,Cap On Liability
+3916,KENTUCKYUTILITIESCO_03_25_2003-EX-10.65-TRANSPORTATION AGREEMENT,Minimum Commitment,Cap On Liability
+3917,KENTUCKYUTILITIESCO_03_25_2003-EX-10.65-TRANSPORTATION AGREEMENT,Minimum Commitment,Cap On Liability
+3918,KENTUCKYUTILITIESCO_03_25_2003-EX-10.65-TRANSPORTATION AGREEMENT,Minimum Commitment,Cap On Liability
+3919,KENTUCKYUTILITIESCO_03_25_2003-EX-10.65-TRANSPORTATION AGREEMENT,Volume Restriction,Cap On Liability
+3920,KENTUCKYUTILITIESCO_03_25_2003-EX-10.65-TRANSPORTATION AGREEMENT,Volume Restriction,Cap On Liability
+4120,AFSALABANCORPINC_08_01_1996-EX-1.1-AGENCY AGREEMENT,Governing Law,Cap On Liability
+4121,AFSALABANCORPINC_08_01_1996-EX-1.1-AGENCY AGREEMENT,Termination For Convenience,Cap On Liability
+4122,AFSALABANCORPINC_08_01_1996-EX-1.1-AGENCY AGREEMENT,Termination For Convenience,Cap On Liability
+4123,AFSALABANCORPINC_08_01_1996-EX-1.1-AGENCY AGREEMENT,Termination For Convenience,Cap On Liability
+4124,AFSALABANCORPINC_08_01_1996-EX-1.1-AGENCY AGREEMENT,Termination For Convenience,Cap On Liability
+4125,AFSALABANCORPINC_08_01_1996-EX-1.1-AGENCY AGREEMENT,Revenue/Profit Sharing,Cap On Liability
+4126,AFSALABANCORPINC_08_01_1996-EX-1.1-AGENCY AGREEMENT,Minimum Commitment,Cap On Liability
+4127,AFSALABANCORPINC_08_01_1996-EX-1.1-AGENCY AGREEMENT,Cap On Liability,Cap On Liability
+4128,AFSALABANCORPINC_08_01_1996-EX-1.1-AGENCY AGREEMENT,Liquidated Damages,Cap On Liability
+4129,AFSALABANCORPINC_08_01_1996-EX-1.1-AGENCY AGREEMENT,Insurance,Cap On Liability
+4240,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Expiration Date,Cap On Liability
+4241,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Renewal Term,Cap On Liability
+4242,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Governing Law,Cap On Liability
+4243,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Exclusivity,Cap On Liability
+4244,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Exclusivity,Cap On Liability
+4245,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Termination For Convenience,Cap On Liability
+4246,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Rofr/Rofo/Rofn,Cap On Liability
+4247,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Anti-Assignment,Cap On Liability
+4248,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Anti-Assignment,Cap On Liability
+4249,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Revenue/Profit Sharing,Cap On Liability
+4250,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Revenue/Profit Sharing,Cap On Liability
+4251,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Revenue/Profit Sharing,Cap On Liability
+4252,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Non-Transferable License,Cap On Liability
+4253,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Post-Termination Services,Cap On Liability
+4254,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Post-Termination Services,Cap On Liability
+4255,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Audit Rights,Cap On Liability
+4256,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Audit Rights,Cap On Liability
+4257,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Audit Rights,Cap On Liability
+4258,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Audit Rights,Cap On Liability
+4259,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Audit Rights,Cap On Liability
+4260,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Audit Rights,Cap On Liability
+4261,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Cap On Liability,Cap On Liability
+4262,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Insurance,Cap On Liability
+4263,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement,Insurance,Cap On Liability
+4327,HPILHOLDING_01_07_2015-EX-99.1-COOPERATION AGREEMENT,Expiration Date,Cap On Liability
+4328,HPILHOLDING_01_07_2015-EX-99.1-COOPERATION AGREEMENT,Governing Law,Cap On Liability
+4329,HPILHOLDING_01_07_2015-EX-99.1-COOPERATION AGREEMENT,Termination For Convenience,Cap On Liability
+4330,HPILHOLDING_01_07_2015-EX-99.1-COOPERATION AGREEMENT,Anti-Assignment,Cap On Liability
+4331,HPILHOLDING_01_07_2015-EX-99.1-COOPERATION AGREEMENT,Cap On Liability,Cap On Liability
+4332,HPILHOLDING_01_07_2015-EX-99.1-COOPERATION AGREEMENT,Cap On Liability,Cap On Liability
+4450,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT_POWEROF,Expiration Date,Cap On Liability
+4451,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT_POWEROF,Governing Law,Cap On Liability
+4452,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT_POWEROF,Anti-Assignment,Cap On Liability
+4496,"CURAEGISTECHNOLOGIES,INC_05_26_2010-EX-1-CORPORATE SPONSORSHIP AGREEMENT",Expiration Date,Cap On Liability
+4497,"CURAEGISTECHNOLOGIES,INC_05_26_2010-EX-1-CORPORATE SPONSORSHIP AGREEMENT",Governing Law,Cap On Liability
+4498,"CURAEGISTECHNOLOGIES,INC_05_26_2010-EX-1-CORPORATE SPONSORSHIP AGREEMENT",Anti-Assignment,Cap On Liability
+4499,"CURAEGISTECHNOLOGIES,INC_05_26_2010-EX-1-CORPORATE SPONSORSHIP AGREEMENT",Anti-Assignment,Cap On Liability
+4500,"CURAEGISTECHNOLOGIES,INC_05_26_2010-EX-1-CORPORATE SPONSORSHIP AGREEMENT",Anti-Assignment,Cap On Liability
+4501,"CURAEGISTECHNOLOGIES,INC_05_26_2010-EX-1-CORPORATE SPONSORSHIP AGREEMENT",Cap On Liability,Cap On Liability
+4502,"CURAEGISTECHNOLOGIES,INC_05_26_2010-EX-1-CORPORATE SPONSORSHIP AGREEMENT",Insurance,Cap On Liability
+4503,"CURAEGISTECHNOLOGIES,INC_05_26_2010-EX-1-CORPORATE SPONSORSHIP AGREEMENT",Insurance,Cap On Liability
+4504,"CURAEGISTECHNOLOGIES,INC_05_26_2010-EX-1-CORPORATE SPONSORSHIP AGREEMENT",Insurance,Cap On Liability
+4505,"CURAEGISTECHNOLOGIES,INC_05_26_2010-EX-1-CORPORATE SPONSORSHIP AGREEMENT",Insurance,Cap On Liability
+4527,GridironBionutrientsInc_20171206_8-K_EX-10.1_10972555_EX-10.1_Endorsement Agreement,Expiration Date,Cap On Liability
+4528,GridironBionutrientsInc_20171206_8-K_EX-10.1_10972555_EX-10.1_Endorsement Agreement,Governing Law,Cap On Liability
+4529,GridironBionutrientsInc_20171206_8-K_EX-10.1_10972555_EX-10.1_Endorsement Agreement,Exclusivity,Cap On Liability
+4530,GridironBionutrientsInc_20171206_8-K_EX-10.1_10972555_EX-10.1_Endorsement Agreement,Revenue/Profit Sharing,Cap On Liability
+4531,GridironBionutrientsInc_20171206_8-K_EX-10.1_10972555_EX-10.1_Endorsement Agreement,Revenue/Profit Sharing,Cap On Liability
+4532,GridironBionutrientsInc_20171206_8-K_EX-10.1_10972555_EX-10.1_Endorsement Agreement,Revenue/Profit Sharing,Cap On Liability
+4533,GridironBionutrientsInc_20171206_8-K_EX-10.1_10972555_EX-10.1_Endorsement Agreement,Minimum Commitment,Cap On Liability
+4534,GridironBionutrientsInc_20171206_8-K_EX-10.1_10972555_EX-10.1_Endorsement Agreement,Minimum Commitment,Cap On Liability
+4535,GridironBionutrientsInc_20171206_8-K_EX-10.1_10972555_EX-10.1_Endorsement Agreement,Minimum Commitment,Cap On Liability
+4536,GridironBionutrientsInc_20171206_8-K_EX-10.1_10972555_EX-10.1_Endorsement Agreement,License Grant,Cap On Liability
+4537,GridironBionutrientsInc_20171206_8-K_EX-10.1_10972555_EX-10.1_Endorsement Agreement,License Grant,Cap On Liability
+4538,GridironBionutrientsInc_20171206_8-K_EX-10.1_10972555_EX-10.1_Endorsement Agreement,License Grant,Cap On Liability
+4539,GridironBionutrientsInc_20171206_8-K_EX-10.1_10972555_EX-10.1_Endorsement Agreement,Post-Termination Services,Cap On Liability
+4540,GridironBionutrientsInc_20171206_8-K_EX-10.1_10972555_EX-10.1_Endorsement Agreement,Cap On Liability,Cap On Liability
+4541,GridironBionutrientsInc_20171206_8-K_EX-10.1_10972555_EX-10.1_Endorsement Agreement,Cap On Liability,Cap On Liability
+4542,GridironBionutrientsInc_20171206_8-K_EX-10.1_10972555_EX-10.1_Endorsement Agreement,Insurance,Cap On Liability
+4543,GridironBionutrientsInc_20171206_8-K_EX-10.1_10972555_EX-10.1_Endorsement Agreement,Covenant Not To Sue,Cap On Liability
+4678,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Expiration Date,Cap On Liability
+4679,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Renewal Term,Cap On Liability
+4680,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Governing Law,Cap On Liability
+4681,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Non-Compete,Cap On Liability
+4682,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Non-Compete,Cap On Liability
+4683,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Non-Compete,Cap On Liability
+4684,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Exclusivity,Cap On Liability
+4685,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Non-Disparagement,Cap On Liability
+4686,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Non-Disparagement,Cap On Liability
+4687,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Non-Disparagement,Cap On Liability
+4688,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Anti-Assignment,Cap On Liability
+4689,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Anti-Assignment,Cap On Liability
+4690,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Anti-Assignment,Cap On Liability
+4691,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Anti-Assignment,Cap On Liability
+4692,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Revenue/Profit Sharing,Cap On Liability
+4693,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Revenue/Profit Sharing,Cap On Liability
+4694,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Minimum Commitment,Cap On Liability
+4695,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Volume Restriction,Cap On Liability
+4696,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Volume Restriction,Cap On Liability
+4697,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Ip Ownership Assignment,Cap On Liability
+4698,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Post-Termination Services,Cap On Liability
+4699,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Post-Termination Services,Cap On Liability
+4700,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Post-Termination Services,Cap On Liability
+4701,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Post-Termination Services,Cap On Liability
+4702,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Insurance,Cap On Liability
+4703,WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT,Insurance,Cap On Liability
+4729,ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement,Governing Law,Cap On Liability
+4807,BOLIVARMININGCORP_05_23_2003-EX-2.1-VISP WEB SITE BUILDING AND HOSTING AGREEMENT,Expiration Date,Cap On Liability
+4808,BOLIVARMININGCORP_05_23_2003-EX-2.1-VISP WEB SITE BUILDING AND HOSTING AGREEMENT,Renewal Term,Cap On Liability
+4809,BOLIVARMININGCORP_05_23_2003-EX-2.1-VISP WEB SITE BUILDING AND HOSTING AGREEMENT,Governing Law,Cap On Liability
+4810,BOLIVARMININGCORP_05_23_2003-EX-2.1-VISP WEB SITE BUILDING AND HOSTING AGREEMENT,Anti-Assignment,Cap On Liability
+4811,BOLIVARMININGCORP_05_23_2003-EX-2.1-VISP WEB SITE BUILDING AND HOSTING AGREEMENT,Revenue/Profit Sharing,Cap On Liability
+4812,BOLIVARMININGCORP_05_23_2003-EX-2.1-VISP WEB SITE BUILDING AND HOSTING AGREEMENT,Liquidated Damages,Cap On Liability
+4900,"Reinsurance Group of America, Incorporated - A_R REMARKETING  AGREEMENT",Expiration Date,Cap On Liability
+4901,"Reinsurance Group of America, Incorporated - A_R REMARKETING  AGREEMENT",Expiration Date,Cap On Liability
+4902,"Reinsurance Group of America, Incorporated - A_R REMARKETING  AGREEMENT",Exclusivity,Cap On Liability
+4903,"Reinsurance Group of America, Incorporated - A_R REMARKETING  AGREEMENT",Revenue/Profit Sharing,Cap On Liability
+4904,"Reinsurance Group of America, Incorporated - A_R REMARKETING  AGREEMENT",Minimum Commitment,Cap On Liability
+4905,"Reinsurance Group of America, Incorporated - A_R REMARKETING  AGREEMENT",Cap On Liability,Cap On Liability
+4906,"Reinsurance Group of America, Incorporated - A_R REMARKETING  AGREEMENT",Insurance,Cap On Liability
+4907,"Reinsurance Group of America, Incorporated - A_R REMARKETING  AGREEMENT",Insurance,Cap On Liability
+4908,"Reinsurance Group of America, Incorporated - A_R REMARKETING  AGREEMENT",Insurance,Cap On Liability
+5001,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Expiration Date,Cap On Liability
+5002,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Renewal Term,Cap On Liability
+5003,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Non-Compete,Cap On Liability
+5004,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Non-Compete,Cap On Liability
+5005,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Non-Compete,Cap On Liability
+5006,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Non-Compete,Cap On Liability
+5007,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Non-Compete,Cap On Liability
+5008,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Non-Compete,Cap On Liability
+5009,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Non-Compete,Cap On Liability
+5010,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Non-Compete,Cap On Liability
+5011,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Exclusivity,Cap On Liability
+5012,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Competitive Restriction Exception,Cap On Liability
+5013,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Competitive Restriction Exception,Cap On Liability
+5014,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Competitive Restriction Exception,Cap On Liability
+5015,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Revenue/Profit Sharing,Cap On Liability
+5016,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Revenue/Profit Sharing,Cap On Liability
+5017,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Revenue/Profit Sharing,Cap On Liability
+5018,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Revenue/Profit Sharing,Cap On Liability
+5019,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Revenue/Profit Sharing,Cap On Liability
+5020,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Revenue/Profit Sharing,Cap On Liability
+5021,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Revenue/Profit Sharing,Cap On Liability
+5022,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Revenue/Profit Sharing,Cap On Liability
+5023,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Revenue/Profit Sharing,Cap On Liability
+5024,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Volume Restriction,Cap On Liability
+5025,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Volume Restriction,Cap On Liability
+5026,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Ip Ownership Assignment,Cap On Liability
+5027,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,License Grant,Cap On Liability
+5028,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,License Grant,Cap On Liability
+5029,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Non-Transferable License,Cap On Liability
+5030,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Non-Transferable License,Cap On Liability
+5031,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Post-Termination Services,Cap On Liability
+5032,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Post-Termination Services,Cap On Liability
+5033,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Post-Termination Services,Cap On Liability
+5034,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Audit Rights,Cap On Liability
+5035,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Audit Rights,Cap On Liability
+5036,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Cap On Liability,Cap On Liability
+5037,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Cap On Liability,Cap On Liability
+5038,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Liquidated Damages,Cap On Liability
+5039,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Covenant Not To Sue,Cap On Liability
+5040,PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,Covenant Not To Sue,Cap On Liability
+5060,BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,Expiration Date,Cap On Liability
+5061,BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,Governing Law,Cap On Liability
+5062,BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,Termination For Convenience,Cap On Liability
+5063,BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,Change Of Control,Cap On Liability
+5064,BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,Anti-Assignment,Cap On Liability
+5065,BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,Revenue/Profit Sharing,Cap On Liability
+5066,BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,Minimum Commitment,Cap On Liability
+5067,BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,Minimum Commitment,Cap On Liability
+5068,BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,Minimum Commitment,Cap On Liability
+5069,BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,Audit Rights,Cap On Liability
+5070,BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,Cap On Liability,Cap On Liability
+5071,BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,Cap On Liability,Cap On Liability
+5072,BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,Cap On Liability,Cap On Liability
+5073,BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,Cap On Liability,Cap On Liability
+5074,BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,Cap On Liability,Cap On Liability
+5075,BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,Warranty Duration,Cap On Liability
+5076,BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,Insurance,Cap On Liability
+5100,TRIZETTOGROUPINC_08_18_1999-EX-10.17-TECHNICAL INFRASTRUCTURE MAINTENANCE AGREEMENT,Expiration Date,Cap On Liability
+5101,TRIZETTOGROUPINC_08_18_1999-EX-10.17-TECHNICAL INFRASTRUCTURE MAINTENANCE AGREEMENT,Governing Law,Cap On Liability
+5102,TRIZETTOGROUPINC_08_18_1999-EX-10.17-TECHNICAL INFRASTRUCTURE MAINTENANCE AGREEMENT,Anti-Assignment,Cap On Liability
+5103,TRIZETTOGROUPINC_08_18_1999-EX-10.17-TECHNICAL INFRASTRUCTURE MAINTENANCE AGREEMENT,Volume Restriction,Cap On Liability
+5104,TRIZETTOGROUPINC_08_18_1999-EX-10.17-TECHNICAL INFRASTRUCTURE MAINTENANCE AGREEMENT,Cap On Liability,Cap On Liability
+5105,TRIZETTOGROUPINC_08_18_1999-EX-10.17-TECHNICAL INFRASTRUCTURE MAINTENANCE AGREEMENT,Cap On Liability,Cap On Liability
+5106,TRIZETTOGROUPINC_08_18_1999-EX-10.17-TECHNICAL INFRASTRUCTURE MAINTENANCE AGREEMENT,Cap On Liability,Cap On Liability
+5107,TRIZETTOGROUPINC_08_18_1999-EX-10.17-TECHNICAL INFRASTRUCTURE MAINTENANCE AGREEMENT,Cap On Liability,Cap On Liability
+5108,TRIZETTOGROUPINC_08_18_1999-EX-10.17-TECHNICAL INFRASTRUCTURE MAINTENANCE AGREEMENT,Warranty Duration,Cap On Liability
+5204,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Expiration Date,Cap On Liability
+5205,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Renewal Term,Cap On Liability
+5206,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Governing Law,Cap On Liability
+5207,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Non-Compete,Cap On Liability
+5208,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,No-Solicit Of Employees,Cap On Liability
+5209,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Non-Disparagement,Cap On Liability
+5210,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Rofr/Rofo/Rofn,Cap On Liability
+5211,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Change Of Control,Cap On Liability
+5212,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Change Of Control,Cap On Liability
+5213,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Anti-Assignment,Cap On Liability
+5214,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Anti-Assignment,Cap On Liability
+5215,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Anti-Assignment,Cap On Liability
+5216,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Anti-Assignment,Cap On Liability
+5217,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Anti-Assignment,Cap On Liability
+5218,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Anti-Assignment,Cap On Liability
+5219,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Anti-Assignment,Cap On Liability
+5220,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Anti-Assignment,Cap On Liability
+5221,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Revenue/Profit Sharing,Cap On Liability
+5222,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Revenue/Profit Sharing,Cap On Liability
+5223,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Revenue/Profit Sharing,Cap On Liability
+5224,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Minimum Commitment,Cap On Liability
+5225,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Minimum Commitment,Cap On Liability
+5226,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Minimum Commitment,Cap On Liability
+5227,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Minimum Commitment,Cap On Liability
+5228,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Minimum Commitment,Cap On Liability
+5229,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Volume Restriction,Cap On Liability
+5230,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Ip Ownership Assignment,Cap On Liability
+5231,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Ip Ownership Assignment,Cap On Liability
+5232,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Ip Ownership Assignment,Cap On Liability
+5233,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Ip Ownership Assignment,Cap On Liability
+5234,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,License Grant,Cap On Liability
+5235,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Post-Termination Services,Cap On Liability
+5236,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Audit Rights,Cap On Liability
+5237,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Audit Rights,Cap On Liability
+5238,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Audit Rights,Cap On Liability
+5239,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Cap On Liability,Cap On Liability
+5240,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Liquidated Damages,Cap On Liability
+5241,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Liquidated Damages,Cap On Liability
+5242,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Liquidated Damages,Cap On Liability
+5243,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Insurance,Cap On Liability
+5244,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Insurance,Cap On Liability
+5245,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Insurance,Cap On Liability
+5246,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Insurance,Cap On Liability
+5247,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Insurance,Cap On Liability
+5248,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Insurance,Cap On Liability
+5249,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Insurance,Cap On Liability
+5250,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Insurance,Cap On Liability
+5251,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Insurance,Cap On Liability
+5252,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Insurance,Cap On Liability
+5253,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Insurance,Cap On Liability
+5254,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Insurance,Cap On Liability
+5255,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Insurance,Cap On Liability
+5256,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Insurance,Cap On Liability
+5257,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Insurance,Cap On Liability
+5258,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Insurance,Cap On Liability
+5259,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Insurance,Cap On Liability
+5260,SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1,Covenant Not To Sue,Cap On Liability
+5287,IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement,Expiration Date,Cap On Liability
+5288,IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement,Governing Law,Cap On Liability
+5289,IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement,Exclusivity,Cap On Liability
+5290,IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement,Anti-Assignment,Cap On Liability
+5291,IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement,Anti-Assignment,Cap On Liability
+5292,IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement,Anti-Assignment,Cap On Liability
+5293,IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement,Anti-Assignment,Cap On Liability
+5294,IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement,Revenue/Profit Sharing,Cap On Liability
+5295,IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement,Revenue/Profit Sharing,Cap On Liability
+5296,IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement,Revenue/Profit Sharing,Cap On Liability
+5297,IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement,Minimum Commitment,Cap On Liability
+5298,IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement,Minimum Commitment,Cap On Liability
+5299,IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement,Volume Restriction,Cap On Liability
+5300,IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement,Joint Ip Ownership,Cap On Liability
+5301,IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement,Joint Ip Ownership,Cap On Liability
+5302,IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement,License Grant,Cap On Liability
+5303,IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement,License Grant,Cap On Liability
+5304,IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement,Audit Rights,Cap On Liability
+5305,IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement,Covenant Not To Sue,Cap On Liability
+5306,IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement,Covenant Not To Sue,Cap On Liability
+5413,WatchitMediaInc_20061201_8-K_EX-10.1_4148672_EX-10.1_Content License Agreement,Expiration Date,Cap On Liability
+5414,WatchitMediaInc_20061201_8-K_EX-10.1_4148672_EX-10.1_Content License Agreement,Exclusivity,Cap On Liability
+5415,WatchitMediaInc_20061201_8-K_EX-10.1_4148672_EX-10.1_Content License Agreement,Exclusivity,Cap On Liability
+5416,WatchitMediaInc_20061201_8-K_EX-10.1_4148672_EX-10.1_Content License Agreement,Liquidated Damages,Cap On Liability
+5479,"OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT",Expiration Date,Cap On Liability
+5480,"OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT",Renewal Term,Cap On Liability
+5481,"OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT",Governing Law,Cap On Liability
+5482,"OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT",Non-Disparagement,Cap On Liability
+5483,"OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT",Termination For Convenience,Cap On Liability
+5484,"OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT",Termination For Convenience,Cap On Liability
+5485,"OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT",Anti-Assignment,Cap On Liability
+5486,"OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT",Revenue/Profit Sharing,Cap On Liability
+5487,"OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT",Revenue/Profit Sharing,Cap On Liability
+5488,"OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT",Revenue/Profit Sharing,Cap On Liability
+5489,"OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT",Revenue/Profit Sharing,Cap On Liability
+5490,"OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT",License Grant,Cap On Liability
+5491,"OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT",Audit Rights,Cap On Liability
+5492,"OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT",Cap On Liability,Cap On Liability
+5493,"OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT",Covenant Not To Sue,Cap On Liability
+5540,"GSITECHNOLOGYINC_11_16_2009-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT between SONY ELECTRONICS INC. and GSI TECHNOLOGY, INC.",Expiration Date,Cap On Liability
+5541,"GSITECHNOLOGYINC_11_16_2009-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT between SONY ELECTRONICS INC. and GSI TECHNOLOGY, INC.",Governing Law,Cap On Liability
+5542,"GSITECHNOLOGYINC_11_16_2009-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT between SONY ELECTRONICS INC. and GSI TECHNOLOGY, INC.",Change Of Control,Cap On Liability
+5543,"GSITECHNOLOGYINC_11_16_2009-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT between SONY ELECTRONICS INC. and GSI TECHNOLOGY, INC.",Change Of Control,Cap On Liability
+5544,"GSITECHNOLOGYINC_11_16_2009-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT between SONY ELECTRONICS INC. and GSI TECHNOLOGY, INC.",Anti-Assignment,Cap On Liability
+5545,"GSITECHNOLOGYINC_11_16_2009-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT between SONY ELECTRONICS INC. and GSI TECHNOLOGY, INC.",Anti-Assignment,Cap On Liability
+5546,"GSITECHNOLOGYINC_11_16_2009-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT between SONY ELECTRONICS INC. and GSI TECHNOLOGY, INC.",Ip Ownership Assignment,Cap On Liability
+5547,"GSITECHNOLOGYINC_11_16_2009-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT between SONY ELECTRONICS INC. and GSI TECHNOLOGY, INC.",Ip Ownership Assignment,Cap On Liability
+5548,"GSITECHNOLOGYINC_11_16_2009-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT between SONY ELECTRONICS INC. and GSI TECHNOLOGY, INC.",License Grant,Cap On Liability
+5549,"GSITECHNOLOGYINC_11_16_2009-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT between SONY ELECTRONICS INC. and GSI TECHNOLOGY, INC.",License Grant,Cap On Liability
+5550,"GSITECHNOLOGYINC_11_16_2009-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT between SONY ELECTRONICS INC. and GSI TECHNOLOGY, INC.",License Grant,Cap On Liability
+5551,"GSITECHNOLOGYINC_11_16_2009-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT between SONY ELECTRONICS INC. and GSI TECHNOLOGY, INC.",Non-Transferable License,Cap On Liability
+5552,"GSITECHNOLOGYINC_11_16_2009-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT between SONY ELECTRONICS INC. and GSI TECHNOLOGY, INC.",Audit Rights,Cap On Liability
+5553,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Expiration Date,Cap On Liability
+5554,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Renewal Term,Cap On Liability
+5555,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Renewal Term,Cap On Liability
+5556,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Renewal Term,Cap On Liability
+5557,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Renewal Term,Cap On Liability
+5558,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Governing Law,Cap On Liability
+5559,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Non-Compete,Cap On Liability
+5560,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Non-Compete,Cap On Liability
+5561,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Non-Compete,Cap On Liability
+5562,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Non-Compete,Cap On Liability
+5563,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Exclusivity,Cap On Liability
+5564,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Competitive Restriction Exception,Cap On Liability
+5565,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Competitive Restriction Exception,Cap On Liability
+5566,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Change Of Control,Cap On Liability
+5567,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Anti-Assignment,Cap On Liability
+5568,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Anti-Assignment,Cap On Liability
+5569,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Anti-Assignment,Cap On Liability
+5570,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Anti-Assignment,Cap On Liability
+5571,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Revenue/Profit Sharing,Cap On Liability
+5572,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Revenue/Profit Sharing,Cap On Liability
+5573,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Minimum Commitment,Cap On Liability
+5574,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Minimum Commitment,Cap On Liability
+5575,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Minimum Commitment,Cap On Liability
+5576,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Minimum Commitment,Cap On Liability
+5577,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Minimum Commitment,Cap On Liability
+5578,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Ip Ownership Assignment,Cap On Liability
+5579,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Ip Ownership Assignment,Cap On Liability
+5580,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Ip Ownership Assignment,Cap On Liability
+5581,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,License Grant,Cap On Liability
+5582,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,License Grant,Cap On Liability
+5583,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,License Grant,Cap On Liability
+5584,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,License Grant,Cap On Liability
+5585,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,License Grant,Cap On Liability
+5586,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,License Grant,Cap On Liability
+5587,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,License Grant,Cap On Liability
+5588,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Post-Termination Services,Cap On Liability
+5589,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Post-Termination Services,Cap On Liability
+5590,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Post-Termination Services,Cap On Liability
+5591,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Post-Termination Services,Cap On Liability
+5592,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Post-Termination Services,Cap On Liability
+5593,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Audit Rights,Cap On Liability
+5594,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Audit Rights,Cap On Liability
+5595,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Audit Rights,Cap On Liability
+5596,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Audit Rights,Cap On Liability
+5597,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Cap On Liability,Cap On Liability
+5598,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Cap On Liability,Cap On Liability
+5599,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Insurance,Cap On Liability
+5600,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Insurance,Cap On Liability
+5601,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Insurance,Cap On Liability
+5602,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Insurance,Cap On Liability
+5603,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Insurance,Cap On Liability
+5604,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Insurance,Cap On Liability
+5605,MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement,Covenant Not To Sue,Cap On Liability
+5606,"PAXMEDICA,INC_07_02_2020-EX-10.12-Master Service Agreement",Expiration Date,Cap On Liability
+5607,"PAXMEDICA,INC_07_02_2020-EX-10.12-Master Service Agreement",Governing Law,Cap On Liability
+5608,"PAXMEDICA,INC_07_02_2020-EX-10.12-Master Service Agreement",Termination For Convenience,Cap On Liability
+5609,"PAXMEDICA,INC_07_02_2020-EX-10.12-Master Service Agreement",Anti-Assignment,Cap On Liability
+5610,"PAXMEDICA,INC_07_02_2020-EX-10.12-Master Service Agreement",Anti-Assignment,Cap On Liability
+5611,"PAXMEDICA,INC_07_02_2020-EX-10.12-Master Service Agreement",Anti-Assignment,Cap On Liability
+5612,"PAXMEDICA,INC_07_02_2020-EX-10.12-Master Service Agreement",Ip Ownership Assignment,Cap On Liability
+5613,"PAXMEDICA,INC_07_02_2020-EX-10.12-Master Service Agreement",Ip Ownership Assignment,Cap On Liability
+5614,"PAXMEDICA,INC_07_02_2020-EX-10.12-Master Service Agreement",Post-Termination Services,Cap On Liability
+5615,"PAXMEDICA,INC_07_02_2020-EX-10.12-Master Service Agreement",Cap On Liability,Cap On Liability
+5616,"PAXMEDICA,INC_07_02_2020-EX-10.12-Master Service Agreement",Cap On Liability,Cap On Liability
+5617,"PAXMEDICA,INC_07_02_2020-EX-10.12-Master Service Agreement",Cap On Liability,Cap On Liability
+5657,"DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT",Expiration Date,Cap On Liability
+5658,"DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT",Governing Law,Cap On Liability
+5659,"DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT",Non-Compete,Cap On Liability
+5660,"DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT",No-Solicit Of Employees,Cap On Liability
+5661,"DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT",Termination For Convenience,Cap On Liability
+5662,"DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT",Anti-Assignment,Cap On Liability
+5663,"DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT",Ip Ownership Assignment,Cap On Liability
+5664,"DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT",Ip Ownership Assignment,Cap On Liability
+5665,"DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT",Ip Ownership Assignment,Cap On Liability
+5666,"DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT",Ip Ownership Assignment,Cap On Liability
+5667,"DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT",License Grant,Cap On Liability
+5668,"DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT",Post-Termination Services,Cap On Liability
+5669,"DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT",Cap On Liability,Cap On Liability
+5670,"DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT",Cap On Liability,Cap On Liability
+5792,"HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT",Expiration Date,Cap On Liability
+5793,"HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT",Governing Law,Cap On Liability
+5794,"HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT",Governing Law,Cap On Liability
+5795,"HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT",Exclusivity,Cap On Liability
+5796,"HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT",Exclusivity,Cap On Liability
+5797,"HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT",Exclusivity,Cap On Liability
+5798,"HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT",Competitive Restriction Exception,Cap On Liability
+5799,"HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT",Revenue/Profit Sharing,Cap On Liability
+5800,"HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT",Revenue/Profit Sharing,Cap On Liability
+5801,"HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT",Revenue/Profit Sharing,Cap On Liability
+5802,"HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT",Revenue/Profit Sharing,Cap On Liability
+5803,"HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT",Revenue/Profit Sharing,Cap On Liability
+5804,"HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT",Revenue/Profit Sharing,Cap On Liability
+5805,"HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT",License Grant,Cap On Liability
+5806,"HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT",License Grant,Cap On Liability
+5807,"HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT",Post-Termination Services,Cap On Liability
+5808,"HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT",Audit Rights,Cap On Liability
+5809,"HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT",Cap On Liability,Cap On Liability
+5810,"HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT",Cap On Liability,Cap On Liability
+5874,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Expiration Date,Cap On Liability
+5875,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Governing Law,Cap On Liability
+5876,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Governing Law,Cap On Liability
+5877,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Governing Law,Cap On Liability
+5878,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Governing Law,Cap On Liability
+5879,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Change Of Control,Cap On Liability
+5880,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Change Of Control,Cap On Liability
+5881,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Change Of Control,Cap On Liability
+5882,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Change Of Control,Cap On Liability
+5883,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Change Of Control,Cap On Liability
+5884,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Change Of Control,Cap On Liability
+5885,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Change Of Control,Cap On Liability
+5886,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Change Of Control,Cap On Liability
+5887,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Change Of Control,Cap On Liability
+5888,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Change Of Control,Cap On Liability
+5889,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Change Of Control,Cap On Liability
+5890,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Anti-Assignment,Cap On Liability
+5891,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Anti-Assignment,Cap On Liability
+5892,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Anti-Assignment,Cap On Liability
+5893,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Minimum Commitment,Cap On Liability
+5894,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Volume Restriction,Cap On Liability
+5895,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Audit Rights,Cap On Liability
+5896,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Audit Rights,Cap On Liability
+5897,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Cap On Liability,Cap On Liability
+5898,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Cap On Liability,Cap On Liability
+5899,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Cap On Liability,Cap On Liability
+5900,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Cap On Liability,Cap On Liability
+5901,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Cap On Liability,Cap On Liability
+5902,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Cap On Liability,Cap On Liability
+5903,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Cap On Liability,Cap On Liability
+5904,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Cap On Liability,Cap On Liability
+5905,WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement,Cap On Liability,Cap On Liability
+5906,PANDIONTHERAPEUTICSHOLDCOLLC_05_22_2020-EX-10.17-CONSULTING AGREEMENT,Governing Law,Cap On Liability
+5907,PANDIONTHERAPEUTICSHOLDCOLLC_05_22_2020-EX-10.17-CONSULTING AGREEMENT,No-Solicit Of Employees,Cap On Liability
+5908,PANDIONTHERAPEUTICSHOLDCOLLC_05_22_2020-EX-10.17-CONSULTING AGREEMENT,Termination For Convenience,Cap On Liability
+5909,PANDIONTHERAPEUTICSHOLDCOLLC_05_22_2020-EX-10.17-CONSULTING AGREEMENT,Anti-Assignment,Cap On Liability
+5910,PANDIONTHERAPEUTICSHOLDCOLLC_05_22_2020-EX-10.17-CONSULTING AGREEMENT,Anti-Assignment,Cap On Liability
+5911,PANDIONTHERAPEUTICSHOLDCOLLC_05_22_2020-EX-10.17-CONSULTING AGREEMENT,Anti-Assignment,Cap On Liability
+5912,PANDIONTHERAPEUTICSHOLDCOLLC_05_22_2020-EX-10.17-CONSULTING AGREEMENT,Revenue/Profit Sharing,Cap On Liability
+5913,PANDIONTHERAPEUTICSHOLDCOLLC_05_22_2020-EX-10.17-CONSULTING AGREEMENT,Ip Ownership Assignment,Cap On Liability
+5914,PANDIONTHERAPEUTICSHOLDCOLLC_05_22_2020-EX-10.17-CONSULTING AGREEMENT,Ip Ownership Assignment,Cap On Liability
+5915,PANDIONTHERAPEUTICSHOLDCOLLC_05_22_2020-EX-10.17-CONSULTING AGREEMENT,Ip Ownership Assignment,Cap On Liability
+5916,PANDIONTHERAPEUTICSHOLDCOLLC_05_22_2020-EX-10.17-CONSULTING AGREEMENT,Ip Ownership Assignment,Cap On Liability
+5917,PANDIONTHERAPEUTICSHOLDCOLLC_05_22_2020-EX-10.17-CONSULTING AGREEMENT,Ip Ownership Assignment,Cap On Liability
+5918,PANDIONTHERAPEUTICSHOLDCOLLC_05_22_2020-EX-10.17-CONSULTING AGREEMENT,License Grant,Cap On Liability
+5956,BizzingoInc_20120322_8-K_EX-10.17_7504499_EX-10.17_Endorsement Agreement,Exclusivity,Cap On Liability
+5957,BizzingoInc_20120322_8-K_EX-10.17_7504499_EX-10.17_Endorsement Agreement,Exclusivity,Cap On Liability
+5958,BizzingoInc_20120322_8-K_EX-10.17_7504499_EX-10.17_Endorsement Agreement,Termination For Convenience,Cap On Liability
+5959,BizzingoInc_20120322_8-K_EX-10.17_7504499_EX-10.17_Endorsement Agreement,Anti-Assignment,Cap On Liability
+5960,BizzingoInc_20120322_8-K_EX-10.17_7504499_EX-10.17_Endorsement Agreement,Revenue/Profit Sharing,Cap On Liability
+5961,BizzingoInc_20120322_8-K_EX-10.17_7504499_EX-10.17_Endorsement Agreement,Volume Restriction,Cap On Liability
+5962,BizzingoInc_20120322_8-K_EX-10.17_7504499_EX-10.17_Endorsement Agreement,Volume Restriction,Cap On Liability
+5963,BizzingoInc_20120322_8-K_EX-10.17_7504499_EX-10.17_Endorsement Agreement,License Grant,Cap On Liability
+5964,BizzingoInc_20120322_8-K_EX-10.17_7504499_EX-10.17_Endorsement Agreement,License Grant,Cap On Liability
+5965,BizzingoInc_20120322_8-K_EX-10.17_7504499_EX-10.17_Endorsement Agreement,Audit Rights,Cap On Liability
+5966,BizzingoInc_20120322_8-K_EX-10.17_7504499_EX-10.17_Endorsement Agreement,Audit Rights,Cap On Liability
+5967,BizzingoInc_20120322_8-K_EX-10.17_7504499_EX-10.17_Endorsement Agreement,Insurance,Cap On Liability
+6017,PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT,Expiration Date,Cap On Liability
+6018,PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT,Governing Law,Cap On Liability
+6019,PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT,No-Solicit Of Employees,Cap On Liability
+6020,PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT,Termination For Convenience,Cap On Liability
+6021,PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT,Termination For Convenience,Cap On Liability
+6022,PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT,Change Of Control,Cap On Liability
+6023,PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT,Anti-Assignment,Cap On Liability
+6024,PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT,License Grant,Cap On Liability
+6025,PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT,Audit Rights,Cap On Liability
+6026,PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT,Cap On Liability,Cap On Liability
+6027,PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT,Cap On Liability,Cap On Liability
+6028,PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT,Cap On Liability,Cap On Liability
+6029,PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT,Covenant Not To Sue,Cap On Liability
+6172,PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT,Expiration Date,Cap On Liability
+6173,PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT,Governing Law,Cap On Liability
+6174,PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT,Termination For Convenience,Cap On Liability
+6175,PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT,Anti-Assignment,Cap On Liability
+6176,PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT,Minimum Commitment,Cap On Liability
+6177,PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT,Ip Ownership Assignment,Cap On Liability
+6178,PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT,Post-Termination Services,Cap On Liability
+6179,PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT,Post-Termination Services,Cap On Liability
+6180,PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT,Post-Termination Services,Cap On Liability
+6181,PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT,Post-Termination Services,Cap On Liability
+6182,PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT,Post-Termination Services,Cap On Liability
+6183,PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT,Post-Termination Services,Cap On Liability
+6184,PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT,Post-Termination Services,Cap On Liability
+6185,PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT,Warranty Duration,Cap On Liability
+6186,PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT,Warranty Duration,Cap On Liability
+6187,PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT,Warranty Duration,Cap On Liability
+6188,PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT,Warranty Duration,Cap On Liability
+6189,PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT,Warranty Duration,Cap On Liability
+6190,PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT,Insurance,Cap On Liability
+6191,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Expiration Date,Cap On Liability
+6192,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Renewal Term,Cap On Liability
+6193,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Governing Law,Cap On Liability
+6194,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Termination For Convenience,Cap On Liability
+6195,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Change Of Control,Cap On Liability
+6196,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Anti-Assignment,Cap On Liability
+6197,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Minimum Commitment,Cap On Liability
+6198,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Minimum Commitment,Cap On Liability
+6199,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Minimum Commitment,Cap On Liability
+6200,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Source Code Escrow,Cap On Liability
+6201,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Source Code Escrow,Cap On Liability
+6202,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Source Code Escrow,Cap On Liability
+6203,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Source Code Escrow,Cap On Liability
+6204,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Post-Termination Services,Cap On Liability
+6205,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Post-Termination Services,Cap On Liability
+6206,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Post-Termination Services,Cap On Liability
+6207,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Audit Rights,Cap On Liability
+6208,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Audit Rights,Cap On Liability
+6209,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Cap On Liability,Cap On Liability
+6210,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Cap On Liability,Cap On Liability
+6211,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Cap On Liability,Cap On Liability
+6212,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Cap On Liability,Cap On Liability
+6213,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Liquidated Damages,Cap On Liability
+6214,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Liquidated Damages,Cap On Liability
+6215,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Insurance,Cap On Liability
+6216,TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT,Insurance,Cap On Liability
+6272,"HC2HOLDINGS,INC_05_14_2020-EX-10.1-COOPERATION AGREEMENT",Expiration Date,Cap On Liability
+6273,"HC2HOLDINGS,INC_05_14_2020-EX-10.1-COOPERATION AGREEMENT",Governing Law,Cap On Liability
+6274,"HC2HOLDINGS,INC_05_14_2020-EX-10.1-COOPERATION AGREEMENT",Non-Disparagement,Cap On Liability
+6275,"HC2HOLDINGS,INC_05_14_2020-EX-10.1-COOPERATION AGREEMENT",Anti-Assignment,Cap On Liability
+6286,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Expiration Date,Cap On Liability
+6287,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Governing Law,Cap On Liability
+6288,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Non-Compete,Cap On Liability
+6289,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Non-Compete,Cap On Liability
+6290,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Exclusivity,Cap On Liability
+6291,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Exclusivity,Cap On Liability
+6292,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Competitive Restriction Exception,Cap On Liability
+6293,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,No-Solicit Of Employees,Cap On Liability
+6294,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,No-Solicit Of Employees,Cap On Liability
+6295,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,No-Solicit Of Employees,Cap On Liability
+6296,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Non-Disparagement,Cap On Liability
+6297,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Non-Disparagement,Cap On Liability
+6298,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Rofr/Rofo/Rofn,Cap On Liability
+6299,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Rofr/Rofo/Rofn,Cap On Liability
+6300,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Rofr/Rofo/Rofn,Cap On Liability
+6301,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Rofr/Rofo/Rofn,Cap On Liability
+6302,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Rofr/Rofo/Rofn,Cap On Liability
+6303,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Rofr/Rofo/Rofn,Cap On Liability
+6304,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Rofr/Rofo/Rofn,Cap On Liability
+6305,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Rofr/Rofo/Rofn,Cap On Liability
+6306,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Rofr/Rofo/Rofn,Cap On Liability
+6307,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Rofr/Rofo/Rofn,Cap On Liability
+6308,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Rofr/Rofo/Rofn,Cap On Liability
+6309,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Change Of Control,Cap On Liability
+6310,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Change Of Control,Cap On Liability
+6311,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Anti-Assignment,Cap On Liability
+6312,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Anti-Assignment,Cap On Liability
+6313,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Anti-Assignment,Cap On Liability
+6314,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Anti-Assignment,Cap On Liability
+6315,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Anti-Assignment,Cap On Liability
+6316,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Anti-Assignment,Cap On Liability
+6317,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Revenue/Profit Sharing,Cap On Liability
+6318,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Revenue/Profit Sharing,Cap On Liability
+6319,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Revenue/Profit Sharing,Cap On Liability
+6320,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,License Grant,Cap On Liability
+6321,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,License Grant,Cap On Liability
+6322,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Non-Transferable License,Cap On Liability
+6323,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Non-Transferable License,Cap On Liability
+6324,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Post-Termination Services,Cap On Liability
+6325,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Post-Termination Services,Cap On Liability
+6326,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Audit Rights,Cap On Liability
+6327,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Audit Rights,Cap On Liability
+6328,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Audit Rights,Cap On Liability
+6329,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Audit Rights,Cap On Liability
+6330,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Audit Rights,Cap On Liability
+6331,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Audit Rights,Cap On Liability
+6332,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Audit Rights,Cap On Liability
+6333,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Cap On Liability,Cap On Liability
+6334,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Cap On Liability,Cap On Liability
+6335,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Cap On Liability,Cap On Liability
+6336,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Cap On Liability,Cap On Liability
+6337,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Cap On Liability,Cap On Liability
+6338,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Cap On Liability,Cap On Liability
+6339,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Liquidated Damages,Cap On Liability
+6340,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Liquidated Damages,Cap On Liability
+6341,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Liquidated Damages,Cap On Liability
+6342,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Liquidated Damages,Cap On Liability
+6343,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Insurance,Cap On Liability
+6344,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Covenant Not To Sue,Cap On Liability
+6345,Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ,Covenant Not To Sue,Cap On Liability
+6383,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Expiration Date,Cap On Liability
+6384,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Expiration Date,Cap On Liability
+6385,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Governing Law,Cap On Liability
+6386,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Non-Compete,Cap On Liability
+6387,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Non-Compete,Cap On Liability
+6388,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Exclusivity,Cap On Liability
+6389,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Competitive Restriction Exception,Cap On Liability
+6390,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Competitive Restriction Exception,Cap On Liability
+6391,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Termination For Convenience,Cap On Liability
+6392,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Termination For Convenience,Cap On Liability
+6393,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Change Of Control,Cap On Liability
+6394,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Change Of Control,Cap On Liability
+6395,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Change Of Control,Cap On Liability
+6396,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Change Of Control,Cap On Liability
+6397,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Anti-Assignment,Cap On Liability
+6398,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Anti-Assignment,Cap On Liability
+6399,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Anti-Assignment,Cap On Liability
+6400,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,License Grant,Cap On Liability
+6401,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Insurance,Cap On Liability
+6402,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Insurance,Cap On Liability
+6403,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Insurance,Cap On Liability
+6404,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Insurance,Cap On Liability
+6405,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Insurance,Cap On Liability
+6406,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Insurance,Cap On Liability
+6407,ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement,Covenant Not To Sue,Cap On Liability
+6443,ACCELERATEDTECHNOLOGIESHOLDINGCORP_04_24_2003-EX-10.13-JOINT VENTURE AGREEMENT,Expiration Date,Cap On Liability
+6444,ACCELERATEDTECHNOLOGIESHOLDINGCORP_04_24_2003-EX-10.13-JOINT VENTURE AGREEMENT,Governing Law,Cap On Liability
+6445,ACCELERATEDTECHNOLOGIESHOLDINGCORP_04_24_2003-EX-10.13-JOINT VENTURE AGREEMENT,Anti-Assignment,Cap On Liability
+6446,ACCELERATEDTECHNOLOGIESHOLDINGCORP_04_24_2003-EX-10.13-JOINT VENTURE AGREEMENT,Revenue/Profit Sharing,Cap On Liability
+6447,ACCELERATEDTECHNOLOGIESHOLDINGCORP_04_24_2003-EX-10.13-JOINT VENTURE AGREEMENT,Audit Rights,Cap On Liability
+6448,ACCELERATEDTECHNOLOGIESHOLDINGCORP_04_24_2003-EX-10.13-JOINT VENTURE AGREEMENT,Audit Rights,Cap On Liability
+6451,SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT,Expiration Date,Cap On Liability
+6452,SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT,Governing Law,Cap On Liability
+6453,SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT,Anti-Assignment,Cap On Liability
+6454,SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT,Revenue/Profit Sharing,Cap On Liability
+6455,SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT,Revenue/Profit Sharing,Cap On Liability
+6456,SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT,Revenue/Profit Sharing,Cap On Liability
+6457,SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT,Revenue/Profit Sharing,Cap On Liability
+6458,SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT,Minimum Commitment,Cap On Liability
+6459,SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT,Minimum Commitment,Cap On Liability
+6460,SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT,Minimum Commitment,Cap On Liability
+6461,SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT,Minimum Commitment,Cap On Liability
+6462,SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT,Minimum Commitment,Cap On Liability
+6463,SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT,Minimum Commitment,Cap On Liability
+6464,SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT,Volume Restriction,Cap On Liability
+6465,SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT,Volume Restriction,Cap On Liability
+6466,SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT,Volume Restriction,Cap On Liability
+6467,SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT,Post-Termination Services,Cap On Liability
+6468,SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT,Audit Rights,Cap On Liability
+6469,SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT,Audit Rights,Cap On Liability
+6470,SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT,Cap On Liability,Cap On Liability
+6471,SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT,Cap On Liability,Cap On Liability
+6472,SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT,Cap On Liability,Cap On Liability
+6758,HfEnterprisesInc_20191223_S-1_EX-10.22_11931299_EX-10.22_Development Agreement,Expiration Date,Cap On Liability
+6759,HfEnterprisesInc_20191223_S-1_EX-10.22_11931299_EX-10.22_Development Agreement,Renewal Term,Cap On Liability
+6760,HfEnterprisesInc_20191223_S-1_EX-10.22_11931299_EX-10.22_Development Agreement,Governing Law,Cap On Liability
+6761,HfEnterprisesInc_20191223_S-1_EX-10.22_11931299_EX-10.22_Development Agreement,Termination For Convenience,Cap On Liability
+6762,HfEnterprisesInc_20191223_S-1_EX-10.22_11931299_EX-10.22_Development Agreement,Anti-Assignment,Cap On Liability
+6763,HfEnterprisesInc_20191223_S-1_EX-10.22_11931299_EX-10.22_Development Agreement,Ip Ownership Assignment,Cap On Liability
+6764,HfEnterprisesInc_20191223_S-1_EX-10.22_11931299_EX-10.22_Development Agreement,Ip Ownership Assignment,Cap On Liability
+6765,HfEnterprisesInc_20191223_S-1_EX-10.22_11931299_EX-10.22_Development Agreement,Covenant Not To Sue,Cap On Liability
+6766,HfEnterprisesInc_20191223_S-1_EX-10.22_11931299_EX-10.22_Development Agreement,Covenant Not To Sue,Cap On Liability
+6767,ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement,Expiration Date,Cap On Liability
+6768,ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement,Renewal Term,Cap On Liability
+6769,ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement,Governing Law,Cap On Liability
+6770,ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement,Termination For Convenience,Cap On Liability
+6771,ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement,Anti-Assignment,Cap On Liability
+6772,ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement,Revenue/Profit Sharing,Cap On Liability
+6773,ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement,Revenue/Profit Sharing,Cap On Liability
+6774,ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement,Revenue/Profit Sharing,Cap On Liability
+6775,ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement,Revenue/Profit Sharing,Cap On Liability
+6776,ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement,Revenue/Profit Sharing,Cap On Liability
+6777,ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement,Post-Termination Services,Cap On Liability
+6778,ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement,Audit Rights,Cap On Liability
+6779,ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement,Cap On Liability,Cap On Liability
+6820,TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT,Expiration Date,Cap On Liability
+6821,TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT,Governing Law,Cap On Liability
+6822,TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT,Anti-Assignment,Cap On Liability
+6823,TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT,Anti-Assignment,Cap On Liability
+6824,TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT,Revenue/Profit Sharing,Cap On Liability
+6825,TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT,Minimum Commitment,Cap On Liability
+6826,TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT,Minimum Commitment,Cap On Liability
+6827,TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT,Minimum Commitment,Cap On Liability
+6828,TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT,Volume Restriction,Cap On Liability
+6829,TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT,Volume Restriction,Cap On Liability
+6830,TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT,Volume Restriction,Cap On Liability
+6831,TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT,Volume Restriction,Cap On Liability
+6832,TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT,Post-Termination Services,Cap On Liability
+6833,TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT,Audit Rights,Cap On Liability
+6834,TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT,Liquidated Damages,Cap On Liability
+6994,ScansourceInc_20190822_10-K_EX-10.39_11793959_EX-10.39_Distributor Agreement,Expiration Date,Cap On Liability
+6995,LOOKSMARTLTD_07_20_2012-EX-99.(D)(I)-SPONSORSHIP AGREEMENT,Expiration Date,Cap On Liability
+6996,LOOKSMARTLTD_07_20_2012-EX-99.(D)(I)-SPONSORSHIP AGREEMENT,Governing Law,Cap On Liability
+6997,LOOKSMARTLTD_07_20_2012-EX-99.(D)(I)-SPONSORSHIP AGREEMENT,Anti-Assignment,Cap On Liability
+6998,LOOKSMARTLTD_07_20_2012-EX-99.(D)(I)-SPONSORSHIP AGREEMENT,Anti-Assignment,Cap On Liability
+7142,IMPCOTECHNOLOGIESINC_04_15_2003-EX-10.65-JOINT VENTURE AGREEMENT,Expiration Date,Cap On Liability
+7143,IMPCOTECHNOLOGIESINC_04_15_2003-EX-10.65-JOINT VENTURE AGREEMENT,Governing Law,Cap On Liability
+7144,IMPCOTECHNOLOGIESINC_04_15_2003-EX-10.65-JOINT VENTURE AGREEMENT,Non-Compete,Cap On Liability
+7145,IMPCOTECHNOLOGIESINC_04_15_2003-EX-10.65-JOINT VENTURE AGREEMENT,Exclusivity,Cap On Liability
+7146,IMPCOTECHNOLOGIESINC_04_15_2003-EX-10.65-JOINT VENTURE AGREEMENT,Rofr/Rofo/Rofn,Cap On Liability
+7147,IMPCOTECHNOLOGIESINC_04_15_2003-EX-10.65-JOINT VENTURE AGREEMENT,Rofr/Rofo/Rofn,Cap On Liability
+7148,IMPCOTECHNOLOGIESINC_04_15_2003-EX-10.65-JOINT VENTURE AGREEMENT,Rofr/Rofo/Rofn,Cap On Liability
+7149,IMPCOTECHNOLOGIESINC_04_15_2003-EX-10.65-JOINT VENTURE AGREEMENT,Rofr/Rofo/Rofn,Cap On Liability
+7150,IMPCOTECHNOLOGIESINC_04_15_2003-EX-10.65-JOINT VENTURE AGREEMENT,Minimum Commitment,Cap On Liability
+7151,IMPCOTECHNOLOGIESINC_04_15_2003-EX-10.65-JOINT VENTURE AGREEMENT,Post-Termination Services,Cap On Liability
+7152,IMPCOTECHNOLOGIESINC_04_15_2003-EX-10.65-JOINT VENTURE AGREEMENT,Post-Termination Services,Cap On Liability
+7153,IMPCOTECHNOLOGIESINC_04_15_2003-EX-10.65-JOINT VENTURE AGREEMENT,Audit Rights,Cap On Liability
+7154,IMPCOTECHNOLOGIESINC_04_15_2003-EX-10.65-JOINT VENTURE AGREEMENT,Audit Rights,Cap On Liability
+7155,EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,Expiration Date,Cap On Liability
+7156,EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,Governing Law,Cap On Liability
+7157,EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,Exclusivity,Cap On Liability
+7158,EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,Exclusivity,Cap On Liability
+7159,EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,Termination For Convenience,Cap On Liability
+7160,EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,Change Of Control,Cap On Liability
+7161,EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,Anti-Assignment,Cap On Liability
+7162,EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,Volume Restriction,Cap On Liability
+7163,EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,Ip Ownership Assignment,Cap On Liability
+7164,EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,Ip Ownership Assignment,Cap On Liability
+7165,EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,Ip Ownership Assignment,Cap On Liability
+7166,EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,Joint Ip Ownership,Cap On Liability
+7167,EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,Audit Rights,Cap On Liability
+7168,EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,Audit Rights,Cap On Liability
+7169,EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,Cap On Liability,Cap On Liability
+7170,EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,Covenant Not To Sue,Cap On Liability
+7171,EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,Covenant Not To Sue,Cap On Liability
+7172,EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,Covenant Not To Sue,Cap On Liability
+7173,EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,Covenant Not To Sue,Cap On Liability
+7194,EcoScienceSolutionsInc_20180406_8-K_EX-10.1_11135398_EX-10.1_Sponsorship Agreement,Expiration Date,Cap On Liability
+7195,EcoScienceSolutionsInc_20180406_8-K_EX-10.1_11135398_EX-10.1_Sponsorship Agreement,Governing Law,Cap On Liability
+7196,EcoScienceSolutionsInc_20180406_8-K_EX-10.1_11135398_EX-10.1_Sponsorship Agreement,Anti-Assignment,Cap On Liability
+7197,EcoScienceSolutionsInc_20180406_8-K_EX-10.1_11135398_EX-10.1_Sponsorship Agreement,Insurance,Cap On Liability
+7199,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Expiration Date,Cap On Liability
+7200,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Renewal Term,Cap On Liability
+7201,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Governing Law,Cap On Liability
+7202,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Governing Law,Cap On Liability
+7203,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Non-Compete,Cap On Liability
+7204,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Non-Compete,Cap On Liability
+7205,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Non-Compete,Cap On Liability
+7206,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Non-Compete,Cap On Liability
+7207,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Non-Compete,Cap On Liability
+7208,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Non-Compete,Cap On Liability
+7209,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Non-Compete,Cap On Liability
+7210,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Competitive Restriction Exception,Cap On Liability
+7211,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Competitive Restriction Exception,Cap On Liability
+7212,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",No-Solicit Of Employees,Cap On Liability
+7213,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",No-Solicit Of Employees,Cap On Liability
+7214,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Rofr/Rofo/Rofn,Cap On Liability
+7215,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Rofr/Rofo/Rofn,Cap On Liability
+7216,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Change Of Control,Cap On Liability
+7217,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Change Of Control,Cap On Liability
+7218,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Change Of Control,Cap On Liability
+7219,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Change Of Control,Cap On Liability
+7220,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Anti-Assignment,Cap On Liability
+7221,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Anti-Assignment,Cap On Liability
+7222,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Anti-Assignment,Cap On Liability
+7223,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Revenue/Profit Sharing,Cap On Liability
+7224,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Revenue/Profit Sharing,Cap On Liability
+7225,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Revenue/Profit Sharing,Cap On Liability
+7226,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Minimum Commitment,Cap On Liability
+7227,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Minimum Commitment,Cap On Liability
+7228,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Minimum Commitment,Cap On Liability
+7229,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Minimum Commitment,Cap On Liability
+7230,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Minimum Commitment,Cap On Liability
+7231,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Minimum Commitment,Cap On Liability
+7232,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Ip Ownership Assignment,Cap On Liability
+7233,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Ip Ownership Assignment,Cap On Liability
+7234,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Ip Ownership Assignment,Cap On Liability
+7235,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",License Grant,Cap On Liability
+7236,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",License Grant,Cap On Liability
+7237,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Non-Transferable License,Cap On Liability
+7238,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Post-Termination Services,Cap On Liability
+7239,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Audit Rights,Cap On Liability
+7240,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Audit Rights,Cap On Liability
+7241,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Audit Rights,Cap On Liability
+7242,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Audit Rights,Cap On Liability
+7243,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Cap On Liability,Cap On Liability
+7244,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Cap On Liability,Cap On Liability
+7245,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Cap On Liability,Cap On Liability
+7246,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Cap On Liability,Cap On Liability
+7247,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Cap On Liability,Cap On Liability
+7248,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Cap On Liability,Cap On Liability
+7249,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Liquidated Damages,Cap On Liability
+7250,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Insurance,Cap On Liability
+7251,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Insurance,Cap On Liability
+7252,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Insurance,Cap On Liability
+7253,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Insurance,Cap On Liability
+7254,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Insurance,Cap On Liability
+7255,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Insurance,Cap On Liability
+7256,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Insurance,Cap On Liability
+7257,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Insurance,Cap On Liability
+7258,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Insurance,Cap On Liability
+7259,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Insurance,Cap On Liability
+7260,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Insurance,Cap On Liability
+7261,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Insurance,Cap On Liability
+7262,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Insurance,Cap On Liability
+7263,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Insurance,Cap On Liability
+7264,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Insurance,Cap On Liability
+7265,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Insurance,Cap On Liability
+7266,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Covenant Not To Sue,Cap On Liability
+7267,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Covenant Not To Sue,Cap On Liability
+7268,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Covenant Not To Sue,Cap On Liability
+7269,"GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",Covenant Not To Sue,Cap On Liability
+7305,IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement,Expiration Date,Cap On Liability
+7306,IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement,Governing Law,Cap On Liability
+7307,IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement,Rofr/Rofo/Rofn,Cap On Liability
+7308,IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement,Anti-Assignment,Cap On Liability
+7309,IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement,Anti-Assignment,Cap On Liability
+7310,IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement,Revenue/Profit Sharing,Cap On Liability
+7311,IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement,Revenue/Profit Sharing,Cap On Liability
+7312,IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement,Revenue/Profit Sharing,Cap On Liability
+7313,IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement,License Grant,Cap On Liability
+7314,IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement,License Grant,Cap On Liability
+7468,PhotronicsInc_20171219_10-QA_EX-10.28_10982650_EX-10.28_Outsourcing Agreement,Expiration Date,Cap On Liability
+7469,PhotronicsInc_20171219_10-QA_EX-10.28_10982650_EX-10.28_Outsourcing Agreement,Cap On Liability,Cap On Liability
+7470,PhotronicsInc_20171219_10-QA_EX-10.28_10982650_EX-10.28_Outsourcing Agreement,Cap On Liability,Cap On Liability
+7471,PhotronicsInc_20171219_10-QA_EX-10.28_10982650_EX-10.28_Outsourcing Agreement,Cap On Liability,Cap On Liability
+7472,PhotronicsInc_20171219_10-QA_EX-10.28_10982650_EX-10.28_Outsourcing Agreement,Warranty Duration,Cap On Liability
+7473,PhotronicsInc_20171219_10-QA_EX-10.28_10982650_EX-10.28_Outsourcing Agreement,Warranty Duration,Cap On Liability
+7474,PhotronicsInc_20171219_10-QA_EX-10.28_10982650_EX-10.28_Outsourcing Agreement,Warranty Duration,Cap On Liability
+7488,EMERALDHEALTHTHERAPEUTICSINC_06_10_2020-EX-4.5-CONSULTING AGREEMENT - DR. GAETANO MORELLO N.D. INC.,Expiration Date,Cap On Liability
+7489,EMERALDHEALTHTHERAPEUTICSINC_06_10_2020-EX-4.5-CONSULTING AGREEMENT - DR. GAETANO MORELLO N.D. INC.,Governing Law,Cap On Liability
+7490,EMERALDHEALTHTHERAPEUTICSINC_06_10_2020-EX-4.5-CONSULTING AGREEMENT - DR. GAETANO MORELLO N.D. INC.,Termination For Convenience,Cap On Liability
+7491,EMERALDHEALTHTHERAPEUTICSINC_06_10_2020-EX-4.5-CONSULTING AGREEMENT - DR. GAETANO MORELLO N.D. INC.,Termination For Convenience,Cap On Liability
+7492,EMERALDHEALTHTHERAPEUTICSINC_06_10_2020-EX-4.5-CONSULTING AGREEMENT - DR. GAETANO MORELLO N.D. INC.,Anti-Assignment,Cap On Liability
+7589,PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement1,Governing Law,Cap On Liability
+7590,PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement1,Anti-Assignment,Cap On Liability
+7591,PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement1,License Grant,Cap On Liability
+7592,PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement1,Cap On Liability,Cap On Liability
+7593,PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement1,Cap On Liability,Cap On Liability
+7594,PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement1,Cap On Liability,Cap On Liability
+7609,ALCOSTORESINC_12_14_2005-EX-10.26-AGENCY AGREEMENT,Termination For Convenience,Cap On Liability
+7610,ALCOSTORESINC_12_14_2005-EX-10.26-AGENCY AGREEMENT,License Grant,Cap On Liability
+7611,ALCOSTORESINC_12_14_2005-EX-10.26-AGENCY AGREEMENT,Audit Rights,Cap On Liability
+7646,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,Termination For Convenience,Cap On Liability
+7647,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,Termination For Convenience,Cap On Liability
+7648,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,Change Of Control,Cap On Liability
+7649,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,Ip Ownership Assignment,Cap On Liability
+7650,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,Ip Ownership Assignment,Cap On Liability
+7651,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,Ip Ownership Assignment,Cap On Liability
+7652,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,Ip Ownership Assignment,Cap On Liability
+7653,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,Ip Ownership Assignment,Cap On Liability
+7654,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,Ip Ownership Assignment,Cap On Liability
+7655,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,License Grant,Cap On Liability
+7656,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,License Grant,Cap On Liability
+7657,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,License Grant,Cap On Liability
+7658,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,License Grant,Cap On Liability
+7659,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,Non-Transferable License,Cap On Liability
+7660,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,Non-Transferable License,Cap On Liability
+7661,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,Non-Transferable License,Cap On Liability
+7662,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,Non-Transferable License,Cap On Liability
+7663,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,Non-Transferable License,Cap On Liability
+7664,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,Post-Termination Services,Cap On Liability
+7665,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,Covenant Not To Sue,Cap On Liability
+7666,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,Covenant Not To Sue,Cap On Liability
+7667,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,Covenant Not To Sue,Cap On Liability
+7668,INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT,Covenant Not To Sue,Cap On Liability
+7682,"NOVOINTEGRATEDSCIENCES,INC_12_23_2019-EX-10.1-JOINT VENTURE AGREEMENT",Expiration Date,Cap On Liability
+7683,"NOVOINTEGRATEDSCIENCES,INC_12_23_2019-EX-10.1-JOINT VENTURE AGREEMENT",Renewal Term,Cap On Liability
+7684,"NOVOINTEGRATEDSCIENCES,INC_12_23_2019-EX-10.1-JOINT VENTURE AGREEMENT",Renewal Term,Cap On Liability
+7685,"NOVOINTEGRATEDSCIENCES,INC_12_23_2019-EX-10.1-JOINT VENTURE AGREEMENT",Anti-Assignment,Cap On Liability
+7686,"NOVOINTEGRATEDSCIENCES,INC_12_23_2019-EX-10.1-JOINT VENTURE AGREEMENT",Anti-Assignment,Cap On Liability
+7687,"NOVOINTEGRATEDSCIENCES,INC_12_23_2019-EX-10.1-JOINT VENTURE AGREEMENT",Revenue/Profit Sharing,Cap On Liability
+7688,"NOVOINTEGRATEDSCIENCES,INC_12_23_2019-EX-10.1-JOINT VENTURE AGREEMENT",Revenue/Profit Sharing,Cap On Liability
+7689,"NOVOINTEGRATEDSCIENCES,INC_12_23_2019-EX-10.1-JOINT VENTURE AGREEMENT",Revenue/Profit Sharing,Cap On Liability
+7690,"NOVOINTEGRATEDSCIENCES,INC_12_23_2019-EX-10.1-JOINT VENTURE AGREEMENT",Revenue/Profit Sharing,Cap On Liability
+7691,"NOVOINTEGRATEDSCIENCES,INC_12_23_2019-EX-10.1-JOINT VENTURE AGREEMENT",Minimum Commitment,Cap On Liability
+7708,XinhuaSportsEntertainmentLtd_20070221_F-1_EX-99.4_645553_EX-99.4_Content License Agreement,Expiration Date,Cap On Liability
+7709,XinhuaSportsEntertainmentLtd_20070221_F-1_EX-99.4_645553_EX-99.4_Content License Agreement,Renewal Term,Cap On Liability
+7710,XinhuaSportsEntertainmentLtd_20070221_F-1_EX-99.4_645553_EX-99.4_Content License Agreement,Governing Law,Cap On Liability
+7711,XinhuaSportsEntertainmentLtd_20070221_F-1_EX-99.4_645553_EX-99.4_Content License Agreement,Exclusivity,Cap On Liability
+7712,XinhuaSportsEntertainmentLtd_20070221_F-1_EX-99.4_645553_EX-99.4_Content License Agreement,Termination For Convenience,Cap On Liability
+7713,XinhuaSportsEntertainmentLtd_20070221_F-1_EX-99.4_645553_EX-99.4_Content License Agreement,License Grant,Cap On Liability
+7714,XinhuaSportsEntertainmentLtd_20070221_F-1_EX-99.4_645553_EX-99.4_Content License Agreement,License Grant,Cap On Liability
+7715,MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT,Expiration Date,Cap On Liability
+7716,MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT,Governing Law,Cap On Liability
+7717,MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT,No-Solicit Of Employees,Cap On Liability
+7718,MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT,Anti-Assignment,Cap On Liability
+7719,MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT,Ip Ownership Assignment,Cap On Liability
+7720,MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT,Ip Ownership Assignment,Cap On Liability
+7721,MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT,Ip Ownership Assignment,Cap On Liability
+7722,MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT,Ip Ownership Assignment,Cap On Liability
+7723,MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT,License Grant,Cap On Liability
+7724,MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT,Cap On Liability,Cap On Liability
+7725,MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT,Cap On Liability,Cap On Liability
+7726,MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT,Cap On Liability,Cap On Liability
+7727,MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT,Insurance,Cap On Liability

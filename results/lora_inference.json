@@ -1,0 +1,6 @@
+{
+  "median_ms": 7.939049988635816,
+  "p95_ms": 21.057475003181025,
+  "throughput_seconds_per_clause": 0.0009670983379495677,
+  "note": "adapter not merged into the base weights"
+}

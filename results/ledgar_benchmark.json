@@ -1,0 +1,17 @@
+{
+  "ms_per_step_batch8": 41.41923000012563,
+  "steps_per_epoch": 7500,
+  "val_eval_seconds": 15.941999499991653,
+  "projected_epoch_minutes": 5.443103741682232,
+  "peak_gpu_mem_gb": 3.211709952,
+  "projection_hours": {
+    "6_epochs_x_1_seeds": 0.5443103741682231,
+    "6_epochs_x_3_seeds": 1.6329311225046694,
+    "8_epochs_x_1_seeds": 0.725747165557631,
+    "8_epochs_x_3_seeds": 2.1772414966728926,
+    "10_epochs_x_1_seeds": 0.9071839569470387,
+    "10_epochs_x_3_seeds": 2.721551870841116,
+    "20_epochs_x_1_seeds": 1.8143679138940774,
+    "20_epochs_x_3_seeds": 5.443103741682232
+  }
+}

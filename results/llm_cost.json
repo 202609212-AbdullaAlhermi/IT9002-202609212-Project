@@ -1,0 +1,71 @@
+{
+  "price_assumption": {
+    "gpu_usd_per_hour": 0.8048,
+    "cpu_usd_per_hour": 0.1785,
+    "primary": "https://aws.amazon.com/ec2/pricing/on-demand/",
+    "gpu_instance": "g6.xlarge (1x NVIDIA L4)",
+    "cpu_instance": "c7i.xlarge",
+    "read_on": "2026-10-22",
+    "cross_checks": [
+      "https://calculator.holori.com/aws/ec2/g6.xlarge/us-east-1",
+      "https://calculator.holori.com/aws/ec2/c7i.xlarge/us-east-1",
+      "https://www.doit.com/compute/spot/us-east-1/g6.xlarge"
+    ],
+    "note": "timings measured on an RTX 5080 (GPU) / local CPU; price of a comparable cloud instance applied"
+  },
+  "api_fee": 0,
+  "rows": [
+    {
+      "model": "TF-IDF + LogReg (best classical)",
+      "device": "CPU",
+      "macro-F1 (test)": 0.7939235074354168,
+      "cost per 1,000 clauses USD (batched)": 1.0362944136670303e-05,
+      "throughput clauses/s (batched)": 4784.676312002668,
+      "cost per 1,000 clauses USD (batch 1)": 2.549822918543517e-05,
+      "latency median ms (batch 1)": 0.5142500003785244,
+      "latency p95 ms (batch 1)": 0.9312849997513692,
+      "peak GPU memory GB": 0.0,
+      "training seconds (one-off)": 6.15,
+      "parameters": "69,247 features x 27"
+    },
+    {
+      "model": "Legal-BERT (fine-tuned)",
+      "device": "GPU",
+      "macro-F1 (test)": 0.8708271934335488,
+      "cost per 1,000 clauses USD (batched)": 0.00021674361341951368,
+      "throughput clauses/s (batched)": 1031.4285714285716,
+      "cost per 1,000 clauses USD (batch 1)": 0.0012934700888585617,
+      "latency median ms (batch 1)": 5.785899999864341,
+      "latency p95 ms (batch 1)": 6.52411499995651,
+      "peak GPU memory GB": 0.646351872,
+      "training seconds (one-off)": 94.25,
+      "parameters": "110 M"
+    },
+    {
+      "model": "Qwen2.5-1.5B-Instruct (v2)",
+      "device": "GPU",
+      "macro-F1 (test)": 0.4508034703413895,
+      "cost per 1,000 clauses USD (batched)": 0.00806960199993909,
+      "throughput clauses/s (batched)": 27.70341778407943,
+      "cost per 1,000 clauses USD (batch 1)": 0.02806987028893693,
+      "latency median ms (batch 1)": 125.56105000021489,
+      "latency p95 ms (batch 1)": 171.03457499997603,
+      "peak GPU memory GB": 6.988013568,
+      "training seconds (one-off)": 0.0,
+      "parameters": "1.54 B"
+    },
+    {
+      "model": "Qwen2.5-3B-Instruct (v2)",
+      "device": "GPU",
+      "macro-F1 (test)": 0.5563988437089813,
+      "cost per 1,000 clauses USD (batched)": 0.015363523999753537,
+      "throughput clauses/s (batched)": 14.551059741185801,
+      "cost per 1,000 clauses USD (batch 1)": 0.042514856622302935,
+      "latency median ms (batch 1)": 190.17580000036105,
+      "latency p95 ms (batch 1)": 256.9249200003469,
+      "peak GPU memory GB": 11.177202688,
+      "training seconds (one-off)": 0.0,
+      "parameters": "3.09 B"
+    }
+  ]
+}

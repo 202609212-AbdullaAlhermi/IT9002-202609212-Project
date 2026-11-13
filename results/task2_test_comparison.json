@@ -1,0 +1,30 @@
+{
+  "ci": {
+    "t2_tfidf_segments": {
+      "point": 0.3943810159283924,
+      "ci_low": 0.36653178609800185,
+      "ci_high": 0.4313586756396402,
+      "boot_median": 0.39909018700695004,
+      "n_boot": 1000
+    },
+    "t2_legalbert_tagger": {
+      "point": 0.5229689008676477,
+      "ci_low": 0.4903321101962853,
+      "ci_high": 0.559620787137735,
+      "boot_median": 0.5261465020479345,
+      "n_boot": 1000
+    }
+  },
+  "paired_tagger_vs_baseline": {
+    "diff": 0.12858788493925527,
+    "ci_low": 0.09904396052520825,
+    "ci_high": 0.15507119380488874,
+    "p_a_not_better": 0.0,
+    "n_boot": 1000
+  },
+  "oracle_test_macro_f1": 0.9975718884791243,
+  "segment_oracle_test": {
+    "macro_f1": 0.8588623921517247,
+    "micro_f1": 0.8446215139442231
+  }
+}

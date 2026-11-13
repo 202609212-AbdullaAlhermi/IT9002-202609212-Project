@@ -1,0 +1,31 @@
+{
+  "max_len": 320,
+  "chosen_from": "max of the 99th percentiles of the train token lengths under both tokenizers, rounded up to x32",
+  "stats": {
+    "Legal-BERT": {
+      "median": 53.0,
+      "p95": 174.0,
+      "p99": 311.8599999999997,
+      "max": 1180,
+      "mean": 69.28041104688504,
+      "truncated_at_max_len_%": {
+        "train": 0.940733772342427,
+        "validation": 0.4873294346978557,
+        "test": 0.554016620498615
+      }
+    },
+    "BERT-base": {
+      "median": 54.0,
+      "p95": 177.0,
+      "p99": 314.4399999999987,
+      "max": 1171,
+      "mean": 70.5898522800257,
+      "truncated_at_max_len_%": {
+        "train": 0.9783631232361243,
+        "validation": 0.4873294346978557,
+        "test": 0.554016620498615
+      }
+    }
+  },
+  "bert_to_legalbert_token_ratio": 1.0189005985004116
+}

@@ -1,0 +1,30 @@
+{
+  "majority": {
+    "median_ms": 0.018799997633323073,
+    "p95_ms": 0.02765999925031792,
+    "throughput_seconds_per_clause": 4.404432414721316e-08,
+    "reproduces_saved_test_predictions": true,
+    "device": "CPU"
+  },
+  "tfidf_complementnb": {
+    "median_ms": 0.9472000019741245,
+    "p95_ms": 1.0917200001131275,
+    "throughput_seconds_per_clause": 4.478746537501934e-05,
+    "reproduces_saved_test_predictions": true,
+    "device": "CPU"
+  },
+  "tfidf_linearsvc": {
+    "median_ms": 0.46704999840585515,
+    "p95_ms": 0.7749249991320538,
+    "throughput_seconds_per_clause": 0.00018685013850614103,
+    "reproduces_saved_test_predictions": true,
+    "device": "CPU"
+  },
+  "bert_base": {
+    "median_ms": 5.843599999934668,
+    "p95_ms": 13.772185003836057,
+    "throughput_seconds_per_clause": 0.000886426592797784,
+    "peak_gpu_mem_gb_batch1": 0.646259712,
+    "device": "NVIDIA GeForce RTX 5080"
+  }
+}

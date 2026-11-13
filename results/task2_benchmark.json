@@ -1,0 +1,39 @@
+{
+  "128/64": {
+    "ms_per_step_batch16": 40.189464999997426,
+    "train_windows_total": 57549,
+    "windows_with_spans": 12503,
+    "windows_per_epoch": 21512,
+    "projected_epoch_minutes": 0.9005789282082757,
+    "peak_gpu_mem_gb": 2.378571776
+  },
+  "256/128": {
+    "ms_per_step_batch16": 53.444054999999935,
+    "train_windows_total": 28684,
+    "windows_with_spans": 8650,
+    "windows_per_epoch": 12656,
+    "projected_epoch_minutes": 0.7045707917499991,
+    "peak_gpu_mem_gb": 3.157927424
+  },
+  "384/192": {
+    "ms_per_step_batch16": 72.25412000000233,
+    "train_windows_total": 19061,
+    "windows_with_spans": 7033,
+    "windows_per_epoch": 9438,
+    "projected_epoch_minutes": 0.710348317250023,
+    "peak_gpu_mem_gb": 3.926460928
+  },
+  "510/255": {
+    "ms_per_step_batch16": 95.17071000000215,
+    "train_windows_total": 14331,
+    "windows_with_spans": 6121,
+    "windows_per_epoch": 7763,
+    "projected_epoch_minutes": 0.7695939809687674,
+    "peak_gpu_mem_gb": 4.728912896
+  },
+  "projection_256_128": {
+    "runs": 5,
+    "epochs": 4,
+    "projected_training_hours": 0.23485693058333307
+  }
+}

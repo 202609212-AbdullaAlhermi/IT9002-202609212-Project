@@ -1,0 +1,16 @@
+{
+  "read_on": "2026-10-22",
+  "primary": {
+    "source": "Amazon Web Services, Amazon EC2 On-Demand Pricing (Linux, US East (N. Virginia))",
+    "url": "https://aws.amazon.com/ec2/pricing/on-demand/",
+    "how_read": "the page's published price file (https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/ec2/USD/current/ec2-ondemand-without-sec-sel/US%20East%20(N.%20Virginia)/Linux/index.json), publication date 2026-10-15T19:13:16Z",
+    "g6.xlarge": {"usd_per_hour": 0.8048, "gpu": "1 x NVIDIA L4", "vcpu": 4, "memory": "16 GiB", "rate_code": "TPKUC6XYSUQ3VFK2.JRTCKXETXF.6YS6EN2CT7"},
+    "c7i.xlarge": {"usd_per_hour": 0.1785, "vcpu": 4, "memory": "8 GiB", "rate_code": "D8WVCVBE32N227KA.JRTCKXETXF.6YS6EN2CT7"}
+  },
+  "cross_checks": [
+    {"source": "Holori AWS price calculator (page last updated Oct 21, 2026)", "url": "https://calculator.holori.com/aws/ec2/g6.xlarge/us-east-1", "g6.xlarge": 0.8048},
+    {"source": "Holori AWS price calculator (page last updated Oct 21, 2026)", "url": "https://calculator.holori.com/aws/ec2/c7i.xlarge/us-east-1", "c7i.xlarge": 0.1785},
+    {"source": "DoiT compute pricing (search result summary)", "url": "https://www.doit.com/compute/spot/us-east-1/g6.xlarge", "g6.xlarge": 0.8048}
+  ],
+  "assumption": "Timings were measured on an RTX 5080 (GPU) and a local desktop CPU; the hourly price of a comparable cloud instance (L4 GPU, a different GPU from the one measured) is applied. Order-of-magnitude comparison on one common basis, not a quote."
+}

@@ -1,0 +1,11 @@
+{
+  "v4_val_macro_f1": 0.694345190379621,
+  "v2_val_macro_f1": 0.5631921990155648,
+  "nearest_label_correct": 0.716374269005848,
+  "true_label_in_top3": 0.8245614035087719,
+  "v4_equals_nearest_label": 0.8206627680311891,
+  "tested_model_unchanged": "qwen25_3b_v2",
+  "nn1_val_macro_f1": 0.6550503458829181,
+  "nn3_vote_val_macro_f1": 0.6609997295683021,
+  "share_of_v4_gain_from_retrieval": 0.7457514276684846
+}

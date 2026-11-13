@@ -1,0 +1,16 @@
+{
+  "variant": "bce_plain",
+  "test_run": "t2_bce_plain_s42_e8",
+  "val_macro_f1_seed42": 0.4825232860044291,
+  "val_macro_f1_mean": 0.4887730106711505,
+  "val_macro_f1_std": 0.005521278475255023,
+  "n_seeds": 3,
+  "epoch_extension": {
+    "triggered": true,
+    "epochs": 8,
+    "val_macro_f1_4_epochs": 0.457632620461725,
+    "val_macro_f1_extended": 0.4825232860044291,
+    "adopted": true
+  },
+  "epochs": 8
+}

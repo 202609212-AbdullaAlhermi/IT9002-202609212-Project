@@ -1,0 +1,6 @@
+category,clause,q,p,combined,verified,unusual,in_gold
+Termination For Convenience,This Agreement shall automatically terminate at and as of (the first to occur of): (a) 12:00 midnight...,0.638,0.001,0.638,True,True,False
+Anti-Assignment,This Agreement may not be assigned by any party or by operation of law or otherwise without the prior written consent  of each of the other ...,0.973,0.996,0.973,True,False,True
+Governing Law,"This Agreement shall be governed by and construed in accordance with, the laws of the  State of New York applicable to contracts executed in...",0.96,0.998,0.96,True,False,False
+Cap On Liability,No party shall be  entitled to recover lost profits or benefit of the bargain damages....,0.958,0.995,0.958,True,False,False
+Liquidated Damages,"An amount equal to any termination or similar fee received by Purchaser, including, without limitation, any such fee  paid by the Company or...",0.794,0.875,0.794,True,False,False

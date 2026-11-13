@@ -1,0 +1,134 @@
+timestamp,model,stage,seconds,device,notes
+2026-10-21T13:46:26,preprocessing_study,greedy_forward_selection,71.59,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + LinearSVC(C=1), validation only"
+2026-10-21T14:43:54,classical_search,grid_search,3432.94,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",5776 configs; 14 parallel CPU workers; validation only
+2026-10-21T14:43:55,tfidf_complementnb,train_final,0.31,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-21T14:43:57,tfidf_linearsvc,train_final,1.8,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-21T14:44:03,tfidf_logreg,train_final,6.15,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-21T20:41:11,transformer_plan,all_runs,1261.88,NVIDIA GeForce RTX 5080,LR search x2 models + 2 extra seeds x2 + class-weight run
+2026-10-21T20:47:40,legalbert,train_final,94.25,NVIDIA GeForce RTX 5080,5 epochs incl. validation; best epoch 4; peak 3.7 GB
+2026-10-21T20:47:40,legalbert,inference_test_gpu,1.4,NVIDIA GeForce RTX 5080,"1,444 test clauses, batch 64, bf16"
+2026-10-21T20:47:40,bert_base,train_final,95.06,NVIDIA GeForce RTX 5080,5 epochs incl. validation; best epoch 5; peak 3.7 GB
+2026-10-21T20:47:40,bert_base,inference_test_gpu,1.28,NVIDIA GeForce RTX 5080,"1,444 test clauses, batch 64, bf16"
+2026-10-22T12:20:51,t2_tfidf_segments,grid_search,64.76,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","first, narrower grid (C <= 10, thresholds 0.3-0.7); optimum on the edge -> grid extended"
+2026-10-22T12:23:28,t2_tfidf_segments,grid_search,128.88,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","extended grid: 108 settings (C <= 100, thresholds 0.1-0.9); validation only"
+2026-10-22T12:23:34,transformer_sensitivity,all_runs,593.49,NVIDIA GeForce RTX 5080,lr 7e-5/1e-4 x 2 models + BERT-base 8 epochs; validation only
+2026-10-22T12:42:48,t2_tagger_plan,all_runs,1091.43,NVIDIA GeForce RTX 5080,3 loss variants + 2 extra seeds; validation only
+2026-10-22T13:04:29,t2_tagger_plan,epoch_extension,1269.05,NVIDIA GeForce RTX 5080,rule: chosen variant re-trained with 8 epochs if best epoch was last; validation only
+2026-10-22T13:06:05,t2_tfidf_segments,train_final,14.18,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + 27 one-vs-rest LogReg, selected config, train segments"
+2026-10-22T13:09:50,t2_tfidf_segments,train_final,14.46,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + 27 one-vs-rest LogReg, selected config, train segments"
+2026-10-22T13:10:58,t2_legalbert_tagger,train_final,431.79,NVIDIA GeForce RTX 5080,"8 epochs x 791 steps (batch 16, window 256) incl. validation decoding; peak 3.3 GB"
+2026-10-22T13:10:58,t2_legalbert_tagger,inference_test_gpu,6.4,NVIDIA GeForce RTX 5080,"102 test contracts, all windows, bf16"
+2026-10-22T13:10:58,t2_tfidf_segments,inference_test_cpu,12.3,CPU,102 test contracts: segmentation + TF-IDF + 27 LogReg + merging
+2026-10-22T13:15:00,preprocessing_study,greedy_forward_selection,86.32,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + LinearSVC(C=1), validation only"
+2026-10-22T13:15:40,tfidf_complementnb,train_final,0.31,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","refit of selected config on train"
+2026-10-22T13:15:42,tfidf_linearsvc,train_final,1.88,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","refit of selected config on train"
+2026-10-22T13:15:49,tfidf_logreg,train_final,6.57,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","refit of selected config on train"
+2026-10-22T15:33:43,t2_window_sensitivity,train_384_192,459.97,NVIDIA GeForce RTX 5080,"bce_plain, 8 epochs, seed 42, window 384/192; validation only"
+2026-10-22T15:36:51,qwen25_1p5b_v1,inference_validation_gpu,16.88,NVIDIA GeForce RTX 5080,"1026 clauses, greedy, batch 32 (shrinks for long prompts), bf16"
+2026-10-22T15:37:28,qwen25_1p5b_v2,inference_validation_gpu,36.87,NVIDIA GeForce RTX 5080,"1026 clauses, greedy, batch 32 (shrinks for long prompts), bf16"
+2026-10-22T15:39:19,qwen25_1p5b_v3,inference_validation_gpu,111.38,NVIDIA GeForce RTX 5080,"1026 clauses, greedy, batch 8 (shrinks for long prompts), bf16"
+2026-10-22T15:39:52,qwen25_3b_v1,inference_validation_gpu,29.36,NVIDIA GeForce RTX 5080,"1026 clauses, greedy, batch 32 (shrinks for long prompts), bf16"
+2026-10-22T15:41:03,qwen25_3b_v2,inference_validation_gpu,71.38,NVIDIA GeForce RTX 5080,"1026 clauses, greedy, batch 32 (shrinks for long prompts), bf16"
+2026-10-22T15:44:31,qwen25_3b_v3,inference_validation_gpu,207.22,NVIDIA GeForce RTX 5080,"1026 clauses, greedy, batch 8 (shrinks for long prompts), bf16"
+2026-10-22T15:50:19,t2_tfidf_segments,train_final,14.39,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + 27 one-vs-rest LogReg, selected config, train segments"
+2026-10-22T15:54:11,qwen25_1p5b_v2,inference_test_gpu,53.2,NVIDIA GeForce RTX 5080,"1444 clauses, greedy, batch 32 (shrinks for long prompts), bf16"
+2026-10-22T15:56:00,qwen25_3b_v2,inference_test_gpu,100.33,NVIDIA GeForce RTX 5080,"1444 clauses, greedy, batch 32 (shrinks for long prompts), bf16"
+2026-10-22T15:57:44,TF-IDF + LogReg (best classical),latency_batch1,0.051,CPU,"100 validation clauses at batch 1 (approx. = median x 100); median 0.5 ms, p95 0.9 ms (CPU; saved in results/llm/latency_tfidf_logreg.json)"
+2026-10-22T15:57:44,Legal-BERT (fine-tuned),latency_batch1,0.579,GPU,"100 validation clauses at batch 1 (approx. = median x 100); median 5.8 ms, p95 6.5 ms"
+2026-10-22T15:57:44,Qwen2.5-1.5B-Instruct (v2),latency_batch1,12.556,GPU,"100 validation clauses at batch 1 (approx. = median x 100); median 125.6 ms, p95 171.0 ms"
+2026-10-22T15:57:44,Qwen2.5-3B-Instruct (v2),latency_batch1,19.018,GPU,"100 validation clauses at batch 1 (approx. = median x 100); median 190.2 ms, p95 256.9 ms"
+2026-10-22T16:00:41,t2_tfidf_segments,train_final,14.49,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + 27 one-vs-rest LogReg, selected config, train segments"
+2026-10-22T21:40:53,tfidf_ledgar,grid_search,423.5,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",32 configs; validation only
+2026-10-22T21:41:09,qwen25_3b_v4,inference_validation_gpu,194.88,NVIDIA GeForce RTX 5080,"1026 clauses, retrieval few-shot (analysis only), batch 16; GPU shared with the LEDGAR training job"
+2026-10-22T21:42:31,t2_tfidf_segments,train_final,14.09,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + 27 one-vs-rest LogReg, selected config, train segments"
+2026-10-22T22:35:49,legalbert_ledgar_s42,train,3667.83,NVIDIA GeForce RTX 5080,"LEDGAR, lr 3e-5, batch 8, max_len 512, early stopping (patience 3)"
+2026-10-22T23:35:59,legalbert_ledgar_s43,train,3610.61,NVIDIA GeForce RTX 5080,"LEDGAR, lr 3e-5, batch 8, max_len 512, early stopping (patience 3)"
+2026-10-23T00:36:38,legalbert_ledgar_s44,train,3638.78,NVIDIA GeForce RTX 5080,"LEDGAR, lr 3e-5, batch 8, max_len 512, early stopping (patience 3)"
+2026-10-23T00:39:33,preprocessing_study,greedy_forward_selection,93.85,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + LinearSVC(C=1), validation only"
+2026-10-23T00:40:16,tfidf_complementnb,train_final,0.36,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","refit of selected config on train"
+2026-10-23T00:40:18,tfidf_linearsvc,train_final,2.05,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","refit of selected config on train"
+2026-10-23T00:40:26,tfidf_logreg,train_final,7.18,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","refit of selected config on train"
+2026-10-23T00:43:52,tfidf_ledgar,train_final,21.94,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of the selected TF-IDF + LinearSVC configuration on LEDGAR train
+2026-10-23T00:58:09,preprocessing_study,greedy_forward_selection,92.84,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + LinearSVC(C=1), validation only"
+2026-10-23T00:58:52,tfidf_complementnb,train_final,0.34,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","refit of selected config on train"
+2026-10-23T00:58:54,tfidf_linearsvc,train_final,1.93,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","refit of selected config on train"
+2026-10-23T00:59:01,tfidf_logreg,train_final,6.79,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","refit of selected config on train"
+2026-10-23T01:02:27,tfidf_ledgar,train_final,21.67,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of the selected TF-IDF + LinearSVC configuration on LEDGAR train
+2026-10-23T05:40:45,legalbert_ledgar_sub5k_s42,train,479.78,NVIDIA GeForce RTX 5080,stratified 5000-provision subset of LEDGAR train; validation only
+2026-10-23T05:40:57,tfidf_ledgar_sub5k,grid_search,11.11,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","stratified 5000-provision subset; C x loss grid, all features; validation only"
+2026-10-23T05:47:41,t2_tfidf_segments,train_final,13.64,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + 27 one-vs-rest LogReg, selected config, train segments"
+2026-10-23T05:52:13,preprocessing_study,greedy_forward_selection,86.34,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + LinearSVC(C=1), validation only"
+2026-10-23T05:52:53,tfidf_complementnb,train_final,0.31,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-23T05:52:55,tfidf_linearsvc,train_final,1.8,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-23T05:53:02,tfidf_logreg,train_final,6.61,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-23T05:56:18,tfidf_ledgar,train_final,21.3,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of the selected TF-IDF + LinearSVC configuration on LEDGAR train
+2026-10-23T06:09:40,preprocessing_study,greedy_forward_selection,86.17,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + LinearSVC(C=1), validation only"
+2026-10-23T06:10:20,tfidf_complementnb,train_final,0.32,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-23T06:10:22,tfidf_linearsvc,train_final,1.87,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-23T06:10:29,tfidf_logreg,train_final,6.58,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-23T06:13:45,tfidf_ledgar,train_final,21.22,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of the selected TF-IDF + LinearSVC configuration on LEDGAR train
+2026-10-23T07:38:29,legalbert_lora_plan,all_runs,322.14,NVIDIA GeForce RTX 5080,"LoRA r16/a32 q,v: lr search x3 (seed 42) + 2 extra seeds; validation only"
+2026-10-23T07:45:51,preprocessing_study,greedy_forward_selection,87.06,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + LinearSVC(C=1), validation only"
+2026-10-23T07:46:31,tfidf_complementnb,train_final,0.32,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-23T07:46:33,tfidf_linearsvc,train_final,1.82,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-23T07:46:39,tfidf_logreg,train_final,6.58,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-23T07:49:54,tfidf_ledgar,train_final,21.06,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of the selected TF-IDF + LinearSVC configuration on LEDGAR train
+2026-10-23T08:02:38,t2_tfidf_segments,train_final,13.8,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + 27 one-vs-rest LogReg, selected config, train segments"
+2026-10-23T08:06:26,t2_tfidf_segments,train_final,13.51,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + 27 one-vs-rest LogReg, selected config, train segments"
+2026-10-23T08:12:59,preprocessing_study,greedy_forward_selection,86.69,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + LinearSVC(C=1), validation only"
+2026-10-23T08:13:39,tfidf_complementnb,train_final,0.31,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-23T08:13:41,tfidf_linearsvc,train_final,1.82,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-23T08:13:48,tfidf_logreg,train_final,6.58,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-23T08:17:03,tfidf_ledgar,train_final,20.83,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of the selected TF-IDF + LinearSVC configuration on LEDGAR train
+2026-10-23T08:30:01,preprocessing_study,greedy_forward_selection,86.68,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + LinearSVC(C=1), validation only"
+2026-10-23T08:30:41,tfidf_complementnb,train_final,0.31,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-23T08:30:43,tfidf_linearsvc,train_final,1.86,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-23T08:30:49,tfidf_logreg,train_final,6.45,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-23T08:34:04,tfidf_ledgar,train_final,20.9,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of the selected TF-IDF + LinearSVC configuration on LEDGAR train
+2026-10-23T16:54:54,legalbert_lora_sensitivity,all_runs,194.59,NVIDIA GeForce RTX 5080,"LoRA lr 1e-3 x 10 epochs and lr 3e-3 x 5 epochs, seed 42; validation only"
+2026-10-23T16:57:42,preprocessing_study,greedy_forward_selection,94.2,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + LinearSVC(C=1), validation only"
+2026-10-23T16:58:36,tfidf_complementnb,train_final,0.36,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-23T16:58:39,tfidf_linearsvc,train_final,2.1,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-23T16:58:47,tfidf_logreg,train_final,7.82,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-23T17:02:33,tfidf_ledgar,train_final,27.16,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of the selected TF-IDF + LinearSVC configuration on LEDGAR train
+2026-10-28T11:22:46,preprocessing_study,greedy_forward_selection,86.56,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + LinearSVC(C=1), validation only"
+2026-10-28T11:23:33,tfidf_complementnb,train_final,0.31,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-28T11:23:35,tfidf_linearsvc,train_final,1.8,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-28T11:23:42,tfidf_logreg,train_final,6.23,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-28T11:26:54,tfidf_ledgar,train_final,19.99,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of the selected TF-IDF + LinearSVC configuration on LEDGAR train
+2026-10-28T11:39:15,t2_tfidf_segments,train_final,13.04,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + 27 one-vs-rest LogReg, selected config, train segments"
+2026-10-28T15:23:26,preprocessing_study,greedy_forward_selection,86.48,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + LinearSVC(C=1), validation only"
+2026-10-28T15:24:11,tfidf_complementnb,train_final,0.39,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-28T15:24:13,tfidf_linearsvc,train_final,2.03,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-28T15:24:20,tfidf_logreg,train_final,7.29,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-28T15:27:52,tfidf_ledgar,train_final,27.41,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of the selected TF-IDF + LinearSVC configuration on LEDGAR train
+2026-10-28T16:47:42,preprocessing_study,greedy_forward_selection,87.24,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + LinearSVC(C=1), validation only"
+2026-10-28T16:48:25,tfidf_complementnb,train_final,0.33,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-28T16:48:27,tfidf_linearsvc,train_final,1.96,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-28T16:48:33,tfidf_logreg,train_final,6.39,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-28T16:52:14,tfidf_ledgar,train_final,23.15,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of the selected TF-IDF + LinearSVC configuration on LEDGAR train
+2026-10-28T17:05:00,t2_tfidf_segments,train_final,14.88,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + 27 one-vs-rest LogReg, selected config, train segments"
+2026-10-28T17:33:53,t2_tfidf_segments,train_final,14.86,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + 27 one-vs-rest LogReg, selected config, train segments"
+2026-10-28T17:39:14,preprocessing_study,greedy_forward_selection,87.69,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + LinearSVC(C=1), validation only"
+2026-10-28T17:39:58,tfidf_complementnb,train_final,0.33,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-28T17:40:00,tfidf_linearsvc,train_final,1.9,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-28T17:40:07,tfidf_logreg,train_final,6.67,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-10-28T17:43:34,tfidf_ledgar,train_final,23.55,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of the selected TF-IDF + LinearSVC configuration on LEDGAR train
+2026-10-28T17:55:55,t2_tfidf_segments,train_final,14.92,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + 27 one-vs-rest LogReg, selected config, train segments"
+2026-10-28T18:22:44,t2_tfidf_segments,train_final,12.61,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + 27 one-vs-rest LogReg, selected config, train segments"
+2026-11-04T13:03:57,preprocessing_study,greedy_forward_selection,92.28,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + LinearSVC(C=1), validation only"
+2026-11-04T13:04:41,tfidf_complementnb,train_final,0.33,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-11-04T13:04:43,tfidf_linearsvc,train_final,1.8,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-11-04T13:04:49,tfidf_logreg,train_final,6.23,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-11-04T13:08:10,tfidf_ledgar,train_final,20.04,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of the selected TF-IDF + LinearSVC configuration on LEDGAR train
+2026-11-04T13:20:51,t2_tfidf_segments,train_final,12.98,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + 27 one-vs-rest LogReg, selected config, train segments"
+2026-11-13T16:51:33,preprocessing_study,greedy_forward_selection,93.06,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + LinearSVC(C=1), validation only"
+2026-11-13T16:52:20,tfidf_complementnb,train_final,0.33,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-11-13T16:52:23,tfidf_linearsvc,train_final,2.08,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-11-13T16:52:29,tfidf_logreg,train_final,6.59,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of selected config on train
+2026-11-13T16:55:59,tfidf_ledgar,train_final,22.84,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)",refit of the selected TF-IDF + LinearSVC configuration on LEDGAR train
+2026-11-13T17:09:12,t2_tfidf_segments,train_final,14.45,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + 27 one-vs-rest LogReg, selected config, train segments"
+2026-11-13T18:02:47,t2_tfidf_segments,train_final,14.28,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + 27 one-vs-rest LogReg, selected config, train segments"
+2026-11-13T18:07:30,t2_tfidf_segments,train_final,14.69,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + 27 one-vs-rest LogReg, selected config, train segments"
+2026-11-13T18:34:43,t2_tfidf_segments,train_final,15.28,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + 27 one-vs-rest LogReg, selected config, train segments"
+2026-11-13T18:40:17,t2_tfidf_segments,train_final,14.37,"CPU (AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD, 16 threads)","TF-IDF + 27 one-vs-rest LogReg, selected config, train segments"

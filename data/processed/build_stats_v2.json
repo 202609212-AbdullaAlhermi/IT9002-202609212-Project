@@ -1,0 +1,256 @@
+{
+ "n_contracts": 510,
+ "n_official_test_contracts": 102,
+ "spans_total": 13823,
+ "spans_misaligned_with_context": 0,
+ "dropped_categories": [
+  "Affiliate License-Licensee",
+  "Affiliate License-Licensor",
+  "Irrevocable Or Perpetual License",
+  "Most Favored Nation",
+  "No-Solicit Of Customers",
+  "Notice Period To Terminate Renewal",
+  "Price Restrictions",
+  "Third Party Beneficiary",
+  "Uncapped Liability",
+  "Unlimited/All-You-Can-Eat-License"
+ ],
+ "kept_categories": [
+  "Anti-Assignment",
+  "Audit Rights",
+  "Cap On Liability",
+  "Change Of Control",
+  "Competitive Restriction Exception",
+  "Covenant Not To Sue",
+  "Exclusivity",
+  "Expiration Date",
+  "Governing Law",
+  "Insurance",
+  "Ip Ownership Assignment",
+  "Joint Ip Ownership",
+  "License Grant",
+  "Liquidated Damages",
+  "Minimum Commitment",
+  "No-Solicit Of Employees",
+  "Non-Compete",
+  "Non-Disparagement",
+  "Non-Transferable License",
+  "Post-Termination Services",
+  "Renewal Term",
+  "Revenue/Profit Sharing",
+  "Rofr/Rofo/Rofn",
+  "Source Code Escrow",
+  "Termination For Convenience",
+  "Volume Restriction",
+  "Warranty Duration"
+ ],
+ "single_label_before_dedup": 7830,
+ "ambiguous_clauses": 557,
+ "duplicates_removed_from_val_test": 45,
+ "task1_clauses": 7785,
+ "task1_split_clauses": {
+  "train": 5315,
+  "test": 1444,
+  "validation": 1026
+ },
+ "task1_split_contracts": {
+  "test": 93,
+  "train": 323,
+  "validation": 65
+ },
+ "all_contracts_per_split": {
+  "train": 343,
+  "test": 102,
+  "validation": 65
+ },
+ "task2_spans": 8993,
+ "task2_spans_per_split": {
+  "train": 6084,
+  "test": 1682,
+  "validation": 1227
+ },
+ "task2_multi_category_spans": 1163,
+ "task2_contracts_with_spans_per_split": {
+  "test": 93,
+  "train": 323,
+  "validation": 65
+ },
+ "clause_words_median": 41.0,
+ "clause_words_p95": 129.0,
+ "per_class": {
+  "Cap On Liability": {
+   "test": 115,
+   "train": 449,
+   "validation": 86,
+   "total": 650
+  },
+  "Audit Rights": {
+   "test": 101,
+   "train": 446,
+   "validation": 86,
+   "total": 633
+  },
+  "Anti-Assignment": {
+   "test": 121,
+   "train": 407,
+   "validation": 76,
+   "total": 604
+  },
+  "Insurance": {
+   "test": 116,
+   "train": 359,
+   "validation": 73,
+   "total": 548
+  },
+  "License Grant": {
+   "test": 85,
+   "train": 339,
+   "validation": 63,
+   "total": 487
+  },
+  "Governing Law": {
+   "test": 87,
+   "train": 312,
+   "validation": 58,
+   "total": 457
+  },
+  "Expiration Date": {
+   "test": 74,
+   "train": 278,
+   "validation": 54,
+   "total": 406
+  },
+  "Revenue/Profit Sharing": {
+   "test": 83,
+   "train": 269,
+   "validation": 54,
+   "total": 406
+  },
+  "Post-Termination Services": {
+   "test": 70,
+   "train": 274,
+   "validation": 52,
+   "total": 396
+  },
+  "Minimum Commitment": {
+   "test": 80,
+   "train": 258,
+   "validation": 53,
+   "total": 391
+  },
+  "Rofr/Rofo/Rofn": {
+   "test": 62,
+   "train": 230,
+   "validation": 44,
+   "total": 336
+  },
+  "Ip Ownership Assignment": {
+   "test": 56,
+   "train": 202,
+   "validation": 40,
+   "total": 298
+  },
+  "Exclusivity": {
+   "test": 44,
+   "train": 193,
+   "validation": 36,
+   "total": 273
+  },
+  "Termination For Convenience": {
+   "test": 39,
+   "train": 154,
+   "validation": 30,
+   "total": 223
+  },
+  "Non-Compete": {
+   "test": 48,
+   "train": 144,
+   "validation": 28,
+   "total": 220
+  },
+  "Change Of Control": {
+   "test": 49,
+   "train": 136,
+   "validation": 23,
+   "total": 208
+  },
+  "Covenant Not To Sue": {
+   "test": 43,
+   "train": 104,
+   "validation": 19,
+   "total": 166
+  },
+  "Warranty Duration": {
+   "test": 18,
+   "train": 124,
+   "validation": 24,
+   "total": 166
+  },
+  "Renewal Term": {
+   "test": 24,
+   "train": 117,
+   "validation": 23,
+   "total": 164
+  },
+  "Volume Restriction": {
+   "test": 31,
+   "train": 110,
+   "validation": 21,
+   "total": 162
+  },
+  "Liquidated Damages": {
+   "test": 21,
+   "train": 68,
+   "validation": 14,
+   "total": 103
+  },
+  "Joint Ip Ownership": {
+   "test": 10,
+   "train": 75,
+   "validation": 16,
+   "total": 101
+  },
+  "Non-Transferable License": {
+   "test": 19,
+   "train": 64,
+   "validation": 13,
+   "total": 96
+  },
+  "Competitive Restriction Exception": {
+   "test": 17,
+   "train": 60,
+   "validation": 11,
+   "total": 88
+  },
+  "No-Solicit Of Employees": {
+   "test": 15,
+   "train": 54,
+   "validation": 11,
+   "total": 80
+  },
+  "Source Code Escrow": {
+   "test": 4,
+   "train": 47,
+   "validation": 11,
+   "total": 62
+  },
+  "Non-Disparagement": {
+   "test": 12,
+   "train": 42,
+   "validation": 7,
+   "total": 61
+  }
+ },
+ "smallest_test_class": [
+  "Source Code Escrow",
+  4
+ ],
+ "smallest_validation_class": [
+  "Non-Disparagement",
+  7
+ ],
+ "raw_sha256": {
+  "CUADv1.json": "ed0b77d85bdf4014d7495800e8e4a70565b48ee6f8a2e5dca9cf8655dbf10eae",
+  "cuad_official_test.json": "007b6a40b0c65247f881627375c3d2e9b6aeeb5dfa89957494feed0765a1a073"
+ }
+}

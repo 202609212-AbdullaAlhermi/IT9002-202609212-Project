@@ -1,0 +1,22 @@
+{
+  "theta_inside": 0.6,
+  "theta_begin": 0.3,
+  "min_tokens": 10,
+  "per_category_split_half": [
+    {
+      "tuned on half": 0,
+      "scored on half": 1,
+      "global macro-F1": 0.6084413330051693,
+      "per-category macro-F1": 0.5720018190445807,
+      "categories with >= 10 spans (tuned)": 22
+    },
+    {
+      "tuned on half": 1,
+      "scored on half": 0,
+      "global macro-F1": 0.5063676566301868,
+      "per-category macro-F1": 0.527252122510362,
+      "categories with >= 10 spans (tuned)": 23
+    }
+  ],
+  "use_per_category": false
+}

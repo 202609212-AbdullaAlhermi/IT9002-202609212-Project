@@ -1,0 +1,15 @@
+{
+  "best_lr": 5e-05,
+  "seed_for_test": 42,
+  "unweighted_val_mean": 0.8483677030464092,
+  "unweighted_val_std": 0.004487242398449866,
+  "class_weighted_val_mean": 0.8487549852061947,
+  "class_weighted_val_std": 0.011657515185523245,
+  "class_weighted_gain": 0.00038728215978556246,
+  "seed_spread": 0.008034281222884632,
+  "use_class_weights": false,
+  "test_runs": {
+    "legalbert": "legalbert_lr5e-05_s42",
+    "bert": "bert_lr5e-05_s42"
+  }
+}

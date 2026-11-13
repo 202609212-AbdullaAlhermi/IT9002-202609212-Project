@@ -1,0 +1,6 @@
+{
+  "median_ms": 0.5142500003785244,
+  "p95_ms": 0.9312849997513692,
+  "throughput_seconds_per_clause": 0.00020900055401688005,
+  "device": "CPU"
+}

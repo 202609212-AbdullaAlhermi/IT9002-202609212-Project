@@ -1,0 +1,13 @@
+{
+  "best_classical": "tfidf_logreg",
+  "second": "tfidf_linearsvc",
+  "paired_bootstrap_test": {
+    "diff": 0.007692805790128099,
+    "ci_low": -0.011260157217275376,
+    "ci_high": 0.02397039482070087,
+    "boot_median": 0.0058387361280196615,
+    "p_a_not_better": 0.25,
+    "n_boot": 1000
+  },
+  "O2_gap": 0.7884594160187918
+}

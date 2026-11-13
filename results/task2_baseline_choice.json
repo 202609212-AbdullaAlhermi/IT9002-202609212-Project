@@ -1,0 +1,16 @@
+{
+  "C": 30.0,
+  "class_weight": null,
+  "threshold": 0.2,
+  "val_macro_f1": 0.43173809858536766,
+  "tfidf": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "lowercase": true,
+    "sublinear_tf": true,
+    "min_df": 2
+  },
+  "search_seconds": 134.51496480000003
+}

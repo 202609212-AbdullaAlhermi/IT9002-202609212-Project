@@ -1,0 +1,10 @@
+new class,likely confused with,why,centroid cosine,median cosine to all other classes
+Non-Transferable License,License Grant,both describe the licence that is granted,0.7735857731180333,0.4284535431901112
+Non-Transferable License,Anti-Assignment,both restrict transfer / assignment,0.5396032381448523,0.4284535431901112
+No-Solicit Of Employees,Non-Compete,both are post-contract restrictive covenants,0.5793498661786076,0.3586139003515257
+Competitive Restriction Exception,Exclusivity,an exception is written inside the exclusivity clause,0.7014325016052615,0.5185405619020279
+Competitive Restriction Exception,Non-Compete,an exception is written inside the non-compete clause,0.6985005367291806,0.5185405619020279
+Liquidated Damages,Cap On Liability,both fix an amount payable on breach,0.491818789592003,0.4074688861068315
+Joint Ip Ownership,Ip Ownership Assignment,both decide who owns intellectual property,0.6693218475337054,0.41809813588247147
+Source Code Escrow,License Grant,escrow release usually triggers a licence to the code,0.3860063805520451,0.3345807441064996
+Non-Disparagement,Covenant Not To Sue,both restrict what one party may say or do against the other,0.5567111403929229,0.40362081229419733
